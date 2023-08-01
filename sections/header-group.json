@@ -5,10 +5,10 @@
     "8b760dbe-420c-4eb8-a92e-b9d3da89e741": {
       "type": "top-menu",
       "settings": {
-        "first-text": "First Test Default",
-        "first-url": "",
-        "second-text": "Second Test Default",
-        "second-url": "",
+        "first-text": "1800 429 522",
+        "first-url": "tel:1800429522",
+        "second-text": "Free Consultation",
+        "second-url": "\/",
         "padding_top": 0,
         "padding_bottom": 0
       }
