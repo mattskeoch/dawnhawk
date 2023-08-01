@@ -121,6 +121,18 @@
                   {%- endif -%}
                 </li>
               {%- endfor -%}
+              <li>
+                <a
+                  id="HeaderDrawer-{{ link.handle }}"
+                  href="{{ link.url }}"
+                  class="menu-drawer__menu-item list-menu__item link link--text focus-inset{% if link.current %} menu-drawer__menu-item--active{% endif %}"
+                  {% if link.current %}
+                    aria-current="page"
+                  {% endif %}
+                >
+                  <strong>Free Consultation</strong>
+                </a>
+              </li>
               <hr>
               <li>
                 <a
@@ -133,19 +145,6 @@
                 >
                   {%- render 'icon-phone' -%}
                   1800 429 522
-                </a>
-              </li>
-
-              <li>
-                <a
-                  id="HeaderDrawer-{{ link.handle }}"
-                  href="{{ link.url }}"
-                  class="menu-drawer__menu-item list-menu__item link link--text focus-inset{% if link.current %} menu-drawer__menu-item--active{% endif %}"
-                  {% if link.current %}
-                    aria-current="page"
-                  {% endif %}
-                >
-                  <strong>Free Consultation</strong>
                 </a>
               </li>
             </ul>
