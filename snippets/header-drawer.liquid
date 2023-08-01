@@ -147,6 +147,19 @@
                   1800 429 522
                 </a>
               </li>
+              <li>
+                <a
+                  id="HeaderDrawer-{{ link.handle }}"
+                  href="tel:1800429522"
+                  class="menu-drawer__menu-item list-menu__item link link--text focus-inset{% if link.current %} menu-drawer__menu-item--active{% endif %}"
+                  {% if link.current %}
+                    aria-current="page"
+                  {% endif %}
+                >
+                  {%- render 'icon-phone' -%}
+                  1800 429 522
+                </a>
+              </li>
             </ul>
           </nav>
           <div class="menu-drawer__utility-links">
