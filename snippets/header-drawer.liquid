@@ -133,6 +133,18 @@
                   <strong>Free Consultation</strong>
                 </a>
               </li>
+              <li>
+                <a
+                  id="HeaderDrawer-{{ link.handle }}"
+                  href="{{ link.url }}"
+                  class="menu-drawer__menu-item list-menu__item link link--text focus-inset{% if link.current %} menu-drawer__menu-item--active{% endif %}"
+                  {% if link.current %}
+                    aria-current="page"
+                  {% endif %}
+                >
+                  <strong>Call us on: 1800 429 522</strong>
+                </a>
+              </li>
             </ul>
           </nav>
           <div class="menu-drawer__utility-links">
