@@ -123,7 +123,6 @@
               {%- endfor -%}
               <hr>
               <li>
-                {%- render 'icon-phone' -%}
                 <a
                   id="HeaderDrawer-{{ link.handle }}"
                   href="tel:1800429522"
@@ -132,6 +131,7 @@
                     aria-current="page"
                   {% endif %}
                 >
+                  {%- render 'icon-phone' -%}
                   Call Us: 1800 429 522
                 </a>
               </li>
