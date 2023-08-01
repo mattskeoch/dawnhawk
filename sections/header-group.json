@@ -8,7 +8,9 @@
         "first-text": "First Test Default",
         "first-url": "",
         "second-text": "Second Test Default",
-        "second-url": ""
+        "second-url": "",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "header": {
