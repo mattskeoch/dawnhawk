@@ -276,9 +276,9 @@
     {%- if settings.cart_type == 'drawer' -%}
       {%- render 'cart-drawer' -%}
     {%- endif -%}
+    {% section 'top-menu' %}
 
     {% sections 'header-group' %}
-    {% section 'top-menu' %}
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
     </main>
@@ -291,6 +291,7 @@
     </ul>
 
     <script>
+      
       
       
       window.shopUrl = '{{ request.origin }}';
@@ -331,6 +332,7 @@
         recipientFormExpanded: `{{ 'recipient.form.expanded' | t }}`,
         recipientFormCollapsed: `{{ 'recipient.form.collapsed' | t }}`,
       };
+
 
 
     </script>
