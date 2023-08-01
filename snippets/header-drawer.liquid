@@ -230,6 +230,12 @@
               </div>
             {%- endif -%}
             <ul class="list list-social list-unstyled" role="list">
+              <li class="list-social__item">
+                <a href="tel:1800429522" class="list-social__link link">
+                  {%- render 'icon-phone' -%}
+                  <span class="visually-hidden">1800 429 522</span>
+                </a>
+              </li>
               {%- if settings.social_twitter_link != blank -%}
                 <li class="list-social__item">
                   <a href="{{ settings.social_twitter_link }}" class="list-social__link link">
@@ -302,12 +308,6 @@
                   </a>
                 </li>
               {%- endif -%}
-              <li class="list-social__item">
-                <a href="tel:1800429522" class="list-social__link link">
-                  {%- render 'icon-phone' -%}
-                  <span class="visually-hidden">1800 429 522</span>
-                </a>
-              </li>
             </ul>
           </div>
         </div>
