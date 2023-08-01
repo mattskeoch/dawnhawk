@@ -23,31 +23,34 @@
 </section>
 
 {% style %}
+  .top-menu-container {
+    max-width: var(--page-width);
+    margin: 0 auto;
+  }
+
+  .top-menu {
+    display: flex;
+    justify-content: end;
+    padding-top: {{ section.settings.padding_top }}px;
+    padding-bottom: {{ section.settings.padding_bottom }}px;
+    gap: 1rem;
+  }
+
+  .first-option {
+    display: flex;
+  }
+
+  .first-option a,
+  .second-option a{
+    display: flex;
+    gap: 4px;
+  }
+
+  @media screen and (max-width: 767px) {
     .top-menu {
-      display: flex;
-      justify-content: end;
-      max-width: var(--page-width);
-  margin: 0 auto;
-      padding-top: {{ section.settings.padding_top }}px;
-      padding-bottom: {{ section.settings.padding_bottom }}px;
-      gap: 1rem;
+      display: none;
     }
-
-    .first-option {
-      display: flex;
-    }
-
-    .first-option a,
-    .second-option a{
-      display: flex;
-      gap: 4px;
-    }
-
-    @media screen and (max-width: 767px) {
-      .top-menu {
-        display: none;
-      }
-    }
+  }
 {% endstyle %}
 
 {% schema %}
