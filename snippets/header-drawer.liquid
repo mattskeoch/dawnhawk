@@ -229,12 +229,6 @@
                 {%- endif -%}
               </div>
             {%- endif -%}
-            <a href="{{ section.settings.second-url }}" class="animate--hover-3d-lift">
-              {% render 'icon-phone' %}
-              <p class="second-option--text">{{ section.settings['second-text'] }}</p>
-            </a>
-
-            <p>Call us on <a href="tel:1800429522">1800 429 522</a></p>
             <ul class="list list-social list-unstyled" role="list">
               {%- if settings.social_twitter_link != blank -%}
                 <li class="list-social__item">
@@ -308,6 +302,12 @@
                   </a>
                 </li>
               {%- endif -%}
+              <li class="list-social__item">
+                <a href="tel:1800429522" class="list-social__link link">
+                  {%- render 'icon-phone' -%}
+                  <span class="visually-hidden">1800 429 522</span>
+                </a>
+              </li>
             </ul>
           </div>
         </div>
