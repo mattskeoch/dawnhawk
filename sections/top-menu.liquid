@@ -1,12 +1,83 @@
-{% schema %}
-  {
-    "name": "Section name",
-    "settings": []
+<section class="top-menu">
+  <div class="first-option">
+    <img class="first-option--img motion-reduce" url="{{ section.settings.first-image | image_url: width: 30  }}">
+    <a href="{{ section.settings.first-url }}">
+      <p class="first-option--text">{{ section.settings['first-text'] }}</p>
+    </a>
+  </div>
+
+  <div class="second-option">
+    <img class="second-option--img motion-reduce" url="{{ section.settings.second-image | image_url: width: 30  }}">
+    <a href="{{ section.settings.second-url }}">
+      <p class="second-option--text">{{ section.settings['second-text'] }}</p>
+    </a>
+  </div>
+</section>
+
+{% style %}
+  section .top-menu {
+        padding-top: {{ section.settings.padding_top }}px;
+        padding-bottom: {{ section.settings.padding_bottom }}px;
   }
+
+  .top-menu {
+    display: flex;
+  }
+
+  .first-option {
+    display: flex;
+
+  }
+{% endstyle %}
+
+{% schema %}
+{
+  "name": "Top Menu",
+  "class": "top-menu",
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "first-image",
+      "label": "First Image"
+    },
+    {
+      "type": "text",
+      "id": "first-text",
+      "label": "First Text",
+      "placeholder": "First Test Placeholder",
+      "default": "First Test Default"
+    },
+    {
+      "type": "url",
+      "id": "first-url",
+      "label": "First URL"
+    },
+    {
+      "type": "image_picker",
+      "id": "second-image",
+      "label": "Second Image"
+    },
+    {
+      "type": "text",
+      "id": "second-text",
+      "label": "Second Text",
+      "placeholder": "Second Text Placeholder",
+      "default": "Second Test Default"
+    },
+    {
+      "type": "url",
+      "id": "second-url",
+      "label": "Second URL"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Top Menu Banner",
+      "category": "Banners",
+      "settings": {
+
+      }
+    }
+  ]
+}
 {% endschema %}
-
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
