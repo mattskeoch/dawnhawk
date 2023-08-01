@@ -1,13 +1,11 @@
 <section class="top-menu">
   <div class="first-option">
-    <img class="first-option--img motion-reduce" url="{{ section.settings.first-image | image_url: width: 30  }}">
     <a href="{{ section.settings.first-url }}">
       <p class="first-option--text">{{ section.settings['first-text'] }}</p>
     </a>
   </div>
 
   <div class="second-option">
-    <img class="second-option--img motion-reduce" url="{{ section.settings.second-image | image_url: width: 30  }}">
     <a href="{{ section.settings.second-url }}">
       <p class="second-option--text">{{ section.settings['second-text'] }}</p>
     </a>
@@ -39,11 +37,7 @@
   "name": "Top Menu",
   "class": "top-menu",
   "settings": [
-    {
-      "type": "image_picker",
-      "id": "first-image",
-      "label": "First Image"
-    },
+
     {
       "type": "text",
       "id": "first-text",
@@ -55,11 +49,6 @@
       "type": "url",
       "id": "first-url",
       "label": "First URL"
-    },
-    {
-      "type": "image_picker",
-      "id": "second-image",
-      "label": "Second Image"
     },
     {
       "type": "text",
