@@ -33,13 +33,20 @@
             "heading": "Location",
             "subtext": "<p>10 Cowcher Pacel, Belmont WA 6104<\/p>"
           }
+        },
+        "5453c947-2d64-44d5-8b2c-25a469e80555": {
+          "type": "html_content",
+          "settings": {
+            "html_area": "xdvfsvxv"
+          }
         }
       },
       "block_order": [
         "809a31cc-718a-4c06-91ff-278e499d0872",
         "9277543a-220a-4337-b32b-cfe72971aed1",
         "0caa156c-cc5c-4c76-b0e4-0be131f64a4b",
-        "eaddcc93-073a-4ee4-954c-e7f52cd86393"
+        "eaddcc93-073a-4ee4-954c-e7f52cd86393",
+        "5453c947-2d64-44d5-8b2c-25a469e80555"
       ],
       "settings": {
         "color_scheme": "inverse",
