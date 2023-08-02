@@ -31,7 +31,8 @@
         "0caa156c-cc5c-4c76-b0e4-0be131f64a4b"
       ],
       "custom_css": [
-        ".rte img {border: none;}"
+        ".rte img {border: none;}",
+        "[class^=\"icon\"] {width: 20px; position: relative; top: 4px; fill: #fff;}"
       ],
       "settings": {
         "color_scheme": "inverse",
