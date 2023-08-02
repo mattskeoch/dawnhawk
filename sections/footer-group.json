@@ -14,7 +14,7 @@
         "269c71bd-d798-42af-84ad-5f7ab884456b": {
           "type": "liquid",
           "settings": {
-            "section_liquid": "<h3>Company Info<\/h3>\n<ul>\n<li>Servicing all of Perth and WA<\/li>\n<li>1800 HAWK CC (1800 429 522)<\/li>\n<li>Email Us<\/li>\n<li>Mon to Fri : 6:00 AM - 6:00 PM<\/li>\n<li>Sat to Sun : Closed<\/li>\n<li>Closed on Public Holidays<\/li>\n<li>ABN 85 146 676 394<\/li>\n<\/ul>"
+            "section_liquid": "<h3>Company Info<\/h3>\n<ul>\n<li>{% render 'snippet icon-location' %}Servicing all of Perth and WA<\/li>\n<li>1800 HAWK CC (1800 429 522)<\/li>\n<li>Email Us<\/li>\n<li>Mon to Fri : 6:00 AM - 6:00 PM<\/li>\n<li>Sat to Sun : Closed<\/li>\n<li>Closed on Public Holidays<\/li>\n<li>ABN 85 146 676 394<\/li>\n<\/ul>"
           }
         },
         "0caa156c-cc5c-4c76-b0e4-0be131f64a4b": {
