@@ -32,7 +32,7 @@
       ],
       "custom_css": [
         ".rte img {border: none;}",
-        ".footer-block__details-content.rte [class^=\"icon\"] {width: 18px; height: 18px; position: relative; top: 3px; margin-right: 4px;}"
+        ".footer-block__details-content.rte [class^=\"icon\"] {width: 18px; height: 18px; position: relative; top: 3px; margin-right: 4px; color: #0098ca;}"
       ],
       "settings": {
         "color_scheme": "inverse",
