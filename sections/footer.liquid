@@ -44,7 +44,8 @@
   -%}
   {%- if section.blocks.size > 0
     or section.settings.newsletter_enable
-    or section.settings.show_social and has_social_icons == true
+    or section.settings.show_social
+    and has_social_icons == true
     or section.settings.enable_follow_on_shop
   -%}
     {%- unless only_empty_brand -%}
@@ -378,6 +379,18 @@
   "blocks": [
     {
       "type": "@app"
+    },
+    {
+      "type": "html",
+      "name": "HTML",
+      "settings": [
+        {
+        "type": "html",
+        "id": "html_area",
+        "label": "Custom HTML",
+        "default": "Some HTML content"
+        }
+      ]
     },
     {
       "type": "link_list",

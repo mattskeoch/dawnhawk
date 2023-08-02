@@ -1,1 +1,63 @@
-{"name":"t:sections.footer.name","type":"footer","sections":{"footer":{"type":"footer","settings":{"color_scheme":"background-1","newsletter_enable":true,"newsletter_heading":"Subscribe to our emails","enable_follow_on_shop":true,"show_social":true,"enable_country_selector":true,"enable_language_selector":true,"payment_enable":true,"show_policy":false,"margin_top":36,"padding_top":36,"padding_bottom":36}}},"order":["footer"]}
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "809a31cc-718a-4c06-91ff-278e499d0872": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HAWK_-_Landscape_Multi_alt.webp",
+            "image_width": 300,
+            "alignment": ""
+          }
+        },
+        "9277543a-220a-4337-b32b-cfe72971aed1": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "subtext": "<p>Our passion at Hawk CFC is not only great flooring but a great user <br\/>experience. No one wants to spend excess time thinking about their <br\/>floor, but everyone wants it to perform. Hawk CFC provides superior <br\/>flooring solutions for the residential, industrial, commercial, and food<br\/> production industries. When safety, hygiene, quality, or even just good<br\/> looks are of top priority, Hawk CFC is the right choice.<\/p>"
+          }
+        },
+        "0caa156c-cc5c-4c76-b0e4-0be131f64a4b": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "eaddcc93-073a-4ee4-954c-e7f52cd86393": {
+          "type": "text",
+          "settings": {
+            "heading": "Location",
+            "subtext": "<p>10 Cowcher Pacel, Belmont WA 6104<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "809a31cc-718a-4c06-91ff-278e499d0872",
+        "9277543a-220a-4337-b32b-cfe72971aed1",
+        "0caa156c-cc5c-4c76-b0e4-0be131f64a4b",
+        "eaddcc93-073a-4ee4-954c-e7f52cd86393"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "show_policy": true,
+        "margin_top": 36,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
