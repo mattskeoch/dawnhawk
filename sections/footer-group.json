@@ -8,7 +8,13 @@
         "2299b5bc-fa5c-470e-91a4-faa4e8c149cb": {
           "type": "liquid",
           "settings": {
-            "section_liquid": "{{ images['HAWK_-_Landscape_Multi_alt.png'] | image_url: width: 300 | image_tag }}\n<p>Our passion at Hawk CFC is not only great flooring but a great user experience. No one wants to spend excess time thinking about their floor, but everyone wants it to perform. Hawk CFC provides superior flooring solutions for the residential, industrial, commercial, and food production industries. When safety, hygiene, quality, or even just good looks are of top priority, Hawk CFC is the right choice.<\/p>"
+            "section_liquid": "{{ images['HAWK_-_Landscape_Multi_alt.png'] | image_url: width: 260 | image_tag }}\n<p>Our passion at Hawk CFC is not only great flooring but a great user experience. No one wants to spend excess time thinking about their floor, but everyone wants it to perform. Hawk CFC provides superior flooring solutions for the residential, industrial, commercial, and food production industries. When safety, hygiene, quality, or even just good looks are of top priority, Hawk CFC is the right choice.<\/p>"
+          }
+        },
+        "269c71bd-d798-42af-84ad-5f7ab884456b": {
+          "type": "liquid",
+          "settings": {
+            "section_liquid": "<h3>Company Info<\/h3>\n<ul>\n<li>Servicing all of Perth and WA<\/li>\n<li>1800 HAWK CC (1800 429 522)<\/li>\n<li>Email Us<\/li>\n<li>Mon to Fri : 6:00 AM - 6:00 PM\nSat to Sun : Closed<\/li>\n<li>Closed on Public Holidays<\/li>\n<li>ABN 85 146 676 394<\/li>\n<\/ul>"
           }
         },
         "0caa156c-cc5c-4c76-b0e4-0be131f64a4b": {
@@ -24,19 +30,13 @@
             "heading": "Location",
             "subtext": "<p>10 Cowcher Pacel, Belmont WA 6104<\/p>"
           }
-        },
-        "269c71bd-d798-42af-84ad-5f7ab884456b": {
-          "type": "liquid",
-          "settings": {
-            "section_liquid": "<h3>Company Info<\/h3>\n<ul>\n<li>Servicing all of Perth and WA<\/li>\n<li>1800 HAWK CC (1800 429 522)<\/li>\n<li>Email Us<\/li>\n<li>Mon to Fri : 6:00 AM - 6:00 PM\nSat to Sun : Closed<\/li>\n<li>Closed on Public Holidays<\/li>\n<li>ABN 85 146 676 394<\/li>\n<\/ul>"
-          }
         }
       },
       "block_order": [
         "2299b5bc-fa5c-470e-91a4-faa4e8c149cb",
+        "269c71bd-d798-42af-84ad-5f7ab884456b",
         "0caa156c-cc5c-4c76-b0e4-0be131f64a4b",
-        "eaddcc93-073a-4ee4-954c-e7f52cd86393",
-        "269c71bd-d798-42af-84ad-5f7ab884456b"
+        "eaddcc93-073a-4ee4-954c-e7f52cd86393"
       ],
       "settings": {
         "color_scheme": "inverse",
