@@ -23,20 +23,12 @@
             "heading": "Quick links",
             "menu": "footer"
           }
-        },
-        "eaddcc93-073a-4ee4-954c-e7f52cd86393": {
-          "type": "text",
-          "settings": {
-            "heading": "Location",
-            "subtext": "<p>10 Cowcher Place, Belmont WA 6104<\/p>"
-          }
         }
       },
       "block_order": [
         "2299b5bc-fa5c-470e-91a4-faa4e8c149cb",
         "269c71bd-d798-42af-84ad-5f7ab884456b",
-        "0caa156c-cc5c-4c76-b0e4-0be131f64a4b",
-        "eaddcc93-073a-4ee4-954c-e7f52cd86393"
+        "0caa156c-cc5c-4c76-b0e4-0be131f64a4b"
       ],
       "custom_css": [
         ".rte img {border: none;}"
