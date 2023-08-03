@@ -4,17 +4,19 @@
 
 {% stylesheet %}
    .floating-button {
+     display: none;
+   }
+
+
+
+  @media screen and max-width:(720px){
+       .floating-button {
       position:fixed;
       bottom: 40px;
       right: 100px;
    }
 
-  .floating-button a {
-    display: none;
-  }
-
-  @media screen and max-width:(720px){
-    .floating-button a {
+        .floating-button a {
       display: inline-flex;
       justify-content: center;
       align-items: center;
@@ -26,13 +28,14 @@
       line-height: inherit;
       font-size: 1.5rem;
       text-decoration: none;
-      color: #fff;
+      color: #ffffff;
       transition: box-shadow var(--duration-short) ease;
       -webkit-appearance: none;
       appearance: none;
       background-color: #0590e3;
       box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
   }
+
   }
 {% endstylesheet %}
 
