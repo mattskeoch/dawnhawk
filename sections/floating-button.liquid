@@ -47,6 +47,7 @@
   const floatingBtn = document.querySelector(".floating-button");
 
     console.log(floatingBtn);
+  console.log(window.scrollY);
 
     floatingBtn.addEventListener('scroll', e => {
       floatingBtn.style.display = window.scrollY > 20 ? 'block' : 'none';
