@@ -50,9 +50,14 @@
     console.log(floatingBtn);
     console.log(window.scrollY);
 
-    floatingBtn.addEventListener('scroll', e => {
-      floatingBtn.style.display = window.scrollY > 20 ? 'block' : 'none';
-    })
+  let scrollBtn = () => {
+    var y = window.scrollY;
+    if y >= 200 {
+      floatingBtn.style.display = 'block';
+    } else {
+      floatingBtn.style.display = 'none';
+    }
+  }
 {% endjavascript %}
 
 {% schema %}
