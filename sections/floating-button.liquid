@@ -4,6 +4,7 @@
 
 {% stylesheet %}
   .floating-button {
+    display: none;
     position: fixed;
     bottom: 10px;
     left: 50%;
@@ -47,7 +48,7 @@
   const floatingBtn = document.querySelector(".floating-button");
 
     console.log(floatingBtn);
-  console.log(window.scrollY);
+    console.log(window.scrollY);
 
     floatingBtn.addEventListener('scroll', e => {
       floatingBtn.style.display = window.scrollY > 20 ? 'block' : 'none';
