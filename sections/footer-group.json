@@ -2,6 +2,12 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "6e41d4d9-6730-47ed-a422-33beeef6cc12": {
+      "type": "floating-button",
+      "settings": {
+        "floating-btn-text": "Free Consultation"
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -58,6 +64,7 @@
     }
   },
   "order": [
+    "6e41d4d9-6730-47ed-a422-33beeef6cc12",
     "footer"
   ]
 }
