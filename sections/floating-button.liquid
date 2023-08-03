@@ -43,6 +43,16 @@
   }
 {% endstylesheet %}
 
+{% javascript %}
+  const floatingBtn = document.querySelector(".floating-button");
+
+    console.log(floatingBtn);
+
+    floatingBtn.addEventListener('scroll', e => {
+      floatingBtn.style.display = window.scrollY > 200 ? 'block' : 'none';
+    })
+{% endjavascript %}
+
 {% schema %}
 {
     "name": "Floating Button",
@@ -61,13 +71,3 @@
     ]
 }
 {% endschema %}
-
-{% javascript %}
-  const floatingBtn = document.querySelector(".floating-button");
-
-    console.log(floatingBtn);
-
-    floatingBtn.addEventListener('scroll', e => {
-      floatingBtn.style.display = window.scrollY > 200 ? 'block' : 'none';
-    })
-{% endjavascript %}
