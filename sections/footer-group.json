@@ -27,7 +27,7 @@
         "f3797fe0-5236-45c3-91f1-32d009ffdbda": {
           "type": "liquid",
           "settings": {
-            "section_liquid": "<h3>Location<\/h3>\n<ul class=\"list-unstyled footer__list-social\">\n<li class=\"list-social__item\">{% render 'icon-location' %}\n10 Cowcher Place\nBelmont WA 6104<\/li><\/ul>\n<div class=\"map-wrapper\">\n<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d13540.772650998124!2d115.931047!3d-31.955656!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2a32bbc476d8dd7d%3A0x8e81c8139243d67e!2s10%20Cowcher%20Pl%2C%20Belmont%20WA%206104!5e0!3m2!1sen!2sau!4v1691036825989!5m2!1sen!2sau\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>\n<\/div>"
+            "section_liquid": "<h3>Location<\/h3>\n<ul class=\"list-unstyled footer__list-social\">\n<li class=\"list-social__item\">{% render 'icon-location' %}\n10 Cowcher Place\nBelmont WA 6104<\/li><\/ul>\n<div class=\"map-wrapper\">\n<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d13540.772650998124!2d115.931047!3d-31.955656!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2a32bbc476d8dd7d%3A0x8e81c8139243d67e!2s10%20Cowcher%20Pl%2C%20Belmont%20WA%206104!5e0!3m2!1sen!2sau!4v1691036825989!5m2!1sen!2sau\" width=\"375\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>\n<\/div>"
           }
         }
       },
