@@ -1,12 +1,28 @@
-{% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
-{% endschema %}
+<div class="floating-button">
+  <a href="/collections" class="button button--primary">View Services</a>
+</div>
 
 {% stylesheet %}
 {% endstylesheet %}
+
+{% schema %}
+{
+    "name": "Floating Button",
+    "settings": [
+        {
+            "type": "text",
+            "id": "floating-btn-text",
+            "label": "Free Consultation",
+            "default": "content"
+        }
+    ],
+    "presets": [
+        {
+            "name": "Floating Button"
+        }
+    ]
+}
+{% endschema %}
 
 {% javascript %}
 {% endjavascript %}
