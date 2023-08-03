@@ -23,12 +23,19 @@
             "heading": "Quick links",
             "menu": "footer"
           }
+        },
+        "f3797fe0-5236-45c3-91f1-32d009ffdbda": {
+          "type": "liquid",
+          "settings": {
+            "section_liquid": "<h3>Location<\/h3>\n<ul class=\"list-unstyled footer__list-social\">\n<li class=\"list-social__item\">{% render 'icon-location' %}\n10 Cowcher Place\nBelmont WA 6104<\/li><\/ul>\n<div>\n<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d13540.772650998124!2d115.931047!3d-31.955656!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2a32bbc476d8dd7d%3A0x8e81c8139243d67e!2s10%20Cowcher%20Pl%2C%20Belmont%20WA%206104!5e0!3m2!1sen!2sau!4v1691036825989!5m2!1sen!2sau\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>\n<\/div>"
+          }
         }
       },
       "block_order": [
         "2299b5bc-fa5c-470e-91a4-faa4e8c149cb",
         "269c71bd-d798-42af-84ad-5f7ab884456b",
-        "0caa156c-cc5c-4c76-b0e4-0be131f64a4b"
+        "0caa156c-cc5c-4c76-b0e4-0be131f64a4b",
+        "f3797fe0-5236-45c3-91f1-32d009ffdbda"
       ],
       "custom_css": [
         ".rte img {border: none;}",
