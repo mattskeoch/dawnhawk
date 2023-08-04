@@ -236,12 +236,71 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "a1e8150d-137a-4f58-bce5-d1bf0962fcb0": {
+      "type": "multirow",
+      "blocks": {
+        "template--20192202883346__a1e8150d-137a-4f58-bce5-d1bf0962fcb0-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Industrial-Epoxy-Flooring.jpg",
+            "caption": "",
+            "heading": "Epoxy Flooring",
+            "text": "<p>Your floor needs to be able to withstand foot traffic, vehicle traffic, <br\/>impact and moisture – while ticking aesthetic boxes too. This sounds <br\/>like a tough balance, but epoxy flooring offers the all-in-one solution.<\/p>",
+            "button_label": "Read More",
+            "button_link": "shopify:\/\/collections\/services"
+          }
+        },
+        "template--20192202883346__a1e8150d-137a-4f58-bce5-d1bf0962fcb0-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Polished-Concrete-Feature-Image.jpg",
+            "caption": "",
+            "heading": "Polished Concrete",
+            "text": "<p>Polished concrete flooring adds design and durability to any space. <br\/>Originally thought to be suited for only industrial or commercial <br\/>spaces, these floors are now in demand as a designer flooring option in <br\/>homes across Perth and all of Australia.<\/p>",
+            "button_label": "Button label",
+            "button_link": "\/"
+          }
+        },
+        "template--20192202883346__a1e8150d-137a-4f58-bce5-d1bf0962fcb0-row-3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Concrete-Sealing.jpg",
+            "caption": "",
+            "heading": "Concrete Sealing",
+            "text": "<p>A good quality cement sealer applied by an experienced application team <br\/>can be of tremendous benefit to your workplace, making for reduced <br\/>maintenance expenses, lower safety risks, stronger concrete surface, <br\/>“dusting” eliminated and not to mention a floor that stands the test of <br\/>time by looking new year after year.<\/p>",
+            "button_label": "Button label",
+            "button_link": "\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--20192202883346__a1e8150d-137a-4f58-bce5-d1bf0962fcb0-row-1",
+        "template--20192202883346__a1e8150d-137a-4f58-bce5-d1bf0962fcb0-row-2",
+        "template--20192202883346__a1e8150d-137a-4f58-bce5-d1bf0962fcb0-row-3"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "246556c8-3f81-44a5-b630-8314920c753b",
     "60ceb3dc-eb47-44cd-aa8b-994de85622f8",
     "eb88620e-6a35-4314-8430-881e04930108",
-    "9eb8753b-2b67-4cad-8010-4468eef7a3d4"
+    "9eb8753b-2b67-4cad-8010-4468eef7a3d4",
+    "a1e8150d-137a-4f58-bce5-d1bf0962fcb0"
   ]
 }
