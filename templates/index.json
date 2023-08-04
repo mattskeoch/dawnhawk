@@ -330,7 +330,8 @@
       "type": "logo-slider",
       "settings": {
         "title": "Logo list",
-        "image": "shopify:\/\/shop_images\/Bridgestone-Logo.png"
+        "first-image": "shopify:\/\/shop_images\/Bridgestone-Logo.png",
+        "second-image": "shopify:\/\/shop_images\/WA-Police-Logo.png"
       }
     }
   },
