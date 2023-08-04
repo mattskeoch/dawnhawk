@@ -328,52 +328,9 @@
     },
     "a5cdf091-7a2a-45da-b071-18f18e2fb720": {
       "type": "logo-slider",
-      "blocks": {
-        "9894663b-3c31-42ff-8d14-789824c523a0": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Bridgestone-Logo.png",
-            "link": ""
-          }
-        },
-        "de67d1db-b0cd-4587-ac6a-8a5cca8c5cf1": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WA-Police-Logo.png",
-            "link": ""
-          }
-        },
-        "072512d9-cdf5-4c58-bbfb-4c31f335be20": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Crown-Resorts-Logo.png",
-            "link": ""
-          }
-        },
-        "6e723706-7075-4780-83a3-4e4e48ae5210": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ECU-Logo.png",
-            "link": ""
-          }
-        },
-        "cded920a-383b-45ea-a5f6-dc84d2644b17": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/General-Electric-Logo.png",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "9894663b-3c31-42ff-8d14-789824c523a0",
-        "de67d1db-b0cd-4587-ac6a-8a5cca8c5cf1",
-        "072512d9-cdf5-4c58-bbfb-4c31f335be20",
-        "6e723706-7075-4780-83a3-4e4e48ae5210",
-        "cded920a-383b-45ea-a5f6-dc84d2644b17"
-      ],
       "settings": {
-        "title": "Logo list"
+        "title": "Logo list",
+        "image": "shopify:\/\/shop_images\/Bridgestone-Logo.png"
       }
     }
   },
