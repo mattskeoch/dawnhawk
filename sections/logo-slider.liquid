@@ -13,118 +13,6 @@
   </section>
   <hr>
 </div>
-<!-- HTML-END -->
-
-{% schema %}
-{
-   "name": "Logo Slider",
-   "max_blocks": 20,
-   "settings": [
-     {
-       "type": "select",
-       "id": "slideshow_width",
-       "label": "Layout",
-       "options": [
-         {
-           "value": "full",
-           "label": "Full-width"
-         },
-         {
-           "value": "contained",
-           "label": "Contained"
-         }
-       ],
-       "default": "full"
-     },
-  {
-       "type": "checkbox",
-       "id": "show_brands_slider",
-       "label": "Enable brands slider",
-	"default": true
-     },
-
-     {
-       "type": "header",
-       "content": "Info"
-     },
-     {
-       "type": "paragraph",
-       "content": "You may upload up to 25 brands"
-     },
-  {
-       "type": "paragraph",
-       "content": "Please try to use the same pixel size for all images - I've suggested 133px by 73px but you can use whatever other size you want"
-     }
-
-],
-    "blocks" : [
-     {
-       "type": "brand",
-       "name": "Brand",
-       "settings": [
-     {
-       "type": "header",
-       "content": "Brand"
-     },
-     {
-       "type": "image_picker",
-       "id": "slideshow_image",
-       "label": "Image",
-	"info": "133 x 73px png recommended"
-     },
-     {
-       "type": "url",
-       "id": "brand_link",
-       "label": "Link URL"
-     }
-  ]
-	 }
-],
- "presets": [{
-   "name": "Logo Slideshow",
-   "category": "Image",
-   "settings": {
-   },
-   "blocks": [
-     {
-       "type": "brand"
-     },
-     {
-       "type": "brand"
-     },
-     {
-       "type": "brand"
-     },
-     {
-       "type": "brand"
-     }
-   ]
- }]
-}
-{% endschema %}
-
-{% javascript %}
-  $('.logos-slider').slick({
-  slidesToShow: 4,
-  slidesToScroll: 1,
-  autoplay: true,
-  autoplaySpeed: 1500,
-  arrows: false,
-  dots: false,
-  pauseOnHover: false,
-  responsive: [{
-  breakpoint: 768,
-  settings: {
-  slidesToShow: 3
-  }
-  }, {
-  breakpoint: 520,
-  settings: {
-  slidesToShow: 2
-  }
-  }]
-  });
-{% endjavascript %}
 
 {% stylesheet %}
   h2{
@@ -246,3 +134,114 @@
   display: none;
   }
 {% endstylesheet %}
+
+{% schema %}
+{
+   "name": "Logo Slider",
+   "max_blocks": 20,
+   "settings": [
+     {
+       "type": "select",
+       "id": "slideshow_width",
+       "label": "Layout",
+       "options": [
+         {
+           "value": "full",
+           "label": "Full-width"
+         },
+         {
+           "value": "contained",
+           "label": "Contained"
+         }
+       ],
+       "default": "full"
+     },
+  {
+       "type": "checkbox",
+       "id": "show_brands_slider",
+       "label": "Enable brands slider",
+	"default": true
+     },
+
+     {
+       "type": "header",
+       "content": "Info"
+     },
+     {
+       "type": "paragraph",
+       "content": "You may upload up to 25 brands"
+     },
+  {
+       "type": "paragraph",
+       "content": "Please try to use the same pixel size for all images - I've suggested 133px by 73px but you can use whatever other size you want"
+     }
+
+],
+    "blocks" : [
+     {
+       "type": "brand",
+       "name": "Brand",
+       "settings": [
+     {
+       "type": "header",
+       "content": "Brand"
+     },
+     {
+       "type": "image_picker",
+       "id": "slideshow_image",
+       "label": "Image",
+	"info": "133 x 73px png recommended"
+     },
+     {
+       "type": "url",
+       "id": "brand_link",
+       "label": "Link URL"
+     }
+  ]
+	 }
+],
+ "presets": [{
+   "name": "Logo Slideshow",
+   "category": "Image",
+   "settings": {
+   },
+   "blocks": [
+     {
+       "type": "brand"
+     },
+     {
+       "type": "brand"
+     },
+     {
+       "type": "brand"
+     },
+     {
+       "type": "brand"
+     }
+   ]
+ }]
+}
+{% endschema %}
+
+{% javascript %}
+  $('.logos-slider').slick({
+  slidesToShow: 4,
+  slidesToScroll: 1,
+  autoplay: true,
+  autoplaySpeed: 1500,
+  arrows: false,
+  dots: false,
+  pauseOnHover: false,
+  responsive: [{
+  breakpoint: 768,
+  settings: {
+  slidesToShow: 3
+  }
+  }, {
+  breakpoint: 520,
+  settings: {
+  slidesToShow: 2
+  }
+  }]
+  });
+{% endjavascript %}
