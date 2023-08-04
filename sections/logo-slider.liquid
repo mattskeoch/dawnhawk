@@ -79,6 +79,11 @@
         <img src="{{ section.settings.fifteenth-image | image_url }}" alt="img">
       </a>
     </div>
+    <div class="item">
+      <a href="#">
+        <img src="{{ section.settings.sixteenth-image | image_url }}" alt="img">
+      </a>
+    </div>
   </div>
   <!-- Write the sponsor-slider twice to make it repeat smoothly -->
   <div class="sponsor-slider slide-2">
@@ -155,6 +160,11 @@
     <div class="item">
       <a href="#">
         <img src="{{ section.settings.fifteenth-image | image_url }}" alt="img">
+      </a>
+    </div>
+    <div class="item">
+      <a href="#">
+        <img src="{{ section.settings.sixteenth-image | image_url }}" alt="img">
       </a>
     </div>
   </div>
@@ -302,6 +312,12 @@
                {
         "type": "image_picker",
           "id": "fifteenth-image",
+          "label": "Image 12",
+          "info": "400 x 300px recommended"
+        },
+     {
+        "type": "image_picker",
+          "id": "sixteenth-image",
           "label": "Image 12",
           "info": "400 x 300px recommended"
         }
