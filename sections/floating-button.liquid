@@ -45,12 +45,13 @@
 {% endstylesheet %}
 
 {% javascript %}
+  const mediaQuery = window.matchMedia('(min-width: 600px)')
   const floatingBtn = document.querySelector(".floating-button");
 
   let scrollBtn = () => {
     var y = window.scrollY;
 
-    if (y >= 200) {
+    if (y >= 200 && mediaQuery.matches) {
       floatingBtn.style.display = 'block';
     } else {
       floatingBtn.style.display = 'none';
