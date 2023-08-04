@@ -1,40 +1,6 @@
 <div class="sponsor-slider-wrapper">
   <div class="sponsor-slider slide-1">
-    {% for block in section.blocks %}
-      <div class="item" {{ block.shopify_attributes }}>
-        {% if block.settings.link != blank %}
-          <a href="{{ block.settings.link }}" class="item__link">
-        {% endif %}
-        {% if block.settings.image != blank %}
-          <img
-            src="{{ block.settings.image | img_url: '100x' }}"
-            alt="{{ block.settings.image.alt | escape }}"
-            class="lazyload {{ settings.image_loading_style }}"
-            style="max-width: {{- block.settings.image.width -}}px;"
-            data-sizes="auto"
-            data-src="{{ block.settings.image | img_url: default }}"
-            data-srcset="
-              {{ block.settings.image | img_url: default }} {{default | replace: 'x', 'w'}},
-              {{ block.settings.image | img_url: size1 }} {{size1 | replace: 'x', 'w'}},
-              {{ block.settings.image | img_url: size2 }} {{size2 | replace: 'x', 'w'}},
-              {{ block.settings.image | img_url: size3 }} {{size3 | replace: 'x', 'w'}},
-              {{ block.settings.image | img_url: size4 }} {{size4 | replace: 'x', 'w'}},
-              {{ block.settings.image | img_url: size5 }} {{size5 | replace: 'x', 'w'}},
-              {{ block.settings.image | img_url: size6 }} {{size6 | replace: 'x', 'w'}},
-              {{ block.settings.image | img_url: size7 }} {{size7 | replace: 'x', 'w'}},
-              {{ block.settings.image | img_url: size8 }} {{size8 | replace: 'x', 'w'}},
-              {{ block.settings.image | img_url: size9 }} {{size9 | replace: 'x', 'w'}},
-              {{ block.settings.image | img_url: size10 }} {{size10 | replace: 'x', 'w'}}
-            "
-          >
-        {% else %}
-          {{ 'logo' | placeholder_svg_tag: 'placeholder-svg' }}
-        {% endif %}
-        {% if block.settings.link != blank %}
-          </a>
-        {% endif %}
-      </div>
-    {% endfor %}
+    <div class="item"></div>
   </div>
 </div>
 
