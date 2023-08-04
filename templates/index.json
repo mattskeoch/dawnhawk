@@ -325,6 +325,45 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "a5cdf091-7a2a-45da-b071-18f18e2fb720": {
+      "type": "logo-slider",
+      "blocks": {
+        "template--20192202883346__a5cdf091-7a2a-45da-b071-18f18e2fb720-brand-1": {
+          "type": "brand",
+          "settings": {
+            "brand_link": ""
+          }
+        },
+        "template--20192202883346__a5cdf091-7a2a-45da-b071-18f18e2fb720-brand-2": {
+          "type": "brand",
+          "settings": {
+            "brand_link": ""
+          }
+        },
+        "template--20192202883346__a5cdf091-7a2a-45da-b071-18f18e2fb720-brand-3": {
+          "type": "brand",
+          "settings": {
+            "brand_link": ""
+          }
+        },
+        "template--20192202883346__a5cdf091-7a2a-45da-b071-18f18e2fb720-brand-4": {
+          "type": "brand",
+          "settings": {
+            "brand_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20192202883346__a5cdf091-7a2a-45da-b071-18f18e2fb720-brand-1",
+        "template--20192202883346__a5cdf091-7a2a-45da-b071-18f18e2fb720-brand-2",
+        "template--20192202883346__a5cdf091-7a2a-45da-b071-18f18e2fb720-brand-3",
+        "template--20192202883346__a5cdf091-7a2a-45da-b071-18f18e2fb720-brand-4"
+      ],
+      "settings": {
+        "slideshow_width": "full",
+        "show_brands_slider": true
+      }
     }
   },
   "order": [
@@ -332,6 +371,7 @@
     "60ceb3dc-eb47-44cd-aa8b-994de85622f8",
     "eb88620e-6a35-4314-8430-881e04930108",
     "9eb8753b-2b67-4cad-8010-4468eef7a3d4",
-    "e9738470-66ef-482d-96c1-7f57468986e1"
+    "e9738470-66ef-482d-96c1-7f57468986e1",
+    "a5cdf091-7a2a-45da-b071-18f18e2fb720"
   ]
 }
