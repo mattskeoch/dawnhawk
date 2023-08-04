@@ -3,45 +3,57 @@
 </div>
 
 {% stylesheet %}
-  .floating-button {
-    display: none;
-    position: fixed;
-    bottom: 10px;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 999;
+    .floating-button {
+      display: none;
+      position: fixed;
+      bottom: 10px;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 999;
+    }
+
+    .floating-button a {
+      font-size: 1.5rem;
+      letter-spacing: .1rem;
+      line-height: calc(1 + .2 / var(--font-body-scale));
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+      border: 0;
+      padding: 0 2.6rem;
+      cursor: pointer;
+      font: inherit;
+      font-size: inherit;
+      line-height: inherit;
+      font-size: 1.5rem;
+      text-decoration: none;
+      color: #fff;
+      transition: box-shadow var(--duration-short) ease;
+      -webkit-appearance: none;
+      appearance: none;
+      background: #0590e3;
+      box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.3), 0 8px 10px -6px rgb(0 0 0 / 0.3);
+      min-width: calc(12rem + var(--buttons-border-width) * 2);
+      min-height: calc(4.5rem + var(--buttons-border-width) * 2);
+      animation: fadeIn 1s ease-in both;
+    }
+
+    @keyframes fadeIn {
+  	from {
+  		opacity: 0;
+  		transform: translate3d(0, 20%, 0);
+  	}
+  	to {
+  		opacity: 1;
+  		transform: translate3d(0, 0, 0);
+  	}
   }
 
-  .floating-button a {
-    font-size: 1.5rem;
-    letter-spacing: .1rem;
-    line-height: calc(1 + .2 / var(--font-body-scale));
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    border: 0;
-    padding: 0 2.6rem;
-    cursor: pointer;
-    font: inherit;
-    font-size: inherit;
-    line-height: inherit;
-    font-size: 1.5rem;
-    text-decoration: none;
-    color: #fff;
-    transition: box-shadow var(--duration-short) ease;
-    -webkit-appearance: none;
-    appearance: none;
-    background: #0590e3;
-    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.3), 0 8px 10px -6px rgb(0 0 0 / 0.3);
-    min-width: calc(12rem + var(--buttons-border-width) * 2);
-    min-height: calc(4.5rem + var(--buttons-border-width) * 2);
-  }
-
-    @media screen and (min-width: 600px) {
-       .floating-button {
-         display: none;
-     }
-  }
+      @media screen and (min-width: 600px) {
+         .floating-button {
+           display: none;
+       }
+    }
 {% endstylesheet %}
 
 {% javascript %}
