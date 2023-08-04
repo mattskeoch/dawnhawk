@@ -335,7 +335,13 @@
         "third-image": "shopify:\/\/shop_images\/Crown-Resorts-Logo.png",
         "fourth-image": "shopify:\/\/shop_images\/General-Electric-Logo.png",
         "fifth-image": "shopify:\/\/shop_images\/ECU-Logo.png",
-        "sixth-image": "shopify:\/\/shop_images\/Quaker-Logo.png"
+        "sixth-image": "shopify:\/\/shop_images\/Quaker-Logo.png",
+        "seventh-image": "shopify:\/\/shop_images\/Pindan-Logo.png",
+        "eighth-image": "shopify:\/\/shop_images\/BHP-Billiton-Logo.png",
+        "ninth-image": "shopify:\/\/shop_images\/Murduch-Logo.png",
+        "tenth-image": "shopify:\/\/shop_images\/PetBarn-Logo.png",
+        "eleventh-image": "shopify:\/\/shop_images\/PepsiCo-Logo.png",
+        "twelvth-image": "shopify:\/\/shop_images\/ASC-Logo.png"
       }
     }
   },
