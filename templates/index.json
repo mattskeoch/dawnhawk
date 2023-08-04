@@ -237,60 +237,91 @@
         "padding_bottom": 36
       }
     },
-    "a1e8150d-137a-4f58-bce5-d1bf0962fcb0": {
-      "type": "multirow",
+    "e9738470-66ef-482d-96c1-7f57468986e1": {
+      "type": "multicolumn",
       "blocks": {
-        "template--20192202883346__a1e8150d-137a-4f58-bce5-d1bf0962fcb0-row-1": {
-          "type": "row",
+        "template--20192202883346__e9738470-66ef-482d-96c1-7f57468986e1-column-1": {
+          "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Industrial-Epoxy-Flooring.jpg",
-            "caption": "",
-            "heading": "Epoxy Flooring",
+            "title": "Epoxy Flooring",
             "text": "<p>Your floor needs to be able to withstand foot traffic, vehicle traffic, <br\/>impact and moisture – while ticking aesthetic boxes too. This sounds <br\/>like a tough balance, but epoxy flooring offers the all-in-one solution.<\/p>",
-            "button_label": "Read More",
-            "button_link": "shopify:\/\/collections\/services"
+            "link_label": "Read More",
+            "link": "\/"
           }
         },
-        "template--20192202883346__a1e8150d-137a-4f58-bce5-d1bf0962fcb0-row-2": {
-          "type": "row",
+        "template--20192202883346__e9738470-66ef-482d-96c1-7f57468986e1-column-2": {
+          "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Polished-Concrete-Feature-Image.jpg",
-            "caption": "",
-            "heading": "Polished Concrete",
+            "title": "Polished Concrete",
             "text": "<p>Polished concrete flooring adds design and durability to any space. <br\/>Originally thought to be suited for only industrial or commercial <br\/>spaces, these floors are now in demand as a designer flooring option in <br\/>homes across Perth and all of Australia.<\/p>",
-            "button_label": "Button label",
-            "button_link": "\/"
+            "link_label": "Read More",
+            "link": ""
           }
         },
-        "template--20192202883346__a1e8150d-137a-4f58-bce5-d1bf0962fcb0-row-3": {
-          "type": "row",
+        "template--20192202883346__e9738470-66ef-482d-96c1-7f57468986e1-column-3": {
+          "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Concrete-Sealing.jpg",
-            "caption": "",
-            "heading": "Concrete Sealing",
-            "text": "<p>A good quality cement sealer applied by an experienced application team <br\/>can be of tremendous benefit to your workplace, making for reduced <br\/>maintenance expenses, lower safety risks, stronger concrete surface, <br\/>“dusting” eliminated and not to mention a floor that stands the test of <br\/>time by looking new year after year.<\/p>",
-            "button_label": "Button label",
-            "button_link": "\/"
+            "title": "Concrete Sealing",
+            "text": "<p>A good quality cement sealer applied by an experienced application team <br\/>can be of tremendous benefit to your workplace, making for reduced <br\/>maintenance expenses, lower safety risks, stronger concrete surface and <br\/>“dusting” eliminated.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "c34f13c7-fd4d-45af-9f8e-91f3ddb9b05e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Honed-Concrete-Feature-Image.jpg",
+            "title": "Honed Concrete",
+            "text": "<p>Honed concrete floors have become increasingly popular in recent years, <br\/>featuring in many lifestyle magazines as one of the architectural <br\/>highlights of a residential home or commercial property.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "f61c2c56-826d-465d-a003-825dbe4421c6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Concrete-Painting-Feature-Image.jpg",
+            "title": "Concrete Painting",
+            "text": "<p>Paint is fantastic on many surfaces, but is continually defeated by the <br\/>porous and dusty nature of concrete – which is the reason why we are <br\/>often hired to install resin floors in showrooms – even paint showrooms!<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "45cf530b-055f-4c3f-a9ee-a391824fac60": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tile-remove.jpg",
+            "title": "Tile Removal",
+            "text": "<p>As an alternative option to removing existing tiles, there is the option<br\/> of having a floor installed directly to the prepared tiled surface.<\/p>",
+            "link_label": "Read More",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "template--20192202883346__a1e8150d-137a-4f58-bce5-d1bf0962fcb0-row-1",
-        "template--20192202883346__a1e8150d-137a-4f58-bce5-d1bf0962fcb0-row-2",
-        "template--20192202883346__a1e8150d-137a-4f58-bce5-d1bf0962fcb0-row-3"
+        "template--20192202883346__e9738470-66ef-482d-96c1-7f57468986e1-column-1",
+        "template--20192202883346__e9738470-66ef-482d-96c1-7f57468986e1-column-2",
+        "template--20192202883346__e9738470-66ef-482d-96c1-7f57468986e1-column-3",
+        "c34f13c7-fd4d-45af-9f8e-91f3ddb9b05e",
+        "f61c2c56-826d-465d-a003-825dbe4421c6",
+        "45cf530b-055f-4c3f-a9ee-a391824fac60"
       ],
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
+        "title": "Services We Offer",
         "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "primary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "background-1",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -301,6 +332,6 @@
     "60ceb3dc-eb47-44cd-aa8b-994de85622f8",
     "eb88620e-6a35-4314-8430-881e04930108",
     "9eb8753b-2b67-4cad-8010-4468eef7a3d4",
-    "a1e8150d-137a-4f58-bce5-d1bf0962fcb0"
+    "e9738470-66ef-482d-96c1-7f57468986e1"
   ]
 }
