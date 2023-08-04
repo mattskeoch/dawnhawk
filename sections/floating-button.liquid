@@ -47,12 +47,8 @@
 {% javascript %}
   const floatingBtn = document.querySelector(".floating-button");
 
-  console.log(floatingBtn);
-
   let scrollBtn = () => {
     var y = window.scrollY;
-
-    console.log(y);
 
     if (y >= 200) {
       floatingBtn.style.display = 'block';
