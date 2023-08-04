@@ -1,9 +1,9 @@
 <div class="sponsor-slider-wrapper">
   <div class="sponsor-slider slide-1">
     {% for block in section.blocks %}
-      <div class="logo-bar__item" {{ block.shopify_attributes }}>
+      <div class="item" {{ block.shopify_attributes }}>
         {% if block.settings.link != blank %}
-          <a href="{{ block.settings.link }}" class="logo-bar__link">
+          <a href="{{ block.settings.link }}" class="item__link">
         {% endif %}
         {% if block.settings.image != blank %}
           <img
