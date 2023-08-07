@@ -428,6 +428,51 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "2b57c941-c088-427e-baf2-b430037f438e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Certifications",
+            "heading_size": "h1"
+          }
+        },
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In food safety management, a fundamental approach to managing risk is implementing a HACCP system.<br\/><br\/>This acronym stands for Hazard Analysis and Critical Control Point.<\/p><p>The development of a HACCP plan must identify and manage the <br\/>following types of hazards: Biological, Chemical, Physical, Allergens, Quality, and Regulatory.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-heading-1",
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-text-1",
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-button-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -437,6 +482,7 @@
     "9eb8753b-2b67-4cad-8010-4468eef7a3d4",
     "e9738470-66ef-482d-96c1-7f57468986e1",
     "a5cdf091-7a2a-45da-b071-18f18e2fb720",
-    "113230c2-a907-479e-86a6-2ff4633d07bd"
+    "113230c2-a907-479e-86a6-2ff4633d07bd",
+    "2b57c941-c088-427e-baf2-b430037f438e"
   ]
 }
