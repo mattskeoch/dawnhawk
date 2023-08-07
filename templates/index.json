@@ -490,6 +490,15 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "526a363a-fd87-4df8-bd3e-e095c1eec215": {
+      "type": "testimonial",
+      "settings": {
+        "title": "Testimonials",
+        "heading_size": "h1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -501,6 +510,7 @@
     "a5cdf091-7a2a-45da-b071-18f18e2fb720",
     "113230c2-a907-479e-86a6-2ff4633d07bd",
     "2b57c941-c088-427e-baf2-b430037f438e",
-    "4a1b3c5f-c871-4067-a952-015659a6fd1c"
+    "4a1b3c5f-c871-4067-a952-015659a6fd1c",
+    "526a363a-fd87-4df8-bd3e-e095c1eec215"
   ]
 }
