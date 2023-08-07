@@ -40,15 +40,15 @@
             {{ block.settings.quote }}
           </p>
         {%- endif -%}
-      </blockquote>
 
-      {%- if block.settings.author != blank -%}
-        <cite>
-          <a href="{{ block.settings.link }}">
-            {{ block.settings.author }}
-          </a>
-        </cite>
-      {%- endif -%}
+        {%- if block.settings.author != blank -%}
+          <cite>
+            <a href="{{ block.settings.link }}">
+              {{ block.settings.author }}
+            </a>
+          </cite>
+        {%- endif -%}
+      </blockquote>
     {%- endfor -%}
   {%- endif -%}
 </div>
