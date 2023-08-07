@@ -25,34 +25,34 @@
       </h2>
     </div>
   {%- endunless -%}
-</div>
-<div class="quotes">
-  {%- if section.blocks.size > 0 -%}
-    {%- for block in section.blocks -%}
-      <blockquote>
-        {%- if block.settings.quote != blank -%}
-          <p>
-            {{ block.settings.quote }}
-          </p>
-        {%- endif -%}
 
-        {%- if block.settings.author != blank -%}
-          <cite>
-            <a href="{{ block.settings.link }}">
-              {{ block.settings.author }}
-            </a>
-          </cite>
-        {%- endif -%}
-      </blockquote>
-    {%- endfor -%}
+  <div class="quotes">
+    {%- if section.blocks.size > 0 -%}
+      {%- for block in section.blocks -%}
+        <blockquote>
+          {%- if block.settings.quote != blank -%}
+            <p>
+              {{ block.settings.quote }}
+            </p>
+          {%- endif -%}
+
+          {%- if block.settings.author != blank -%}
+            <cite>
+              <a href="{{ block.settings.link }}">
+                {{ block.settings.author }}
+              </a>
+            </cite>
+          {%- endif -%}
+        </blockquote>
+      {%- endfor -%}
+    {%- endif -%}
+  </div>
+  {%- if section.settings.button_label != blank -%}
+    <a href="{{ section.settings.button_link }}" class="link underlined-link large-up-hide">
+      {{- section.settings.button_label | escape -}}
+    </a>
   {%- endif -%}
 </div>
-{%- if section.settings.button_label != blank -%}
-  <a href="{{ section.settings.button_link }}" class="link underlined-link large-up-hide">
-    {{- section.settings.button_label | escape -}}
-  </a>
-{%- endif -%}
-
 {% stylesheet %}
 {% endstylesheet %}
 
