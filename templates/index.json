@@ -148,18 +148,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Nonslip-Icon.png",
-            "title": "NoniSlip",
+            "title": "Non Slip",
             "text": "<p>We tailor-make your floor to achieve the desired cleanability and slip resistance rating.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "48c0e7f3-962b-410b-bf8a-0962616b6195": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FREE-Consultation-Icon.png",
-            "title": "Free Consultation",
-            "text": "<p>Choosing a floor can be challenging. We’re here to guide you along every<br\/> step of the way with neutral advice on what floor is the right option <br\/>for your business.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -201,7 +191,6 @@
         "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-3",
         "cb0d43f8-ab57-4c74-b635-81e26e3986bf",
         "0ad52fbc-adc9-4cbc-a70a-4c90129286cf",
-        "48c0e7f3-962b-410b-bf8a-0962616b6195",
         "72405bb1-6170-4765-99b0-f6656debb757",
         "781c40cf-5d88-45fa-9a2f-eaabf360892b",
         "beddf14d-1a2e-4520-a442-0044e012277e"
@@ -211,7 +200,7 @@
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
@@ -330,6 +319,7 @@
       "type": "logo-slider",
       "settings": {
         "title": "Our Trusted Clients",
+        "heading_size": "h1",
         "first-image": "shopify:\/\/shop_images\/Bridgestone-Logo.png",
         "second-image": "shopify:\/\/shop_images\/WA-Police-Logo.png",
         "third-image": "shopify:\/\/shop_images\/Crown-Resorts-Logo.png",
@@ -345,7 +335,98 @@
         "thirteenth-image": "shopify:\/\/shop_images\/Jax-Tyres.png",
         "fourteenth-image": "shopify:\/\/shop_images\/Broad-Logo.png",
         "fifteenth-image": "shopify:\/\/shop_images\/Bunbury-Bearings-Logo.png",
-        "sixteenth-image": "shopify:\/\/shop_images\/Dawn-Express-Logo.png"
+        "sixteenth-image": "shopify:\/\/shop_images\/Dawn-Express-Logo.png",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "113230c2-a907-479e-86a6-2ff4633d07bd": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RRTS-Logo-400x220.png",
+            "title": "RRTS – Rapid Return To Service Flooring",
+            "text": "<p>We specialise in minimising your downtime. We have heavy equipment to prep fast and rapid cure resins which often allow for an immediate cure.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Silikal-Logo-400x220.png",
+            "title": "Comprehensive Solutions Through Distributorships",
+            "text": "<p>We are the West Australian distributor for Silikal GmbH and Alluvius, as well as many accreditations for alternate suppliers.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ERFLA-Quartzite-Flooring-Diagram-Logo-400x220.png",
+            "title": "Multi-Layered Specialty Systems",
+            "text": "<p>Allow us to specify a system that takes into account your unique environment and goals.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "511e5f7b-34eb-4f5e-8f89-8c0bc79c6079": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FLEX-Plate-Logo-400x220.png",
+            "title": "Flex-Plate",
+            "text": "<p>Flex-Plate is found exclusivity at Hawk CFC.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7ee4a467-995b-4997-b6bf-e82682ed1555": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CM3-Certified-Logo-400x220.png",
+            "title": "CM3",
+            "text": "<p>We’re happy to show our health and safety capabilities.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1a93f3d6-3ae7-4498-9982-68c88906bafe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Zero-VOC-Logo-400x220.png",
+            "title": "Zero VOC Flooring",
+            "text": "<p>We offer beautiful, non-toxic, Eco-friendly floors.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-1",
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-2",
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-3",
+        "511e5f7b-34eb-4f5e-8f89-8c0bc79c6079",
+        "7ee4a467-995b-4997-b6bf-e82682ed1555",
+        "1a93f3d6-3ae7-4498-9982-68c88906bafe"
+      ],
+      "settings": {
+        "title": "Our Trusted Suppliers",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -355,6 +436,7 @@
     "eb88620e-6a35-4314-8430-881e04930108",
     "9eb8753b-2b67-4cad-8010-4468eef7a3d4",
     "e9738470-66ef-482d-96c1-7f57468986e1",
-    "a5cdf091-7a2a-45da-b071-18f18e2fb720"
+    "a5cdf091-7a2a-45da-b071-18f18e2fb720",
+    "113230c2-a907-479e-86a6-2ff4633d07bd"
   ]
 }
