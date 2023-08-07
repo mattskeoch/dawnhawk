@@ -68,27 +68,26 @@
 {% endstylesheet %}
 
 {% javascript %}
-  const mediaQuery = window.matchMedia('(max-width: 600px)');
-  const floatingBtn = document.querySelector(".floating-button");
+    const mediaQuery = window.matchMedia('(max-width: 600px)');
+    const floatingBtn = document.querySelector(".floating-button");
 
-  console.log(mediaQuery);
-  console.log(floatingBtn);
+    console.log(mediaQuery);
 
-  let updateFloatingBtn = () => {
-    var y = window.scrollY;
+    let updateFloatingBtn = () => {
+      var y = window.scrollY;
+  console.log(y)
+      if (y >= 200 && mediaQuery.matches) {
+        floatingBtn.style.display = 'block';
+      } else {
+        floatingBtn.style.display = 'none';
+      }
+    };
 
-    if (y >= 200 && mediaQuery.matches) {
-      floatingBtn.style.display = 'block';
-    } else {
-      floatingBtn.style.display = 'none';
-    }
-  };
+    // Initial call to set the display state based on the media query
+    updateFloatingBtn();
 
-  // Initial call to set the display state based on the media query
-  updateFloatingBtn();
-
-  // Add a listener to the mediaQuery object to update the floatingBtn when the media query state changes
-  mediaQuery.addListener(updateFloatingBtn);
+    // Add a listener to the mediaQuery object to update the floatingBtn when the media query state changes
+    mediaQuery.addListener(updateFloatingBtn);
 {% endjavascript %}
 
 {% schema %}
