@@ -239,6 +239,11 @@
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
 
+    {% if template == 'index' %}
+      {{ 'slick.css' | asset_url | stylesheet_tag }}
+      {{ 'slick-theme.css' | asset_url | stylesheet_tag }}
+    {% endif %}
+
     {%- unless settings.type_body_font.system? -%}
       <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
     {%- endunless -%}
@@ -296,6 +301,7 @@
       
       
       
+      
       window.shopUrl = '{{ request.origin }}';
       window.routes = {
         cart_add_url: '{{ routes.cart_add_url }}',
@@ -340,10 +346,36 @@
 
 
 
+
     </script>
 
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+
+    {% if template == 'index' %}
+      {% if settings.home_vendor_carousel_enable %}
+        <!--
+          <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+          <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+        -->
+        {{ 'slick.min.js' | asset_url | script_tag }}
+        <script type="text/javascript">
+          $(document).ready(function() {
+          $('.autoplay').slick({
+          dots: false,
+          infinite: true,
+          speed: 500,
+          slidesToShow: 5,
+          slidesToScroll: 1,
+          autoplay: true,
+          autoplaySpeed: 2000,
+          arrows: false,
+          variableWidth: true
+          });
+          });
+        </script>
+      {% endif %}
+    {% endif %}
   </body>
 </html>
