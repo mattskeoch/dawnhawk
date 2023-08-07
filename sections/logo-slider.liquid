@@ -1,6 +1,15 @@
-<script>
-  console.log({{ section.settings.first-image | json }});
-</script>
+{%- unless section.settings.title == blank -%}
+  <div class="title-wrapper-with-link title-wrapper--self-padded-mobile title-wrapper--no-top-margin">
+    <h2 class="title inline-richtext {{ section.settings.heading_size }}">
+      {{ section.settings.title }}
+    </h2>
+    {%- if section.settings.button_label != blank and show_mobile_slider -%}
+      <a href="{{ section.settings.button_link }}" class="link underlined-link large-up-hide">
+        {{- section.settings.button_label | escape -}}
+      </a>
+    {%- endif -%}
+  </div>
+{%- endunless -%}
 
 <div class="sponsor-slider-wrapper">
   <div class="sponsor-slider slide-1">
@@ -128,7 +137,7 @@
   .sponsor-slider{
     width: auto;
     position: absolute;
-    white-space: nowrap
+    white-space: nowrap;
 
   }
   .sponsor-slider .item{
