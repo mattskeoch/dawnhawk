@@ -1,5 +1,7 @@
 <div class="floating-button">
-  <a href="/collections" class="">{{ section.settings['floating-btn-text'] }}</a>
+  <a href="/collections" class=""
+    ><span>{{ section.settings['floating-btn-text'] }}</span></a
+  >
 </div>
 
 {% stylesheet %}
@@ -43,7 +45,7 @@
       animation: fadeIn 400ms ease-in both;
     }
 
-    .floating-button a::after {
+    .floating-button span::after {
       content: '';
       height: 7px;
       background: red;
