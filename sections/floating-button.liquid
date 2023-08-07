@@ -93,6 +93,17 @@
   // Add a listener to the mediaQuery object to update the floatingBtn when the media query state changes
   mediaQuery.addListener(updateFloatingBtn);
 
+  let changeWidth = () => {
+    let scroll = (window.pageYOffset / 5);
+    let width = scroll;
+
+    document.getElementByClass('.floating-button span::after').style.width = '44px';
+  }
+
+  window.addEventLintener('scroll', function(){
+    changeWidth()
+  })
+
   window.addEventListener("scroll", updateFloatingBtn);
 {% endjavascript %}
 
