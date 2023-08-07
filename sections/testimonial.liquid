@@ -47,15 +47,20 @@
       {%- endfor -%}
     {%- endif -%}
   </div>
-
-  {%- if section.settings.button_label != blank -%}
-    <a href="{{ section.settings.button_link }}" class="button button--primary read-more">
-      {{- section.settings.button_label | escape -}}
-    </a>
-  {%- endif -%}
+  <div class="read-more-containter">
+    {%- if section.settings.button_label != blank -%}
+      <a href="{{ section.settings.button_link }}" class="button button--primary read-more">
+        {{- section.settings.button_label | escape -}}
+      </a>
+    {%- endif -%}
+  </div>
 </div>
 
 {% stylesheet %}
+  .read-more-container {
+    margin: 0 auto;
+  }
+
   button .read-more {
     background-color: rgba(var(--color-button),var(--alpha-button-background));
     color: rgb(var(--color-button-text));
