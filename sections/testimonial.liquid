@@ -32,6 +32,26 @@
   {%- endunless -%}
 </div>
 
+{%- if section.blocks.size > 0 -%}
+  {%- for block in section.blocks -%}
+    <blockquote>
+      {%- if block.settings.quote != blank -%}
+        <p>
+          {{ block.settings.quote }}
+        </p>
+      {%- endif -%}
+    </blockquote>
+
+    {%- if block.settings.author != blank -%}
+      <cite>
+        <a href="{{ block.settings.link }}">
+          {{ block.settings.author }}
+        </a>
+      </cite>
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
 {% stylesheet %}
 {% endstylesheet %}
 
@@ -123,7 +143,18 @@
   "presets": [
     {
       "name": "Testimonial Slider",
-      "category": "Custom"
+      "category": "Text",
+       "blocks": [
+        {
+          "type": "quote"
+        },
+        {
+          "type": "quote"
+        },
+        {
+          "type": "quote"
+        }
+      ]
     }
   ]
 }
