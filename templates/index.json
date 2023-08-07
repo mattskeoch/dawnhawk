@@ -493,6 +493,37 @@
     },
     "526a363a-fd87-4df8-bd3e-e095c1eec215": {
       "type": "testimonial",
+      "blocks": {
+        "75634179-2a1e-4e57-b3fb-1c2aa4314f2e": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author’s name",
+            "link": ""
+          }
+        },
+        "113bcbd5-c429-444a-b4ed-6972bec5264f": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author’s name",
+            "link": ""
+          }
+        },
+        "141966c7-9493-4163-85ea-bfbbedd560f0": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author’s name",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "75634179-2a1e-4e57-b3fb-1c2aa4314f2e",
+        "113bcbd5-c429-444a-b4ed-6972bec5264f",
+        "141966c7-9493-4163-85ea-bfbbedd560f0"
+      ],
       "settings": {
         "title": "Testimonials",
         "heading_size": "h1",
