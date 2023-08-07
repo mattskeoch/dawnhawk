@@ -72,9 +72,8 @@
   const floatingBtn = document.querySelector(".floating-button");
 
   console.log(mediaQuery);
-  console.log(window.scrollY);
 
-  function updateFloatingBtn() {
+  let updateFloatingBtn = () => {
     var y = window.scrollY;
     console.log(y);
     if (y >= 200 && mediaQuery.matches) {
@@ -82,12 +81,16 @@
     } else {
       floatingBtn.style.display = 'none';
     }
-  }
+  };
 
+  // Initial call to updateFloatingBtn
   updateFloatingBtn();
 
   // Add a listener to the mediaQuery object to update the floatingBtn when the media query state changes
   mediaQuery.addListener(updateFloatingBtn);
+
+  // Add a scroll event listener to update the floatingBtn as the user scrolls
+  window.addEventListener('scroll', updateFloatingBtn);
 {% endjavascript %}
 
 {% schema %}
