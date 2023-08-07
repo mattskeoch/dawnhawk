@@ -42,6 +42,7 @@
 {
   "name": "Testimonial Slider",
   "class": "testimonial-section",
+  "max_blocks": 8,
   "settings": [
     {
       "type": "text",
@@ -92,6 +93,31 @@
       "unit": "px",
       "label": "t:sections.all.padding.padding_bottom",
       "default": 36
+    }
+  ],
+   "blocks": [
+    {
+      "type": "quote",
+      "name": "Testimonial",
+      "settings": [
+        {
+          "type": "richtext",
+          "id": "quote",
+          "label": "Text",
+          "default": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>"
+        },
+        {
+          "type": "text",
+          "id": "author",
+          "label": "Author",
+          "default": "Author’s name"
+        },
+        {
+    "type": "url",
+          "id": "link",
+          "label": "link"
+        }
+      ]
     }
   ],
   "presets": [
