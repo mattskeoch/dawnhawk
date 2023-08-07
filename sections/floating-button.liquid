@@ -68,30 +68,25 @@
 {% endstylesheet %}
 
 {% javascript %}
-      const mediaQuery = window.matchMedia('(max-width: 600px)');
-      const floatingBtn = document.querySelector(".floating-button");
+  const mediaQuery = window.matchMedia('(max-width: 600px)');
+  const floatingBtn = document.querySelector(".floating-button");
 
-      console.log(mediaQuery);
+  console.log(mediaQuery);
 
-      function updateFloatingBtn() {
-        var y = window.scrollY;
-        console.log(y);
-        if (y >= 200 && mediaQuery.matches) {
-          floatingBtn.style.display = 'block';
-        } else {
-          floatingBtn.style.display = 'none';
-        }
-      }
+  function updateFloatingBtn() {
+    var y = window.scrollY;
+    console.log(y);
+    if (y >= 200 && mediaQuery.matches) {
+      floatingBtn.style.display = 'block';
+    } else {
+      floatingBtn.style.display = 'none';
+    }
+  }
 
-  With this change, the window.scrollY value will be accessible inside the updateFloatingBtn function.
+  updateFloatingBtn();
 
-  Other than that, the code looks fine and will update the floatingBtn based on the mediaQuery state changes.
-
-
-      updateFloatingBtn();
-
-      // Add a listener to the mediaQuery object to update the floatingBtn when the media query state changes
-      mediaQuery.addListener(updateFloatingBtn);
+  // Add a listener to the mediaQuery object to update the floatingBtn when the media query state changes
+  mediaQuery.addListener(updateFloatingBtn);
 {% endjavascript %}
 
 {% schema %}
