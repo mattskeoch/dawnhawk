@@ -23,5 +23,6 @@
 }
 
 .btn--primary:hover {
-  background-color: #0054ac;
+    background-color: #0054ac;
+    box-shadow: 0 5px 12px 0 rgba(0, 84, 172, 0.5);
 }
