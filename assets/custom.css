@@ -21,3 +21,8 @@
     min-width: calc(12rem + var(--buttons-border-width) * 2);
     min-height: calc(4.5rem + var(--buttons-border-width) * 2); 
 }
+
+.btn--primary:hover {
+  --border-offset: 1.3px;
+box-shadow: 0 0 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(var(--color-button-text),var(--border-opacity)),0 0 0 calc(var(--buttons-border-width) + 1px) rgba(var(--color-button),var(--alpha-button-background));
+}
