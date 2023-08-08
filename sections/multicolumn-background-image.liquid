@@ -112,8 +112,17 @@
     </div>
   {%- endif -%}
   <div class="banner__content banner__content--{{ section.settings.desktop_content_position }} page-width{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
-    <ul role="list">
-      <li></li>
+    <ul class="features-grid">
+      <li class="features-card">
+        <div class="features-icon audio"><i class="zmdi zmdi-audio"></i></div>
+        <div class="features-text">
+          <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit asperiores consequatur</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti eius quidem a consequuntur ipsum amet.
+            Maxime assumenda animi accusamus tempora.
+          </p>
+        </div>
+      </li>
     </ul>
     <!-- {%- for block in section.blocks -%} -->
     <!-- Content here -->
