@@ -29,7 +29,7 @@
   <div class="quotes">
     {%- if section.blocks.size > 0 -%}
       {%- for block in section.blocks -%}
-        <blockquote>
+        <blockquote class="testimonial-blockquote">
           {%- if block.settings.quote != blank -%}
             <p>
               {{ block.settings.quote }}
@@ -57,7 +57,7 @@
 </div>
 
 {% stylesheet %}
-  blockquote {
+  blockquote .testimonial-blockquote {
     text-align: center;
     border-left: none;
     padding-left: none;
