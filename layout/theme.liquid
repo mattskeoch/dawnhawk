@@ -232,13 +232,13 @@
 
       @media screen and (min-width: 750px) {
         body {
-          font-size: 1.6rem;
+          font-size: 1.6rem
         }
       }
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
-
+    {{ 'custom.css' | asset_url | stylesheet_tag }}
     {% if template == 'index' %}
       {{ 'slick.css' | asset_url | stylesheet_tag }}
       {{ 'slick-theme.css' | asset_url | stylesheet_tag }}
@@ -306,6 +306,8 @@
       
       
       
+      
+      
       window.shopUrl = '{{ request.origin }}';
       window.routes = {
         cart_add_url: '{{ routes.cart_add_url }}',
@@ -344,6 +346,8 @@
         recipientFormExpanded: `{{ 'recipient.form.expanded' | t }}`,
         recipientFormCollapsed: `{{ 'recipient.form.collapsed' | t }}`,
       };
+
+
 
 
 
