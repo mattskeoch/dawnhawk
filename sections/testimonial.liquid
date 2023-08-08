@@ -64,14 +64,22 @@
   }
 
   .button.button--primary.read-more {
-    content: "";
-    position: absolute;
-    top: var(--buttons-border-width);
-    right: var(--buttons-border-width);
-    bottom: var(--buttons-border-width);
-    left: var(--buttons-border-width);
-    z-index: 1;
-    border-radius: var(--buttons-radius);
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border: 0;
+    padding: 0 3rem;
+    cursor: pointer;
+    font: inherit;
+    font-size: 1.5rem;
+    letter-spacing: .1rem;
+    line-height: calc(1 + .2 / var(--font-body-scale));
+    text-decoration: none;
+    color: rgb(var(--color-button-text));
+    transition: box-shadow var(--duration-short) ease;
+    -webkit-appearance: none;
+    appearance: none;
+    background-color: rgba(var(--color-button),var(--alpha-button-background));
     background-color: #0590e3;
     color: rgb(var(--color-button-text));
     box-shadow: none !important;
