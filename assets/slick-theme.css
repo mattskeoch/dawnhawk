@@ -185,14 +185,14 @@
     top: 0;
     left: 0;
 
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
 
     content: '•';
     text-align: center;
 
     opacity: .25;
-    color: black;
+    color: #0098ca;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -200,5 +200,5 @@
 .slick-dots li.slick-active button:before
 {
     opacity: .75;
-    color: black;
+    color: #0098ca;
 }
