@@ -24,8 +24,61 @@
 {%- endif -%}
 
 {%- style -%}
-  #Banner-{{ section.id }}::after {
-    opacity: {{ section.settings.image_overlay_opacity | divided_by: 100.0 }};
+    #Banner-{{ section.id }}::after {
+      opacity: {{ section.settings.image_overlay_opacity | divided_by: 100.0 }};
+    }
+
+    .features-grid {
+    padding: 1rem;
+    max-width: 1200px;
+    margin: auto;
+  }
+
+  @media (min-width: 900px) {
+    .features-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem;
+    }
+  }
+
+  .features-card {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 1rem;
+    background-color: #f9f9f9;
+    padding: 1rem;
+    margin: 1rem 0;
+    box-shadow: 0 0 20px 0 #00000033;
+  }
+
+  @media (min-width: 900px) {
+    .features-card {
+      margin: 0;
+    }
+  }
+
+  .features-icon {
+    color: #fff;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+  }
+
+  @media (min-width: 700px) {
+    .features-icon {
+      width: 48px;
+      height: 48px;
+    }
+  }
+
+  @media (min-width: 700px) {
+    .features-icon i {
+      font-size: 1.25rem
+    }
   }
 {%- endstyle -%}
 
