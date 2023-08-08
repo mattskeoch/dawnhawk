@@ -1,32 +1,82 @@
-<section class="top-menu">
-  <div class="first-option">
-    <img class="first-option--img motion-reduce" url="{{ section.settings.first-image | image_url: width: 30  }}">
-    <a href="{{ section.settings.first-url }}">
-      <p class="first-option--text">{{ section.settings['first-text'] }}</p>
-    </a>
-  </div>
+<section class="top-menu-container">
+  <div class="top-menu">
+    <div class="first-option">
+      <a href="{{ section.settings.first-url }}">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20px">
+          <path fill-rule="evenodd" d="M1.5 4.5a3 3 0 013-3h1.372c.86 0 1.61.586 1.819 1.42l1.105 4.423a1.875 1.875 0 01-.694 1.955l-1.293.97c-.135.101-.164.249-.126.352a11.285 11.285 0 006.697 6.697c.103.038.25.009.352-.126l.97-1.293a1.875 1.875 0 011.955-.694l4.423 1.105c.834.209 1.42.959 1.42 1.82V19.5a3 3 0 01-3 3h-2.25C8.552 22.5 1.5 15.448 1.5 6.75V4.5z" clip-rule="evenodd" />
+        </svg>
 
-  <div class="second-option">
-    <img class="second-option--img motion-reduce" url="{{ section.settings.second-image | image_url: width: 30  }}">
-    <a href="{{ section.settings.second-url }}">
-      <p class="second-option--text">{{ section.settings['second-text'] }}</p>
-    </a>
+        <p class="first-option--text">{{ section.settings['first-text'] }}</p>
+      </a>
+    </div>
+
+    <div class="second-option">
+      <a href="{{ section.settings.second-url }}" class="animate--hover-3d-lift">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20px">
+          <path fill-rule="evenodd" d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zm4.28 10.28a.75.75 0 000-1.06l-3-3a.75.75 0 10-1.06 1.06l1.72 1.72H8.25a.75.75 0 000 1.5h5.69l-1.72 1.72a.75.75 0 101.06 1.06l3-3z" clip-rule="evenodd" />
+        </svg>
+
+        <p class="second-option--text">{{ section.settings['second-text'] }}</p>
+      </a>
+    </div>
   </div>
 </section>
 
 {% style %}
-  section .top-menu {
-        padding-top: {{ section.settings.padding_top }}px;
-        padding-bottom: {{ section.settings.padding_bottom }}px;
+  .top-menu-container {
+    max-width: 1080px;
+    width: 100%;
+    margin: 0 auto;
   }
 
   .top-menu {
     display: flex;
+    justify-content: end;
+    padding-top: {{ section.settings.padding_top }}px;
+    padding-bottom: {{ section.settings.padding_bottom }}px;
+    gap: 1rem;
   }
 
   .first-option {
     display: flex;
+  }
 
+  .first-option a,
+  .second-option a{
+    display: flex;
+    gap: 8px;
+  }
+
+  .first-option a,
+  .second-option a{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border: 0;
+    padding: 0 2rem;
+    cursor: pointer;
+    font: inherit;
+    font-size: 14px !important;
+    line-height: 16px;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: #0590e3;
+    transition: box-shadow var(--duration-short) ease;
+    -webkit-appearance: none;
+    appearance: none;
+    background-color: #fff !important;
+  }
+  .first-option a:hover,
+  .second-option a:hover{
+    cursor: pointer;
+    color: #fff;
+    background-color: #0590e3 !important;
+  }
+
+  @media screen and (max-width: 980px) {
+    .top-menu {
+      display: none;
+    }
   }
 {% endstyle %}
 
@@ -34,39 +84,32 @@
 {
   "name": "Top Menu",
   "class": "top-menu",
-  "tag": "top-menu",
   "settings": [
-    {
-      "type": "image_picker",
-      "id": "first-image"
-    },
     {
       "type": "text",
       "id": "first-text",
+      "label": "First Text",
       "placeholder": "First Test Placeholder",
       "default": "First Test Default"
     },
     {
       "type": "url",
       "id": "first-url",
-      "label": "First URL label"
-    },
-    {
-      "type": "image_picker",
-      "id": "second-image"
+      "label": "First URL"
     },
     {
       "type": "text",
       "id": "second-text",
+      "label": "Second Text",
       "placeholder": "Second Text Placeholder",
       "default": "Second Test Default"
     },
     {
       "type": "url",
       "id": "second-url",
-      "label": "Second URL Label"
+      "label": "Second URL"
     },
-    {
+        {
       "type": "range",
       "id": "padding_top",
       "min": 0,
@@ -86,11 +129,14 @@
       "label": "t:sections.all.padding.padding_bottom",
       "default": 20
     }
-  ]
+  ],
   "presets": [
     {
       "name": "Top Menu Banner",
-      "category": "Banners"
+      "category": "Banners",
+      "settings": {
+
+      }
     }
   ]
 }

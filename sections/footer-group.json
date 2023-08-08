@@ -1,1 +1,71 @@
-{"name":"t:sections.footer.name","type":"footer","sections":{"footer":{"type":"footer","settings":{"color_scheme":"background-1","newsletter_enable":true,"newsletter_heading":"Subscribe to our emails","enable_follow_on_shop":true,"show_social":true,"enable_country_selector":true,"enable_language_selector":true,"payment_enable":true,"show_policy":false,"margin_top":36,"padding_top":36,"padding_bottom":36}}},"order":["footer"]}
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "6e41d4d9-6730-47ed-a422-33beeef6cc12": {
+      "type": "floating-button",
+      "settings": {
+        "floating-btn-text": "Free Consultation"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "2299b5bc-fa5c-470e-91a4-faa4e8c149cb": {
+          "type": "liquid",
+          "settings": {
+            "section_liquid": "{{ images['HAWK_-_Landscape_Multi_alt.png'] | image_url: width: 260 | image_tag }}\n<p>Our passion at Hawk CFC is not only great flooring but a great user experience. No one wants to spend excess time thinking about their floor, but everyone wants it to perform. Hawk CFC provides superior flooring solutions for the residential, industrial, commercial, and food production industries. When safety, hygiene, quality, or even just good looks are of top priority, Hawk CFC is the right choice.<\/p>"
+          }
+        },
+        "269c71bd-d798-42af-84ad-5f7ab884456b": {
+          "type": "liquid",
+          "settings": {
+            "section_liquid": "<h3>Company Info<\/h3>\n<ul class=\"list-unstyled footer__list-social\">\n<li class=\"list-social__item\">{% render 'icon-location' %}\nServicing all of Perth and WA<\/li>\n<li class=\"list-social__item\">{% render 'icon-phone' %}1800 HAWK CC (1800 429 522)<\/li>\n<li class=\"list-social__item\">{% render 'icon-mail' %} Email Us<\/li>\n<li class=\"list-social__item\">{% render 'icon-time' %} Mon to Fri : 6:00 AM - 6:00 PM<\/li>\n<li class=\"list-social__item\">{% render 'icon-time' %} Sat to Sun : Closed<\/li>\n<li class=\"list-social__item\">{% render 'icon-storefront' %} Closed on Public Holidays<\/li>\n<li class=\"list-social__item\">{% render 'icon-checkbadge' %}ABN 85 146 676 394<\/li>\n<\/ul>"
+          }
+        },
+        "0caa156c-cc5c-4c76-b0e4-0be131f64a4b": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "f3797fe0-5236-45c3-91f1-32d009ffdbda": {
+          "type": "liquid",
+          "settings": {
+            "section_liquid": "<h3>Location<\/h3>\n<ul class=\"list-unstyled footer__list-social\">\n<li class=\"list-social__item\">{% render 'icon-location' %}\n10 Cowcher Place\nBelmont WA 6104<\/li><\/ul>\n<div class=\"map-wrapper\">\n<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d13540.772650998124!2d115.931047!3d-31.955656!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2a32bbc476d8dd7d%3A0x8e81c8139243d67e!2s10%20Cowcher%20Pl%2C%20Belmont%20WA%206104!5e0!3m2!1sen!2sau!4v1691036825989!5m2!1sen!2sau\" width=\"305\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>\n<\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "2299b5bc-fa5c-470e-91a4-faa4e8c149cb",
+        "269c71bd-d798-42af-84ad-5f7ab884456b",
+        "0caa156c-cc5c-4c76-b0e4-0be131f64a4b",
+        "f3797fe0-5236-45c3-91f1-32d009ffdbda"
+      ],
+      "custom_css": [
+        ".rte img {border: none;}",
+        ".footer-block__details-content.rte [class^=\"icon\"] {width: 18px; height: 18px; position: relative; top: 3px; margin-right: 4px; color: #0098ca;}",
+        ".rte ul {padding-left: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "show_policy": true,
+        "margin_top": 36,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "6e41d4d9-6730-47ed-a422-33beeef6cc12",
+    "footer"
+  ]
+}

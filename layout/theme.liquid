@@ -238,6 +238,11 @@
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
+    {{ 'custom.css' | asset_url | stylesheet_tag }}
+    {% if template == 'index' %}
+      {{ 'slick.css' | asset_url | stylesheet_tag }}
+      {{ 'slick-theme.css' | asset_url | stylesheet_tag }}
+    {% endif %}
 
     {%- unless settings.type_body_font.system? -%}
       <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
@@ -278,7 +283,6 @@
     {%- endif -%}
 
     {% sections 'header-group' %}
-
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
     </main>
@@ -291,6 +295,20 @@
     </ul>
 
     <script>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
       window.shopUrl = '{{ request.origin }}';
       window.routes = {
         cart_add_url: '{{ routes.cart_add_url }}',
@@ -329,10 +347,42 @@
         recipientFormExpanded: `{{ 'recipient.form.expanded' | t }}`,
         recipientFormCollapsed: `{{ 'recipient.form.collapsed' | t }}`,
       };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     </script>
 
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+
+    {% if template == 'index' %}
+      <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+      <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+      {{ 'slick.min.js' | asset_url | script_tag }}
+      <script type="text/javascript">
+           $('.quotes').slick({
+          dots: true,
+          infinite: true,
+          autoplay: true,
+          autoplaySpeed: 6000,
+          speed: 800,
+          slidesToShow: 1,
+          adaptiveHeight: true
+        });
+      </script>
+    {% endif %}
   </body>
 </html>

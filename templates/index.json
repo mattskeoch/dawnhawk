@@ -1,1 +1,549 @@
-{"sections":{"246556c8-3f81-44a5-b630-8314920c753b":{"type":"slideshow","blocks":{"template--20175700066578__246556c8-3f81-44a5-b630-8314920c753b-slide-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Slider-1.webp","heading":"A Unique Epoxy Concrete Floor That Lasts","heading_size":"h0","subheading":"We only source the highest quality materials, technicians, and equipment. This is just one more reason we set the highest standard in resin flooring.","button_label":"View Services","link":"shopify:\/\/collections","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":20,"color_scheme":"accent-2","text_alignment_mobile":"center"}},"4d484e79-f334-47b5-aca7-77d36dbb6ed6":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Concrete-Enhancer-BG-Image.webp","heading":"Commercial Epoxy Flooring Solutions that Last","heading_size":"h0","subheading":"We take pride in our work and provide the highest possible quality for all of our clients. Our passion is providing flooring for life.","button_label":"View Services","link":"shopify:\/\/collections","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":20,"color_scheme":"accent-2","text_alignment_mobile":"center"}}},"block_order":["template--20175700066578__246556c8-3f81-44a5-b630-8314920c753b-slide-1","4d484e79-f334-47b5-aca7-77d36dbb6ed6"],"settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"dots","auto_rotate":false,"change_slides_speed":5,"image_behavior":"ambient","show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"60ceb3dc-eb47-44cd-aa8b-994de85622f8":{"type":"image-with-text","blocks":{"template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-heading-1":{"type":"heading","settings":{"heading":"Perth’s Most Trusted Epoxy Flooring","heading_size":"h1"}},"template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-text-1":{"type":"text","settings":{"text":"<p>Our passion is not just great <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/epoxy-flooring\/\">epoxy flooring<\/a><br\/> but a great user experience. No one wants to spend excess time thinking<br\/> about their floor, but everyone wants it to perform. We provide <br\/>superior solutions for the <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/residential-flooring-perth\/\">residential<\/a>, <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/industrial-flooring\/\">industrial<\/a>, <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/commercial-flooring\/\">commercial<\/a>, and <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/industrial-flooring\/food-grade-flooring-perth\/\">food production<\/a> industries.<\/p><p>Our forward-thinking team, quality equipment, and world-class <br\/>materials will guarantee long-lasting epoxy flooring. We pride ourselves<br\/> on installing <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/estherell-resin-flooring-perth\/\">resin flooring<\/a> fast and efficiently. Our goal is to ease the stress of your <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/services\/flooring\/\">flooring project<\/a> by reducing downtime and allowing you to be back to work faster<\/p>","text_style":"body"}},"template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-button-1":{"type":"button","settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-heading-1","template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-text-1","template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-button-1"],"settings":{"height":"adapt","desktop_image_width":"small","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"","image_behavior":"zoom-in","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"eb88620e-6a35-4314-8430-881e04930108":{"type":"multicolumn","blocks":{"template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/WA-Icon.png","title":"West Australian Owned and Operated","text":"<p>Proudly Western Australian since 2014.<\/p>","link_label":"","link":""}},"template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Guarantee-Icon.png","title":"Guarantee","text":"<p>Ask us about our Delamination Warranty that covers both Materials used and Workmanship.<\/p>","link_label":"","link":""}},"template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-3":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Custom-Resins-Icon.png","title":"Custom Resins","text":"<p>Our Western Australian plant allows us to produce specific resins for our clients.<\/p>","link_label":"","link":""}}},"block_order":["template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-1","template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-2","template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-3"],"settings":{"title":"Why Choose Us","heading_size":"h1","image_width":"third","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"background-2","columns_mobile":"1","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}}},"order":["246556c8-3f81-44a5-b630-8314920c753b","60ceb3dc-eb47-44cd-aa8b-994de85622f8","eb88620e-6a35-4314-8430-881e04930108"]}
+{
+  "sections": {
+    "246556c8-3f81-44a5-b630-8314920c753b": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20175700066578__246556c8-3f81-44a5-b630-8314920c753b-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Slider-1.webp",
+            "heading": "A Unique Epoxy Concrete Floor That Lasts",
+            "heading_size": "h0",
+            "subheading": "We only source the highest quality materials, technicians, and equipment. This is just one more reason we set the highest standard in resin flooring.",
+            "button_label": "View Services",
+            "link": "shopify:\/\/collections",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 20,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "4d484e79-f334-47b5-aca7-77d36dbb6ed6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Concrete-Enhancer-BG-Image.webp",
+            "heading": "Commercial Epoxy Flooring Solutions that Last",
+            "heading_size": "h0",
+            "subheading": "We take pride in our work and provide the highest possible quality for all of our clients. Our passion is providing flooring for life.",
+            "button_label": "View Services",
+            "link": "shopify:\/\/collections",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 20,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--20175700066578__246556c8-3f81-44a5-b630-8314920c753b-slide-1",
+        "4d484e79-f334-47b5-aca7-77d36dbb6ed6"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "ambient",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "60ceb3dc-eb47-44cd-aa8b-994de85622f8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Perth’s Most Trusted Epoxy Flooring",
+            "heading_size": "h1"
+          }
+        },
+        "template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our passion is not just great <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/epoxy-flooring\/\">epoxy flooring<\/a><br\/> but a great user experience. No one wants to spend excess time thinking<br\/> about their floor, but everyone wants it to perform. We provide <br\/>superior solutions for the <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/residential-flooring-perth\/\">residential<\/a>, <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/industrial-flooring\/\">industrial<\/a>, <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/commercial-flooring\/\">commercial<\/a>, and <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/industrial-flooring\/food-grade-flooring-perth\/\">food production<\/a> industries.<\/p><p>Our forward-thinking team, quality equipment, and world-class <br\/>materials will guarantee long-lasting epoxy flooring. We pride ourselves<br\/> on installing <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/estherell-resin-flooring-perth\/\">resin flooring<\/a> fast and efficiently. Our goal is to ease the stress of your <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/services\/flooring\/\">flooring project<\/a> by reducing downtime and allowing you to be back to work faster<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-heading-1",
+        "template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-text-1",
+        "template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Epoxy-Floor-Coatings.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "eb88620e-6a35-4314-8430-881e04930108": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WA-Icon.png",
+            "title": "West Australian Owned and Operated",
+            "text": "<p>Proudly Western Australian since 2014.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Guarantee-Icon.png",
+            "title": "Guarantee",
+            "text": "<p>Ask us about our Delamination Warranty that covers both Materials used and Workmanship.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Custom-Resins-Icon.png",
+            "title": "Custom Resins",
+            "text": "<p>Our Western Australian plant allows us to produce specific resins for our clients.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "cb0d43f8-ab57-4c74-b635-81e26e3986bf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Industries-Icon.png",
+            "title": "Many Industries",
+            "text": "<p>We work with commercial sectors, the food industry, pharmaceutical, healthcare, mechanical and equipment workshops, etc.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0ad52fbc-adc9-4cbc-a70a-4c90129286cf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nonslip-Icon.png",
+            "title": "Non Slip",
+            "text": "<p>We tailor-make your floor to achieve the desired cleanability and slip resistance rating.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "72405bb1-6170-4765-99b0-f6656debb757": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Safety-First-Icon.png",
+            "title": "Safety First",
+            "text": "<p>Safety is at the core of our business values. Ask us how we can keep your team safe.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "781c40cf-5d88-45fa-9a2f-eaabf360892b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/From-Manufacturing-To-Installation-Icon.png",
+            "title": "From Manufacturing to Installation",
+            "text": "<p>We are the only West Australian installation company with its own local <br\/>manufacturing plant. We can handle the entire process from production to<br\/> installation to save you money.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "beddf14d-1a2e-4520-a442-0044e012277e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Flooring-For-LIFE-Icon.png",
+            "title": "Flooring for Life",
+            "text": "<p>In 2014, we proposed to transform the food industry by removing the <br\/>“grout & seams”. Specialising in HACCP Accredited Silikal© GmbH <br\/>Reactive Resins, we are passionate about providing our customers with <br\/>seamless, easy-to-use non-slip surfaces.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-1",
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-2",
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-3",
+        "cb0d43f8-ab57-4c74-b635-81e26e3986bf",
+        "0ad52fbc-adc9-4cbc-a70a-4c90129286cf",
+        "72405bb1-6170-4765-99b0-f6656debb757",
+        "781c40cf-5d88-45fa-9a2f-eaabf360892b",
+        "beddf14d-1a2e-4520-a442-0044e012277e"
+      ],
+      "settings": {
+        "title": "Why Choose Us",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9eb8753b-2b67-4cad-8010-4468eef7a3d4": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=guezcwptUTE",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e9738470-66ef-482d-96c1-7f57468986e1": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20192202883346__e9738470-66ef-482d-96c1-7f57468986e1-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Industrial-Epoxy-Flooring.jpg",
+            "title": "Epoxy Flooring",
+            "text": "<p>Your floor needs to be able to withstand foot traffic, vehicle traffic, <br\/>impact and moisture – while ticking aesthetic boxes too. This sounds <br\/>like a tough balance, but epoxy flooring offers the all-in-one solution.<\/p>",
+            "link_label": "Read More",
+            "link": "\/"
+          }
+        },
+        "template--20192202883346__e9738470-66ef-482d-96c1-7f57468986e1-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Polished-Concrete-Feature-Image.jpg",
+            "title": "Polished Concrete",
+            "text": "<p>Polished concrete flooring adds design and durability to any space. <br\/>Originally thought to be suited for only industrial or commercial <br\/>spaces, these floors are now in demand as a designer flooring option in <br\/>homes across Perth and all of Australia.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "template--20192202883346__e9738470-66ef-482d-96c1-7f57468986e1-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Concrete-Sealing.jpg",
+            "title": "Concrete Sealing",
+            "text": "<p>A good quality cement sealer applied by an experienced application team <br\/>can be of tremendous benefit to your workplace, making for reduced <br\/>maintenance expenses, lower safety risks, stronger concrete surface and <br\/>“dusting” eliminated.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "c34f13c7-fd4d-45af-9f8e-91f3ddb9b05e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Honed-Concrete-Feature-Image.jpg",
+            "title": "Honed Concrete",
+            "text": "<p>Honed concrete floors have become increasingly popular in recent years, <br\/>featuring in many lifestyle magazines as one of the architectural <br\/>highlights of a residential home or commercial property.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "f61c2c56-826d-465d-a003-825dbe4421c6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Concrete-Painting-Feature-Image.jpg",
+            "title": "Concrete Painting",
+            "text": "<p>Paint is fantastic on many surfaces, but is continually defeated by the <br\/>porous and dusty nature of concrete – which is the reason why we are <br\/>often hired to install resin floors in showrooms – even paint showrooms!<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "45cf530b-055f-4c3f-a9ee-a391824fac60": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tile-remove.jpg",
+            "title": "Tile Removal",
+            "text": "<p>As an alternative option to removing existing tiles, there is the option<br\/> of having a floor installed directly to the prepared tiled surface.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20192202883346__e9738470-66ef-482d-96c1-7f57468986e1-column-1",
+        "template--20192202883346__e9738470-66ef-482d-96c1-7f57468986e1-column-2",
+        "template--20192202883346__e9738470-66ef-482d-96c1-7f57468986e1-column-3",
+        "c34f13c7-fd4d-45af-9f8e-91f3ddb9b05e",
+        "f61c2c56-826d-465d-a003-825dbe4421c6",
+        "45cf530b-055f-4c3f-a9ee-a391824fac60"
+      ],
+      "settings": {
+        "title": "Services We Offer",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a5cdf091-7a2a-45da-b071-18f18e2fb720": {
+      "type": "logo-slider",
+      "settings": {
+        "title": "Our Trusted Clients",
+        "heading_size": "h1",
+        "first-image": "shopify:\/\/shop_images\/Bridgestone-Logo.png",
+        "second-image": "shopify:\/\/shop_images\/WA-Police-Logo.png",
+        "third-image": "shopify:\/\/shop_images\/Crown-Resorts-Logo.png",
+        "fourth-image": "shopify:\/\/shop_images\/General-Electric-Logo.png",
+        "fifth-image": "shopify:\/\/shop_images\/ECU-Logo.png",
+        "sixth-image": "shopify:\/\/shop_images\/Quaker-Logo.png",
+        "seventh-image": "shopify:\/\/shop_images\/Pindan-Logo.png",
+        "eighth-image": "shopify:\/\/shop_images\/BHP-Billiton-Logo.png",
+        "ninth-image": "shopify:\/\/shop_images\/Murduch-Logo.png",
+        "tenth-image": "shopify:\/\/shop_images\/PetBarn-Logo.png",
+        "eleventh-image": "shopify:\/\/shop_images\/PepsiCo-Logo.png",
+        "twelvth-image": "shopify:\/\/shop_images\/ASC-Logo.png",
+        "thirteenth-image": "shopify:\/\/shop_images\/Jax-Tyres.png",
+        "fourteenth-image": "shopify:\/\/shop_images\/Broad-Logo.png",
+        "fifteenth-image": "shopify:\/\/shop_images\/Bunbury-Bearings-Logo.png",
+        "sixteenth-image": "shopify:\/\/shop_images\/Dawn-Express-Logo.png",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "113230c2-a907-479e-86a6-2ff4633d07bd": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RRTS-Logo-400x220.png",
+            "title": "RRTS – Rapid Return To Service Flooring",
+            "text": "<p>We specialise in minimising your downtime. We have heavy equipment to prep fast and rapid cure resins which often allow for an immediate cure.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Silikal-Logo-400x220.png",
+            "title": "Comprehensive Solutions Through Distributorships",
+            "text": "<p>We are the West Australian distributor for Silikal GmbH and Alluvius, as well as many accreditations for alternate suppliers.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ERFLA-Quartzite-Flooring-Diagram-Logo-400x220.png",
+            "title": "Multi-Layered Specialty Systems",
+            "text": "<p>Allow us to specify a system that takes into account your unique environment and goals.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "511e5f7b-34eb-4f5e-8f89-8c0bc79c6079": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FLEX-Plate-Logo-400x220.png",
+            "title": "Flex-Plate",
+            "text": "<p>Flex-Plate is found exclusivity at Hawk CFC.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7ee4a467-995b-4997-b6bf-e82682ed1555": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CM3-Certified-Logo-400x220.png",
+            "title": "CM3",
+            "text": "<p>We’re happy to show our health and safety capabilities.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1a93f3d6-3ae7-4498-9982-68c88906bafe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Zero-VOC-Logo-400x220.png",
+            "title": "Zero VOC Flooring",
+            "text": "<p>We offer beautiful, non-toxic, Eco-friendly floors.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-1",
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-2",
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-3",
+        "511e5f7b-34eb-4f5e-8f89-8c0bc79c6079",
+        "7ee4a467-995b-4997-b6bf-e82682ed1555",
+        "1a93f3d6-3ae7-4498-9982-68c88906bafe"
+      ],
+      "settings": {
+        "title": "Our Trusted Suppliers",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2b57c941-c088-427e-baf2-b430037f438e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Certifications",
+            "heading_size": "h1"
+          }
+        },
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In food safety management, a fundamental approach to managing risk is implementing a HACCP system.<br\/><br\/>This acronym stands for Hazard Analysis and Critical Control Point.<\/p><p>The development of a HACCP plan must identify and manage the <br\/>following types of hazards: Biological, Chemical, Physical, Allergens, Quality, and Regulatory.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-heading-1",
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-text-1",
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-button-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4a1b3c5f-c871-4067-a952-015659a6fd1c": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Latest From Our Blog",
+        "heading_size": "h1",
+        "blog": "news",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "526a363a-fd87-4df8-bd3e-e095c1eec215": {
+      "type": "testimonial",
+      "blocks": {
+        "75634179-2a1e-4e57-b3fb-1c2aa4314f2e": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author’s name",
+            "link": ""
+          }
+        },
+        "113bcbd5-c429-444a-b4ed-6972bec5264f": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author’s name",
+            "link": ""
+          }
+        },
+        "141966c7-9493-4163-85ea-bfbbedd560f0": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author’s name",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "75634179-2a1e-4e57-b3fb-1c2aa4314f2e",
+        "113bcbd5-c429-444a-b4ed-6972bec5264f",
+        "141966c7-9493-4163-85ea-bfbbedd560f0"
+      ],
+      "settings": {
+        "title": "What Our Clients Are Saying",
+        "heading_size": "h1",
+        "button_label": "Read More",
+        "button_link": "\/",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "246556c8-3f81-44a5-b630-8314920c753b",
+    "60ceb3dc-eb47-44cd-aa8b-994de85622f8",
+    "eb88620e-6a35-4314-8430-881e04930108",
+    "9eb8753b-2b67-4cad-8010-4468eef7a3d4",
+    "e9738470-66ef-482d-96c1-7f57468986e1",
+    "a5cdf091-7a2a-45da-b071-18f18e2fb720",
+    "113230c2-a907-479e-86a6-2ff4633d07bd",
+    "2b57c941-c088-427e-baf2-b430037f438e",
+    "4a1b3c5f-c871-4067-a952-015659a6fd1c",
+    "526a363a-fd87-4df8-bd3e-e095c1eec215"
+  ]
+}

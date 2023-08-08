@@ -121,6 +121,33 @@
                   {%- endif -%}
                 </li>
               {%- endfor -%}
+              <li>
+                <a
+                  id="HeaderDrawer-{{ link.handle }}"
+                  href="tel:1800429522"
+                  class="menu-drawer__menu-item list-menu__item link link--text focus-inset{% if link.current %} menu-drawer__menu-item--active{% endif %}"
+                  {% if link.current %}
+                    aria-current="page"
+                  {% endif %}
+                >
+                  <div style="width: 1.8rem; height: 1.8rem;">
+                    {%- render 'icon-phone' -%}
+                  </div>
+                  1800 429 522
+                </a>
+              </li>
+              <li>
+                <a
+                  id="HeaderDrawer-{{ link.handle }}"
+                  href="{{ link.url }}"
+                  class="menu-drawer__menu-item list-menu__item link link--text focus-inset{% if link.current %} menu-drawer__menu-item--active{% endif %}"
+                  {% if link.current %}
+                    aria-current="page"
+                  {% endif %}
+                >
+                  <strong>Free Consultation</strong>
+                </a>
+              </li>
             </ul>
           </nav>
           <div class="menu-drawer__utility-links">
@@ -230,6 +257,13 @@
               </div>
             {%- endif -%}
             <ul class="list list-social list-unstyled" role="list">
+              <li class="list-social__item">
+                <a href="tel:1800429522" class="list-social__link link">
+                  {%- render 'icon-phone' -%}
+
+                  <span class="visually-hidden">1800 429 522</span>
+                </a>
+              </li>
               {%- if settings.social_twitter_link != blank -%}
                 <li class="list-social__item">
                   <a href="{{ settings.social_twitter_link }}" class="list-social__link link">
@@ -309,3 +343,13 @@
     </div>
   </details>
 </header-drawer>
+
+{% style %}
+  .menu-drawer__menu.has-submenu.list-menu > hr {
+    margin: 2px;
+  }
+
+  .menu-drawer__menu.has-submenu.list-menu > li > a > svg {
+    margin-right: 6px;
+  }
+{% endstyle %}
