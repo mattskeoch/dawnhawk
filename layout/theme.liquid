@@ -296,6 +296,7 @@
 
     <script>
       
+      
       window.shopUrl = '{{ request.origin }}';
       window.routes = {
         cart_add_url: '{{ routes.cart_add_url }}',
@@ -335,6 +336,7 @@
         recipientFormCollapsed: `{{ 'recipient.form.collapsed' | t }}`,
       };
 
+
     </script>
 
     {%- if settings.predictive_search_enabled -%}
@@ -347,7 +349,7 @@
 
       {{ 'slick.min.js' | asset_url | script_tag }}
       <script type="text/javascript">
-        $('.testimonials').slick({
+        $('.testimonial').slick({
           dots: true,
           infinite: true,
           autoplay: true,
