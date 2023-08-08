@@ -295,20 +295,6 @@
     </ul>
 
     <script>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
       window.shopUrl = '{{ request.origin }}';
       window.routes = {
         cart_add_url: '{{ routes.cart_add_url }}',
@@ -347,20 +333,6 @@
         recipientFormExpanded: `{{ 'recipient.form.expanded' | t }}`,
         recipientFormCollapsed: `{{ 'recipient.form.collapsed' | t }}`,
       };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     </script>
 
     {%- if settings.predictive_search_enabled -%}
@@ -373,14 +345,14 @@
 
       {{ 'slick.min.js' | asset_url | script_tag }}
       <script type="text/javascript">
-           $('.quotes').slick({
+        $('.quotes').slick({
           dots: true,
           infinite: true,
           autoplay: true,
           autoplaySpeed: 6000,
           speed: 800,
           slidesToShow: 1,
-          adaptiveHeight: true
+          adaptiveHeight: true,
         });
       </script>
     {% endif %}
