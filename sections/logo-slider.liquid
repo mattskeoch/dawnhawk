@@ -11,126 +11,127 @@
     }
   }
 {%- endstyle -%}
-
-<div
-  class="page-width section-{{ section.id }}-padding isolate{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
-  {% if settings.animations_reveal_on_scroll %}
-    data-cascade
-  {% endif %}
->
-  {%- unless section.settings.title == blank -%}
-    <div class="title-wrapper-with-link title-wrapper--self-padded-mobile title-wrapper--no-top-margin">
-      <h2 class="title inline-richtext {{ section.settings.heading_size }}">
-        {{ section.settings.title }}
-      </h2>
-      {%- if section.settings.button_label != blank and show_mobile_slider -%}
-        <a href="{{ section.settings.button_link }}" class="link underlined-link large-up-hide">
-          {{- section.settings.button_label | escape -}}
-        </a>
-      {%- endif -%}
-    </div>
-  {%- endunless -%}
-</div>
-<div class="sponsor-slider-wrapper">
-  <div class="sponsor-slider slide-1">
-    <div class="item">
-      <img src="{{ section.settings.first-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.second-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.third-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.fourth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.fifth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.sixth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.seventh-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.eighth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.ninth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.tenth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.eleventh-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.twelvth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.thirteenth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.fourteenth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.fifteenth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.sixteenth-image | image_url }}" alt="img" loading="lazy">
-    </div>
+<div class="section-{{ section.id }}-padding">
+  <div
+    class="page-width  isolate{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
+    {% if settings.animations_reveal_on_scroll %}
+      data-cascade
+    {% endif %}
+  >
+    {%- unless section.settings.title == blank -%}
+      <div class="title-wrapper-with-link title-wrapper--self-padded-mobile title-wrapper--no-top-margin">
+        <h2 class="title inline-richtext {{ section.settings.heading_size }}">
+          {{ section.settings.title }}
+        </h2>
+        {%- if section.settings.button_label != blank and show_mobile_slider -%}
+          <a href="{{ section.settings.button_link }}" class="link underlined-link large-up-hide">
+            {{- section.settings.button_label | escape -}}
+          </a>
+        {%- endif -%}
+      </div>
+    {%- endunless -%}
   </div>
-  <!-- Write the sponsor-slider twice to make it repeat smoothly -->
-  <div class="sponsor-slider slide-2">
-    <div class="item">
-      <img src="{{ section.settings.first-image | image_url }}" alt="img" loading="lazy">
+  <div class="sponsor-slider-wrapper">
+    <div class="sponsor-slider slide-1">
+      <div class="item">
+        <img src="{{ section.settings.first-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.second-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.third-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.fourth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.fifth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.sixth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.seventh-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.eighth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.ninth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.tenth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.eleventh-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.twelvth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.thirteenth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.fourteenth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.fifteenth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.sixteenth-image | image_url }}" alt="img" loading="lazy">
+      </div>
     </div>
-    <div class="item">
-      <img src="{{ section.settings.second-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.third-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.fourth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.fifth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.sixth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.seventh-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.eighth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.ninth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.tenth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.eleventh-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.twelvth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.thirteenth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.fourteenth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.fifteenth-image | image_url }}" alt="img" loading="lazy">
-    </div>
-    <div class="item">
-      <img src="{{ section.settings.sixteenth-image | image_url }}" alt="img" loading="lazy">
+    <!-- Write the sponsor-slider twice to make it repeat smoothly -->
+    <div class="sponsor-slider slide-2">
+      <div class="item">
+        <img src="{{ section.settings.first-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.second-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.third-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.fourth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.fifth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.sixth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.seventh-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.eighth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.ninth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.tenth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.eleventh-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.twelvth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.thirteenth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.fourteenth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.fifteenth-image | image_url }}" alt="img" loading="lazy">
+      </div>
+      <div class="item">
+        <img src="{{ section.settings.sixteenth-image | image_url }}" alt="img" loading="lazy">
+      </div>
     </div>
   </div>
 </div>
