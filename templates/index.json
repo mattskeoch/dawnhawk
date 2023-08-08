@@ -517,12 +517,30 @@
             "author": "Stephen D'Angelo",
             "link": ""
           }
+        },
+        "4da81235-1537-4559-b772-f2aaecb1a887": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Hawk Concrete Floor Coatings did an outstanding job with the high <br\/>pressure clean and sealing of our driveway, garage & paving! Team <br\/>were friendly & professional. We are actually getting more paving <br\/>done with our landscaping, will need them back to seal the new paving <br\/>too. Highly recommend Hawk for your next job residential or commercial.<\/p>",
+            "author": "Springs Wholesale",
+            "link": ""
+          }
+        },
+        "93e318cd-c159-42ea-963e-5d2a500fadf5": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Connected with Hawk Concrete Floor Coatings through hipages.com.au and we have confirmed that they would recommend them.<\/p>",
+            "author": "Peter",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "75634179-2a1e-4e57-b3fb-1c2aa4314f2e",
         "113bcbd5-c429-444a-b4ed-6972bec5264f",
-        "141966c7-9493-4163-85ea-bfbbedd560f0"
+        "141966c7-9493-4163-85ea-bfbbedd560f0",
+        "4da81235-1537-4559-b772-f2aaecb1a887",
+        "93e318cd-c159-42ea-963e-5d2a500fadf5"
       ],
       "settings": {
         "title": "What Our Clients Are Saying",
