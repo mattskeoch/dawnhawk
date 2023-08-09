@@ -32,6 +32,7 @@
       background-color: #fff;
       padding: 5rem;
       width: 500px;
+      margin: 5rem 0rem;
   }
 
   @media (max-width: 500px) {
@@ -126,25 +127,23 @@
     </div>
   {%- endif -%}
   <div class="banner__content banner__content--middle-right  page-width{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
-    <div class="form-wrapper">
-      <div class="form-container">
-        {%- unless section.settings.title == blank -%}
-          <div class="title-wrapper-with-link title-wrapper--self-padded-mobile title-wrapper--no-top-margin">
-            <h2 class="title inline-richtext {{ section.settings.heading_size }}">
-              {{ section.settings.title }}
-            </h2>
-          </div>
-        {%- endunless -%}
+    <div class="form-container">
+      {%- unless section.settings.title == blank -%}
+        <div class="title-wrapper-with-link title-wrapper--self-padded-mobile title-wrapper--no-top-margin">
+          <h2 class="title inline-richtext {{ section.settings.heading_size }}">
+            {{ section.settings.title }}
+          </h2>
+        </div>
+      {%- endunless -%}
 
-        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
-        <script>
-          hbspt.forms.create({
-            region: "na1",
-            portalId: "8903454",
-            formId: "2433c604-eb07-4355-b31f-4429b0f05fdf"
-          });
-        </script>
-      </div>
+      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+      <script>
+        hbspt.forms.create({
+          region: "na1",
+          portalId: "8903454",
+          formId: "2433c604-eb07-4355-b31f-4429b0f05fdf"
+        });
+      </script>
     </div>
   </div>
 </div>
