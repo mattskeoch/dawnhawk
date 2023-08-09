@@ -28,11 +28,6 @@
       opacity: {{ section.settings.image_overlay_opacity | divided_by: 100.0 }};
     }
 
-  .form-wrapper {
-    display: flex;
-    justify-content: end;
-  }
-
     .form-container {
       background-color: #fff;
       padding: 5rem;
@@ -131,7 +126,7 @@
       }}
     </div>
   {%- endif -%}
-  <div class="banner__content banner__content--{{ section.settings.desktop_content_position }} page-width{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
+  <div class="banner__content banner__content--right page-width{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
     <div class="form-wrapper">
       <div class="form-container">
         {%- unless section.settings.title == blank -%}
