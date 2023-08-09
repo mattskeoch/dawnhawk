@@ -565,6 +565,8 @@
     "4dfab330-eac6-4219-bb4f-758cc2bb1ed7": {
       "type": "form-background-image",
       "settings": {
+        "title": "Request a Free Consultation",
+        "heading_size": "h2",
         "image": "shopify:\/\/shop_images\/Slider-2.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
