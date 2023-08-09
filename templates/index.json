@@ -574,53 +574,6 @@
         "image_behavior": "none",
         "stack_images_on_mobile": true
       }
-    },
-    "d5659786-a956-4d41-90cd-0df6be3492ac": {
-      "type": "image-banner",
-      "blocks": {
-        "template--20192202883346__d5659786-a956-4d41-90cd-0df6be3492ac-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--20192202883346__d5659786-a956-4d41-90cd-0df6be3492ac-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--20192202883346__d5659786-a956-4d41-90cd-0df6be3492ac-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--20192202883346__d5659786-a956-4d41-90cd-0df6be3492ac-heading-1",
-        "template--20192202883346__d5659786-a956-4d41-90cd-0df6be3492ac-text-1",
-        "template--20192202883346__d5659786-a956-4d41-90cd-0df6be3492ac-buttons-1"
-      ],
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-right",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
@@ -635,7 +588,6 @@
     "4a1b3c5f-c871-4067-a952-015659a6fd1c",
     "0349e57d-cf7a-4fae-b451-6f75d78cbc5b",
     "526a363a-fd87-4df8-bd3e-e095c1eec215",
-    "4dfab330-eac6-4219-bb4f-758cc2bb1ed7",
-    "d5659786-a956-4d41-90cd-0df6be3492ac"
+    "4dfab330-eac6-4219-bb4f-758cc2bb1ed7"
   ]
 }
