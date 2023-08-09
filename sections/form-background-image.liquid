@@ -29,16 +29,16 @@
     }
 
     .features-grid {
-    padding: 1rem;
-    max-width: 1200px;
-    margin: auto;
-  }
-
-  @media (min-width: 900px) {
-    .features-grid {
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: 2rem;
+  }
+
+  @media (max-width: 900px) {
+    .features-grid {
+      padding: 1rem;
+      max-width: 1200px;
+      margin: auto;
     }
   }
 {%- endstyle -%}
