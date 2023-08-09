@@ -582,16 +582,20 @@
         "template--20192202883346__92f005d4-f21e-4f14-834f-7c39de13635d-column-1": {
           "type": "column",
           "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "cover_image": "shopify:\/\/shop_images\/Hawk_Bird_Blue_6efb7c9e-609e-41c3-8f25-1340a1062977.png"
           }
         },
         "template--20192202883346__92f005d4-f21e-4f14-834f-7c39de13635d-column-2": {
           "type": "column",
           "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
           }
         },
         "template--20192202883346__92f005d4-f21e-4f14-834f-7c39de13635d-column-3": {
           "type": "column",
           "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
           }
         }
       },
