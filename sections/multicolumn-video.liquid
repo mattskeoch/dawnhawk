@@ -60,7 +60,7 @@
           {%- assign empty_column = '' -%}
           {%- if block.settings.image == blank
             and block.settings['html-section'] == blank
-            and block.settings.text == blank
+            and ['text'] == blank
             and block.settings.link_label == blank
           -%}
             {%- assign empty_column = ' multicolumn-list__item--empty' -%}
@@ -76,7 +76,7 @@
             {% endif %}
           >
             <div class="multicolumn-card content-container">
-              {%- if block.settings.image != blank -%}
+              {%- if block.settings['html-section'] != blank -%}
                 {% if section.settings.image_ratio == 'adapt' or section.settings.image_ratio == 'circle' %}
                   {% assign spaced_image = true %}
                 {% endif %}
