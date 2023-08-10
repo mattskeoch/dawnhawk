@@ -588,20 +588,34 @@
         "template--20192202883346__92f005d4-f21e-4f14-834f-7c39de13635d-column-2": {
           "type": "column",
           "settings": {
-            "section-html": ""
+            "section-html": "<iframe src=\"https:\/\/www.youtube.com\/embed\/ERwEF57XuE0\" title=\"Epoxy Flooring Installed at Reaper Performance Diesel\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" width=\"500\" height=\"282.25\" frameborder=\"0\"><\/iframe>"
+          }
+        },
+        "b9bdfdb9-d008-49f3-8715-caf6841369f3": {
+          "type": "column",
+          "settings": {
+            "section-html": "<iframe src=\"https:\/\/www.youtube.com\/embed\/JN12NjeLXsc\" title=\"Statewide Bearings Warehouse Flooring Installation\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" width=\"500\" height=\"282.25\" frameborder=\"0\"><\/iframe>"
+          }
+        },
+        "90206d43-9d7a-422e-b479-99fd117fa9d6": {
+          "type": "column",
+          "settings": {
+            "section-html": "<iframe width=\"500\" height=\"282.25\" src=\"https:\/\/www.youtube.com\/embed\/U5HOCgRwexc\" title=\"Resin Floor - Instant Return to Service flooring solution at Wilson Parking in Perth\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
           }
         }
       },
       "block_order": [
         "template--20192202883346__92f005d4-f21e-4f14-834f-7c39de13635d-column-1",
-        "template--20192202883346__92f005d4-f21e-4f14-834f-7c39de13635d-column-2"
+        "template--20192202883346__92f005d4-f21e-4f14-834f-7c39de13635d-column-2",
+        "b9bdfdb9-d008-49f3-8715-caf6841369f3",
+        "90206d43-9d7a-422e-b479-99fd117fa9d6"
       ],
       "settings": {
         "title": "Multicolumn Video",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Button label",
