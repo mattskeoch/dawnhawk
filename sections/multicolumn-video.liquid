@@ -120,8 +120,8 @@
                 </div>
               {%- endif -%}
               <div class="multicolumn-card__info">
-                {%- if block.settings.title != blank -%}
-                  {{ block.settings.html }}
+                {%- if block.settings['section-html'] != blank -%}
+                  {{ block.settings['section-html'] }}
                 {%- endif -%}
               </div>
             </div>
