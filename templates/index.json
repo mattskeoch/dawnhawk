@@ -600,7 +600,7 @@
         "90206d43-9d7a-422e-b479-99fd117fa9d6": {
           "type": "column",
           "settings": {
-            "section-html": "<iframe width=\"500\" height=\"282.25\" src=\"https:\/\/www.youtube.com\/embed\/U5HOCgRwexc\" title=\"Resin Floor - Instant Return to Service flooring solution at Wilson Parking in Perth\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+            "section-html": "<iframe src=\"https:\/\/www.youtube.com\/embed\/U5HOCgRwexc\" title=\"Resin Floor - Instant Return to Service flooring solution at Wilson Parking in Perth\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" width=\"500\" height=\"282.25\" frameborder=\"0\"><\/iframe>"
           }
         }
       },
@@ -611,7 +611,7 @@
         "90206d43-9d7a-422e-b479-99fd117fa9d6"
       ],
       "settings": {
-        "title": "Multicolumn Video",
+        "title": "Our Work",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
