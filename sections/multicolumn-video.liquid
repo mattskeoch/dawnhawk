@@ -108,7 +108,7 @@
                       calc((100vw - {{ grid_space_mobile }}) * {{ image_width }} / {{ number_of_columns_mobile }})
                     {% endcapture %}
                     {{
-                      block.settings.image
+                      block.settings['html-section']
                       | image_url: width: 3200
                       | image_tag:
                         loading: 'lazy',
