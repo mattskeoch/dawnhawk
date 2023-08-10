@@ -120,8 +120,8 @@
                 </div>
               {%- endif -%}
               <div class="multicolumn-card__info">
-                {%- if block.settings.html != blank -%}
-                  <h3 class="inline-richtext">{{ block.settings.html }}</h3>
+                {%- if block.settings['html-section'] != blank -%}
+                  {{ block.settings['html-sectio'] }}
                 {%- endif -%}
                 {%- if block.settings.text != blank -%}
                   <div class="rte">{{ block.settings.text }}</div>
