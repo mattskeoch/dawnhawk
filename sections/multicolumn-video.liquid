@@ -59,7 +59,7 @@
         {%- for block in section.blocks -%}
           {%- assign empty_column = '' -%}
           {%- if block.settings.image == blank
-            and block.settings.title == blank
+            and block.settings['html-section'] == blank
             and block.settings.text == blank
             and block.settings.link_label == blank
           -%}
