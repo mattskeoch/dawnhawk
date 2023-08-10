@@ -565,6 +565,7 @@
         "template--20192202883346__92f005d4-f21e-4f14-834f-7c39de13635d-column-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Hawk_Bird_Blue_6efb7c9e-609e-41c3-8f25-1340a1062977.png",
             "section-html": "<iframe src=\"https:\/\/www.youtube.com\/embed\/cAs9qGLFYH4\" title=\"Stockland Shopping Centre Silikal Quartzite\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" width=\"500\" height=\"282.25\" frameborder=\"0\"><\/iframe>"
           }
         },
