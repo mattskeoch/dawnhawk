@@ -46,22 +46,31 @@
         "padding_bottom": 52
       }
     },
-    "3e493eed-cb57-4cd3-9014-8382ca180869": {
-      "type": "custom-liquid",
-      "custom_css": [
-        ".wrapper {display: block; max-width: 600px; width: 100%; margin: 0 auto; padding: 20px;}"
+    "679bc486-4db8-4ad9-b2cf-e07aa1810cb6": {
+      "type": "2-column-contact-us",
+      "blocks": {
+        "9e870e1c-0278-45fb-b1e1-63679df54f30": {
+          "type": "content",
+          "settings": {
+            "icon-image": "shopify:\/\/shop_images\/Hawk_Bird_Blue_6efb7c9e-609e-41c3-8f25-1340a1062977.png",
+            "title-text": "Test",
+            "text": "Test contact here"
+          }
+        }
+      },
+      "block_order": [
+        "9e870e1c-0278-45fb-b1e1-63679df54f30"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"wrapper\">\n    <script charset=\"utf-8\" type=\"text\/javascript\" src=\"\/\/js.hsforms.net\/forms\/embed\/v2.js\"><\/script>\n    <script>\n      hbspt.forms.create({\n        region: \"na1\",\n        portalId: \"8903454\",\n        formId: \"2433c604-eb07-4355-b31f-4429b0f05fdf\"\n      });\n    <\/script>\n  <\/div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "title": "Logo list",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
     "c41dfa1f-cb8f-4128-84a1-8db7153fba52",
-    "3e493eed-cb57-4cd3-9014-8382ca180869"
+    "679bc486-4db8-4ad9-b2cf-e07aa1810cb6"
   ]
 }
