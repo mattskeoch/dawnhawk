@@ -48,35 +48,32 @@
     }
   }
   
-.two-column-section {
+ .two-column-section {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
+  flex-direction: row;
+  flex-wrap: wrap; /* Allows columns to wrap below each other on smaller screens */
 }
 
 .column-left {
-  flex: 0 0 30%;
-  max-width: 30%;
+  flex: 0 0 30%; /* Takes 30% of the available width */
+  max-width: 30%; /* Restricts the maximum width to 30% */
   box-sizing: border-box;
-  order: 2; 
 }
 
 .column-right {
-  flex: 1;
+  flex: 1; /* Takes the remaining space */
   box-sizing: border-box;
-  order: 1; 
 }
 
 @media (max-width: 900px) {
   .two-column-section {
-    justify-content: flex-start; 
+    flex-direction: column; /* Stacks columns on smaller screens */
   }
 
   .column-left,
   .column-right {
-    flex: 1;
-    max-width: 100%;
-    order: 0; /* Reset order on mobile */
+    flex: 1; /* Both columns take full width on smaller screens */
+    max-width: 100%; /* Remove max-width restriction */
   }
 }
 {% endstylesheet %}
