@@ -7,7 +7,7 @@
   >
   <div class="column column-left">
     {% for block in section.blocks %}
-      <div class="content">
+      <div class="column-left__content">
         <div>
         <img src="{{ block.settings.image | img_url }}" alt="Image">
         </div>
@@ -60,6 +60,10 @@
   box-sizing: border-box;
   order: 2; 
 }
+
+  .column-left__content {
+    display: flex;
+  }
 
 .column-right {
   flex: 1;
