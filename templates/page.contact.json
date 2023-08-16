@@ -76,7 +76,7 @@
         "3366fa33-1120-4340-992f-46a7c1fcab82": {
           "type": "content",
           "settings": {
-            "liquid-snippet": "",
+            "liquid-snippet": "{% render 'icon-home' %}",
             "title-text": "ABN Number",
             "text": "85 146 676 394"
           }
