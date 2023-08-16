@@ -51,25 +51,25 @@
 .two-column-section {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-end; /* Align columns to the right on desktop */
+  justify-content: flex-end;
 }
 
 .column-left {
   flex: 0 0 30%;
   max-width: 30%;
   box-sizing: border-box;
-  order: 2; /* Reverse the order on desktop */
+  order: 2; 
 }
 
 .column-right {
   flex: 1;
   box-sizing: border-box;
-  order: 1; /* Reverse the order on desktop */
+  order: 1; 
 }
 
 @media (max-width: 900px) {
   .two-column-section {
-    justify-content: flex-start; /* Reset alignment on mobile */
+    justify-content: flex-start; 
   }
 
   .column-left,
