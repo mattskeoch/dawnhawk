@@ -1,12 +1,104 @@
-{% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
-{% endschema %}
+<div class="two-column-section">
+  <div class="column column-left">
+    {% for block in section.blocks %}
+      <div class="content-block">
+        <img src="{{ block.settings.image | img_url }}" alt="Image">
+        <h2>{{ block.settings.title }}</h2>
+        <p>{{ block.settings.text }}</p>
+      </div>
+    {% endfor %}
+  </div>
+  <div class="column column-right">
+    <div class="form-wrapper">
+    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+    <script>
+      hbspt.forms.create({
+        region: "na1",
+        portalId: "8903454",
+        formId: "2433c604-eb07-4355-b31f-4429b0f05fdf"
+      });
+    </script>
+  </div>
+  </div>
+</div>
+
 
 {% stylesheet %}
+  .two-column-section {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .column {
+    padding: 20px;
+    box-sizing: border-box;
+  }
+
+  .column-left {
+    flex: 0 0 30%;
+    order: 2;
+  }
+
+  .column-right {
+    flex: 1;
+    order: 1;
+  }
+
+  .form-wrapper {
+  display: block;
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+  @media (max-width: 768px) {
+    .column-left,
+    .column-right {
+      flex: 1;
+      order: 0;
+    }
+  }
+  }
 {% endstylesheet %}
 
 {% javascript %}
 {% endjavascript %}
+
+
+{% schema %}
+{
+  "name": "Custom Two Column Section",
+  "settings": [],
+  "blocks": [
+    {
+      "name": "content-block",
+      "type": "content",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "icon-image",
+          "label": "Image"
+        },
+        {
+          "type": "text",
+          "id": "title-text",
+          "label": "Title"
+        },
+        {
+          "type": "textarea",
+          "id": "text",
+          "label": "Text"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Default",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+
