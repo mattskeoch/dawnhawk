@@ -56,10 +56,37 @@
             "title-text": "Address",
             "text": "10 Cowcher Pl, Belmont WA 6104"
           }
+        },
+        "ef18edcd-7820-4da4-98c7-297758337e8d": {
+          "type": "content",
+          "settings": {
+            "liquid-snippet": "{% render 'icon-home' %}",
+            "title-text": "Working Hours",
+            "text": "Mon – Fri : 6:00 AM – 6:00 PM\nSat, Sun, Public Holiday : Closed"
+          }
+        },
+        "47b66cff-e900-4fe5-be38-565e0095b8a8": {
+          "type": "content",
+          "settings": {
+            "liquid-snippet": "{% render 'icon-home' %}",
+            "title-text": "Phone Number",
+            "text": "1800 HAWK CC (1800 429 522)"
+          }
+        },
+        "3366fa33-1120-4340-992f-46a7c1fcab82": {
+          "type": "content",
+          "settings": {
+            "liquid-snippet": "",
+            "title-text": "ABN Number",
+            "text": "85 146 676 394"
+          }
         }
       },
       "block_order": [
-        "9e870e1c-0278-45fb-b1e1-63679df54f30"
+        "9e870e1c-0278-45fb-b1e1-63679df54f30",
+        "ef18edcd-7820-4da4-98c7-297758337e8d",
+        "47b66cff-e900-4fe5-be38-565e0095b8a8",
+        "3366fa33-1120-4340-992f-46a7c1fcab82"
       ],
       "settings": {
         "padding_top": 36,
