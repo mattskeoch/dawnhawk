@@ -53,8 +53,8 @@
           "type": "content",
           "settings": {
             "icon-image": "shopify:\/\/shop_images\/Hawk_Bird_Blue_6efb7c9e-609e-41c3-8f25-1340a1062977.png",
-            "title-text": "Test",
-            "text": "Test contact here"
+            "title-text": "Address",
+            "text": "10 Cowcher Pl, Belmont WA 6104"
           }
         }
       },
@@ -62,7 +62,6 @@
         "9e870e1c-0278-45fb-b1e1-63679df54f30"
       ],
       "settings": {
-        "title": "Logo list",
         "padding_top": 36,
         "padding_bottom": 36
       }
