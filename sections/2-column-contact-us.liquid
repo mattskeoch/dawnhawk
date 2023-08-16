@@ -7,7 +7,7 @@
   >
   <div class="column column-left">
     {% for block in section.blocks %}
-      <div class="content">
+      <div class="column-left__item">
         <div>
        {{ block.settings.liquid-snippet }}
         </div>
@@ -60,23 +60,25 @@
     box-sizing: border-box;
   }
 
-  .column-left .content {
+  .column-left .column-left__item {
     display: flex;
   }
 
-  .content > div > svg {
+
+
+  .column-left__item > div > svg {
     width: 25px;
     color: #0590e3;
     margin-right: 0.8rem;
   }
 
-  .column-left .content > div > h2 {
+  .column-left .column-left__item > div > h2 {
     padding: 0px;
     margin: 0px;
     line-height: 1;
   }
 
-  .column-left .content > div > p {
+  .column-left .column-left__item > div > p {
     padding: 0px;
     margin: 0px;
     line-height: 16px;
