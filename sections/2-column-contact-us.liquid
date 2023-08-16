@@ -51,32 +51,28 @@
 .two-column-section {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-end; /* Align columns to the right on desktop */
 }
 
 .column-left {
   flex: 0 0 30%;
   max-width: 30%;
   box-sizing: border-box;
-  order: 2; /* Reverse the order on desktop */
 }
 
 .column-right {
   flex: 1;
   box-sizing: border-box;
-  order: 1; /* Reverse the order on desktop */
 }
 
 @media (max-width: 900px) {
   .two-column-section {
-    justify-content: flex-start; /* Reset alignment on mobile */
+    flex-direction: column; /* Stack columns on mobile */
   }
 
   .column-left,
   .column-right {
     flex: 1;
     max-width: 100%;
-    order: 0; /* Reset order on mobile */
   }
 }
 {% endstylesheet %}
