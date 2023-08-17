@@ -38,11 +38,6 @@
           }
         }
       },
-      "block_order": [
-        "template--20505551765778__3dd4e192-d39d-4c14-9484-a5e417a9924e-column-1",
-        "template--20505551765778__3dd4e192-d39d-4c14-9484-a5e417a9924e-column-2",
-        "template--20505551765778__3dd4e192-d39d-4c14-9484-a5e417a9924e-column-3"
-      ],
       "settings": {
         "title": "Multicolumn",
         "heading_size": "h1",
