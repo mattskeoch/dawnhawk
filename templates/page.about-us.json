@@ -200,42 +200,42 @@
     "db3238a1-e37a-4fa5-b42f-b80565d4b25d": {
       "type": "image-with-text",
       "blocks": {
-        "template--20505551765778__db3238a1-e37a-4fa5-b42f-b80565d4b25d-heading-1": {
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Our Certifications",
             "heading_size": "h1"
           }
         },
-        "template--20505551765778__db3238a1-e37a-4fa5-b42f-b80565d4b25d-text-1": {
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>In food safety management, a fundamental approach to managing risk is implementing a HACCP system.<br\/><br\/>This acronym stands for Hazard Analysis and Critical Control Point.<\/p><p>The development of a HACCP plan must identify and manage the <br\/>following types of hazards: Biological, Chemical, Physical, Allergens, Quality, and Regulatory.<\/p>",
             "text_style": "body"
           }
         },
-        "template--20505551765778__db3238a1-e37a-4fa5-b42f-b80565d4b25d-button-1": {
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "template--20505551765778__db3238a1-e37a-4fa5-b42f-b80565d4b25d-heading-1",
-        "template--20505551765778__db3238a1-e37a-4fa5-b42f-b80565d4b25d-text-1",
-        "template--20505551765778__db3238a1-e37a-4fa5-b42f-b80565d4b25d-button-1"
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-heading-1",
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-text-1",
+        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-button-1"
       ],
       "settings": {
         "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "",
+        "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
