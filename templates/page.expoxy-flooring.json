@@ -134,18 +134,84 @@
             "link_label": "Read More",
             "link": ""
           }
+        },
+        "9623a374-b6f0-4476-a1c7-8d59eeaf10ae": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Epoxy-Flooring-Perth-Warehouse-2_1.webp",
+            "title": "Residential",
+            "text": "<p>What do you get when you cross a designed, durable, commercial-grade floor with a home in the Perth suburbs? A residential solution that looks amazing, costs less, and lasts longer than any other option!<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "148208a1-516a-4bfa-bb93-54b51f1f4340": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shutterstock_699871195.webp",
+            "title": "Garage",
+            "text": "<p>You use your garage to store items, shelter your car, and make a mess with projects unfit for the inside of the houses. Upgrading to this floor is a simple, affordable way to upgrade your surfaces and make your garage more functional.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "b1225106-a273-4094-8865-4bd5d493293a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Epoxy-Grout-Feature-Image.webp",
+            "title": "Grout",
+            "text": "<p>The grout is renowned for high strength and chemical resistance. That makes it a versatile solution for a wide range of specialist applications.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "17ffb144-0c0e-4f4b-ade7-3cf5529390b1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Epoxy-Flake-Feature-Image.webp",
+            "title": "Flake",
+            "text": "<p>Flake is a popular option for many commercial areas due to its modern look and robust wearability.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "4953a311-5552-4a83-a520-404051adca71": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Concrete-Painting-Feature-Image.webp",
+            "title": "Painting",
+            "text": "<p>This solution combines the best of both worlds: the design options of paint with the durability of this material. The result is a floor that can stand up to quite a lot more while delivering exceptional aesthetic value.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "f96c99de-c1f5-4120-9fe3-95dad5155cc3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Concrete-Sealing.webp",
+            "title": "Concrete Sealer",
+            "text": "<p>Epoxy concrete sealers are perfect for concrete countertops and floors that attract a lot of use. It creates a protective film that offers a durable finish against stains, water, and other types of damage.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--20699269005586__155394b7-9363-44c4-a27f-6790ae03ee66-column-1",
         "template--20699269005586__155394b7-9363-44c4-a27f-6790ae03ee66-column-2",
-        "template--20699269005586__155394b7-9363-44c4-a27f-6790ae03ee66-column-3"
+        "template--20699269005586__155394b7-9363-44c4-a27f-6790ae03ee66-column-3",
+        "9623a374-b6f0-4476-a1c7-8d59eeaf10ae",
+        "148208a1-516a-4bfa-bb93-54b51f1f4340",
+        "b1225106-a273-4094-8865-4bd5d493293a",
+        "17ffb144-0c0e-4f4b-ade7-3cf5529390b1",
+        "4953a311-5552-4a83-a520-404051adca71",
+        "f96c99de-c1f5-4120-9fe3-95dad5155cc3"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
