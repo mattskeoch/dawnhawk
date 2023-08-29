@@ -624,6 +624,43 @@
         "padding_bottom": 48
       }
     },
+    "3c202458-62b0-4350-9fa5-c6d2252ab868": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Certifications",
+            "heading_size": "h1"
+          }
+        },
+        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In food safety management, a fundamental approach to managing risk is implementing a HACCP system.<br\/>This acronym stands for Hazard Analysis and Critical Control Point.<\/p><p>The development of a HACCP plan must identify and manage the following types of hazards: Biological, Chemical, Physical, Allergens, Quality, and Regulatory.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-heading-1",
+        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/haccp.png",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "20f03426-1a3c-47a9-bb85-a63d39bc00a3": {
       "type": "multicolumn-video",
       "blocks": {
@@ -691,43 +728,6 @@
         "image_behavior": "none",
         "stack_images_on_mobile": true
       }
-    },
-    "3c202458-62b0-4350-9fa5-c6d2252ab868": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Certifications",
-            "heading_size": "h1"
-          }
-        },
-        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>In food safety management, a fundamental approach to managing risk is implementing a HACCP system.<br\/>This acronym stands for Hazard Analysis and Critical Control Point.<\/p><p>The development of a HACCP plan must identify and manage the following types of hazards: Biological, Chemical, Physical, Allergens, Quality, and Regulatory.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-heading-1",
-        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-text-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/haccp.png",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -743,8 +743,8 @@
     "8a4fbf6d-994a-4eca-b48f-72eb2550db58",
     "7ca9c4da-c59b-46fa-b266-93fb754853f2",
     "faad53c2-e473-4252-a1cb-41d8d2c68580",
+    "3c202458-62b0-4350-9fa5-c6d2252ab868",
     "20f03426-1a3c-47a9-bb85-a63d39bc00a3",
-    "6934d08f-d19c-4abb-8788-dfcc425045ca",
-    "3c202458-62b0-4350-9fa5-c6d2252ab868"
+    "6934d08f-d19c-4abb-8788-dfcc425045ca"
   ]
 }
