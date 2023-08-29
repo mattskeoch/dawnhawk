@@ -199,6 +199,85 @@
         "padding_bottom": 48
       }
     },
+    "99c9a740-53ca-4430-b077-78750e54dea0": {
+      "type": "rich-text",
+      "blocks": {
+        "75e159f8-d21c-496f-9e7c-6c208975bdf1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Looking to transform your <\/strong>floors? Contact us on <a href=\"tel:0490777761\"><strong>0490 777 761 <\/strong><\/a>or <a href=\"\/pages\/free-consultation\" title=\"Free Consultation\"><strong>click here to arrange a FREE onsite assessment to receive a custom quote<\/strong><\/a>.",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "75e159f8-d21c-496f-9e7c-6c208975bdf1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "81f0f82f-8f3a-41ee-bb88-bceaa640f0b9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20699269005586__81f0f82f-8f3a-41ee-bb88-bceaa640f0b9-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Facility-Flooring-Feature-Image.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20699269005586__81f0f82f-8f3a-41ee-bb88-bceaa640f0b9-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/non-slip-flooring.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20699269005586__81f0f82f-8f3a-41ee-bb88-bceaa640f0b9-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Garage-epoxy-resin-flooring_By-HAWK-CFC_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20699269005586__81f0f82f-8f3a-41ee-bb88-bceaa640f0b9-column-1",
+        "template--20699269005586__81f0f82f-8f3a-41ee-bb88-bceaa640f0b9-column-2",
+        "template--20699269005586__81f0f82f-8f3a-41ee-bb88-bceaa640f0b9-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 36
+      }
+    },
     "8a4fbf6d-994a-4eca-b48f-72eb2550db58": {
       "type": "logo-slider",
       "settings": {
@@ -243,6 +322,8 @@
     "0e6bb532-f326-4a0d-afe8-270971669755",
     "b9427610-800f-48d4-ba4e-85079edc979a",
     "155394b7-9363-44c4-a27f-6790ae03ee66",
+    "99c9a740-53ca-4430-b077-78750e54dea0",
+    "81f0f82f-8f3a-41ee-bb88-bceaa640f0b9",
     "8a4fbf6d-994a-4eca-b48f-72eb2550db58",
     "6934d08f-d19c-4abb-8788-dfcc425045ca"
   ]
