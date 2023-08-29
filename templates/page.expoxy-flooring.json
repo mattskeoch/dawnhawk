@@ -624,19 +624,6 @@
         "padding_bottom": 48
       }
     },
-    "6934d08f-d19c-4abb-8788-dfcc425045ca": {
-      "type": "form-background-image",
-      "settings": {
-        "title": "Request a Free Consultation",
-        "heading_size": "h1",
-        "image": "shopify:\/\/shop_images\/Slider-2_1.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "stack_images_on_mobile": true
-      }
-    },
     "20f03426-1a3c-47a9-bb85-a63d39bc00a3": {
       "type": "multicolumn-video",
       "blocks": {
@@ -691,6 +678,19 @@
         "padding_top": 48,
         "padding_bottom": 48
       }
+    },
+    "6934d08f-d19c-4abb-8788-dfcc425045ca": {
+      "type": "form-background-image",
+      "settings": {
+        "title": "Request a Free Consultation",
+        "heading_size": "h1",
+        "image": "shopify:\/\/shop_images\/Slider-2_1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "stack_images_on_mobile": true
+      }
     }
   },
   "order": [
@@ -706,7 +706,7 @@
     "8a4fbf6d-994a-4eca-b48f-72eb2550db58",
     "7ca9c4da-c59b-46fa-b266-93fb754853f2",
     "faad53c2-e473-4252-a1cb-41d8d2c68580",
-    "6934d08f-d19c-4abb-8788-dfcc425045ca",
-    "20f03426-1a3c-47a9-bb85-a63d39bc00a3"
+    "20f03426-1a3c-47a9-bb85-a63d39bc00a3",
+    "6934d08f-d19c-4abb-8788-dfcc425045ca"
   ]
 }
