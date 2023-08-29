@@ -75,26 +75,17 @@
             "text": "<p>Hawk CFC is passionate about the transformation of work spaces, homes, industrial spaces and commercial operations. We understand the value of personal space, which is why we want to make your personal space fit your needs and desires.<\/p><p>By sourcing the best technicians and materials, we go the extra mile to suit your customised needs, including specialising in <a href=\"https:\/\/haccp.com.au\/\" target=\"_blank\">HACCP Accredited, Silikal© GmbH Reactive Resins<\/a>. HAWK Concrete Floor Coatings are the experts in providing you with groutless, seamless, easy to clean, <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/commercial-flooring\/commercial-kitchen-flooring-perth\/\">antimicrobial<\/a> and <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/anti-slip-coating\/\">non-slip safety surfaces<\/a>.<\/p><p>Catering for the individual requirements of your flooring environment, Hawk Concrete Floor Coatings has the best solutions for Light or Heavy Workshops, Healthcare, Education, the Food Industry, Pharmaceutical, Mining, Retail, Corporate, as well as a comprehensive Designer range for your Home or Interior Fit-out Projects.<\/p>",
             "text_style": "body"
           }
-        },
-        "template--20505551765778__af12c2a5-5151-4148-8c6c-644d9f8e6607-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "template--20505551765778__af12c2a5-5151-4148-8c6c-644d9f8e6607-heading-1",
-        "template--20505551765778__af12c2a5-5151-4148-8c6c-644d9f8e6607-text-1",
-        "template--20505551765778__af12c2a5-5151-4148-8c6c-644d9f8e6607-button-1"
+        "template--20505551765778__af12c2a5-5151-4148-8c6c-644d9f8e6607-text-1"
       ],
       "settings": {
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "",
@@ -325,8 +316,8 @@
         "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 48,
+        "padding_bottom": 48
       }
     },
     "db3238a1-e37a-4fa5-b42f-b80565d4b25d": {
@@ -370,8 +361,8 @@
         "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 56,
+        "padding_bottom": 56
       }
     },
     "6dd2ddf1-dd63-4fe3-90be-a821bc276ab2": {
