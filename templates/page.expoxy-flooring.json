@@ -68,14 +68,102 @@
         "fourteenth-image": "shopify:\/\/shop_images\/Jax-Tyres.png",
         "fifteenth-image": "shopify:\/\/shop_images\/Broad-Logo.png",
         "sixteenth-image": "shopify:\/\/shop_images\/Bunbury-Bearings-Logo.png",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 88,
+        "padding_bottom": 100
+      }
+    },
+    "b9427610-800f-48d4-ba4e-85079edc979a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20699269005586__b9427610-800f-48d4-ba4e-85079edc979a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Premium Epoxy Flooring",
+            "heading_size": "h1"
+          }
+        },
+        "template--20699269005586__b9427610-800f-48d4-ba4e-85079edc979a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The floor needs to withstand traffic, impact and moisture – while ticking aesthetic boxes too. This sounds like a tough balance, but epoxy flooring offers the all-in-one solution. Catering for the individual requirements since 2014, Hawk Concrete Floor Coatings has the best solutions for <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/epoxy-flooring\/commercial-epoxy-flooring-perth\/\">commercial projects<\/a>, <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/epoxy-flooring\/industrial-epoxy-flooring-perth\/\">industrial projects<\/a>, <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/epoxy-flooring\/metallic-epoxy-perth\/\">metallic epoxy flooring<\/a>, <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/epoxy-flooring\/garage-epoxy-flooring-perth\/\">garage epoxy flooring<\/a>, <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/epoxy-flooring\/epoxy-grout-perth\/\">epoxy grout<\/a>, <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/epoxy-flooring\/epoxy-flake-perth\/\">epoxy flake<\/a> and <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/epoxy-flooring\/epoxy-painting-perth\/\">epoxy painting<\/a>.<\/p><p>This floor has become popular throughout Perth. While it has been used in <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/industrial-flooring\/\">industrial spaces<\/a>, they’re now often found in <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/institutional-flooring\/school-flooring-perth\/\">schools<\/a>, <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/high-rise-flooring\/office-flooring-perth\/\">offices<\/a>, <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/commercial-flooring\/commercial-kitchen-flooring-perth\/\">commercial kitchens<\/a> and <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/medical-flooring\/hospital-flooring-perth\/\">hospitals<\/a>.<\/p><p>We specialise in the manufacture and installation of all types of floors since 2014. Our focus is on making sure every customer has the right solution for their floor and taking the stress out of the project.<\/p><p>If you want to learn more, check out these articles:<\/p><p>1. <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/epoxy-floor-cost-perth\/\">How Much Does Epoxy Flooring Cost?<\/a><\/p><p>2. <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/5-types-of-epoxy-flooring-you-need-to-know-about\/\">5 Types of Epoxy Flooring You Need to Know About<\/a><\/p><p>3. <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/pros-and-cons-of-epoxy-flooring\/\">Epoxy Flooring Pros and Cons: Is it Right For Your Business?<\/a><\/p><p>4. <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/benefits-of-epoxy-flooring\/\">Top Benefits of Epoxy Flooring You Need to Know Before You Invest a Cent<\/a><\/p><p>5. <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/epoxy-garage-floor-diy-vs-professional\/\">Epoxy Garage Floor DIY vs. Professional: Who Should Install Your New Floor?<\/a><\/p><p>6. <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/what-is-epoxy-resin\/\">What’s Epoxy Resin and Why Is It So Popular?<\/a><\/p><p>7. <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/what-is-epoxy-flooring\/\">What is Epoxy Flooring (and What Makes it Unique?)<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20699269005586__b9427610-800f-48d4-ba4e-85079edc979a-heading-1",
+        "template--20699269005586__b9427610-800f-48d4-ba4e-85079edc979a-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 60
+      }
+    },
+    "155394b7-9363-44c4-a27f-6790ae03ee66": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20699269005586__155394b7-9363-44c4-a27f-6790ae03ee66-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Commercial-Epoxy-Flooring.webp",
+            "title": "Commercial",
+            "text": "<p>Commercial spaces are where this material established itself as a leading substrate. When it comes to durability, longevity, and design, no flooring material does it better.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "template--20699269005586__155394b7-9363-44c4-a27f-6790ae03ee66-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Industrial-Epoxy-Flooring.webp",
+            "title": "Industrial",
+            "text": "<p>Industrial floors stand up to every challenge thrown at them. Available customisations cater to even the most specialised environments.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "template--20699269005586__155394b7-9363-44c4-a27f-6790ae03ee66-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Epoxy-Floor-Coatings.webp",
+            "title": "Metalic",
+            "text": "<p>Looking for floors that make a statement? Transform your concrete with the floor that’s durable, long-lasting, and guaranteed to stand out.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20699269005586__155394b7-9363-44c4-a27f-6790ae03ee66-column-1",
+        "template--20699269005586__155394b7-9363-44c4-a27f-6790ae03ee66-column-2",
+        "template--20699269005586__155394b7-9363-44c4-a27f-6790ae03ee66-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-230551f2-028b-49d5-a7bf-2e8ee2bd12be",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 48
       }
     }
   },
   "order": [
     "main",
     "0e6bb532-f326-4a0d-afe8-270971669755",
-    "8a4fbf6d-994a-4eca-b48f-72eb2550db58"
+    "8a4fbf6d-994a-4eca-b48f-72eb2550db58",
+    "b9427610-800f-48d4-ba4e-85079edc979a",
+    "155394b7-9363-44c4-a27f-6790ae03ee66"
   ]
 }
