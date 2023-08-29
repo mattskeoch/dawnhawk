@@ -278,6 +278,127 @@
         "padding_bottom": 36
       }
     },
+    "1bae8d6b-4985-40ac-b466-a15f042fe45f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20699269005586__1bae8d6b-4985-40ac-b466-a15f042fe45f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Benefits of Perth epoxy flooring",
+            "heading_size": "h0"
+          }
+        },
+        "template--20699269005586__1bae8d6b-4985-40ac-b466-a15f042fe45f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><a href=\"https:\/\/blog.bostongarage.com\/how-durable-epoxy-flooring\" target=\"_blank\"><strong>Stain-resistant<\/strong><\/a><\/li><li><strong>Affordable<\/strong><\/li><li><strong>Easy to install<\/strong><\/li><li><strong>Low-maintenance<\/strong><\/li><li><strong>Perfect for high-traffic areas<\/strong><\/li><li><strong>Minimal wear and tear<\/strong><\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20699269005586__1bae8d6b-4985-40ac-b466-a15f042fe45f-heading-1",
+        "template--20699269005586__1bae8d6b-4985-40ac-b466-a15f042fe45f-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 16
+      }
+    },
+    "8a1506b7-e57d-459d-8b1b-26d9da97ec7e": {
+      "type": "rich-text",
+      "blocks": {
+        "8a5ce868-df8a-4e51-8d12-44610b7aa777": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Choose Hawk CFC?",
+            "heading_size": "h1"
+          }
+        },
+        "66f280a1-16a5-41e2-a0b5-21fdb20d9073": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We offer a large variety of solutions that is modern, <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/concrete-coatings\/non-slip-flooring-perth\/\">slip-resistant<\/a>, beautiful, UV stable, and hardwearing. And our ongoing support and maintenance ensure that you get the floor that lasts.<\/p><p>Our attention to customer care has made us one of the most trusted brands since 2014.<\/p><p>We maintain a strong relationship with our clients. Our dedicated team always looks forward to helping customers assess their needs and providing the best solution.<\/p><p>Contact us today for a <a href=\"\/pages\/free-consultation\" title=\"Free Consultation\"><strong>free consultation<\/strong><\/a> or speak to a member of our team on <a href=\"tel:0490777761\"><strong>0490 777 761<\/strong><\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "8a5ce868-df8a-4e51-8d12-44610b7aa777",
+        "66f280a1-16a5-41e2-a0b5-21fdb20d9073"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 52
+      }
+    },
+    "f46136c0-34ce-4a5b-8881-82af2bc4e6f5": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--20699269005586__f46136c0-34ce-4a5b-8881-82af2bc4e6f5-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What makes epoxy better than standard concrete?",
+            "icon": "check_mark",
+            "row_content": "<p>It’s a classic <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/services\/flooring\/\">flooring<\/a> debate – if the concrete is durable and affordable, why choose any other product?<\/p><p>Concrete is porous and likely to absorb liquids or oils that come into contact with it. Concrete can also hold onto stains and odours, all of which can lead to trouble in busy Perth homes and businesses.<\/p><p>Does that mean you should ignore concrete flooring? Not at all – because you can get the best of both worlds.<\/p><p>When you lay <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/epoxy-flooring\/epoxy-coatings-perth\/\">epoxy floor coating<\/a> over <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/services\/concrete-solutions\/\">existing concrete<\/a>, you are protecting the substrate while also making it waterproof. This makes your entire floor last much longer, easier to clean, and more durable in time.<\/p>",
+            "page": ""
+          }
+        },
+        "template--20699269005586__f46136c0-34ce-4a5b-8881-82af2bc4e6f5-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How to choose the right type?",
+            "icon": "check_mark",
+            "row_content": "<p>One of the many benefits is versatility. While all floors are durable and long lasting, there are different types of additives that change some of the core design of the flooring.<\/p><p>If you want to learn more about the price ranges, check out our article for <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/epoxy-floor-cost-perth\/\">how much epoxy flooring costs in Perth<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "template--20699269005586__f46136c0-34ce-4a5b-8881-82af2bc4e6f5-collapsible_row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long do these floors last?",
+            "icon": "check_mark",
+            "row_content": "<p>Since this is a very durable material, this typically has a long life. In most settings, you can expect it to last between 20-30 with proper care and light maintenance. For<a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/epoxy-flooring\/industrial-epoxy-flooring-perth\/\">industrial settings<\/a>, it can last up to 10 years and can be refreshed with cleaning and extra coatings.<\/p>",
+            "page": ""
+          }
+        },
+        "template--20699269005586__f46136c0-34ce-4a5b-8881-82af2bc4e6f5-collapsible_row-4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are these floors resistant to?",
+            "icon": "check_mark",
+            "row_content": "<p>This floor is highly resistant to almost any kind of material you can imagine.<\/p><p>This includes resistance to liquids including oil, bleach, cleaners, gasoline, and transmission fluid. Since this material is non-porous, it protects underlying concrete and makes it easy to wipe liquids and chemicals away.<\/p><p>They are also resistant to shock (from high traffic or high impact) and can be antimicrobial and antistatic when necessary.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20699269005586__f46136c0-34ce-4a5b-8881-82af2bc4e6f5-collapsible_row-1",
+        "template--20699269005586__f46136c0-34ce-4a5b-8881-82af2bc4e6f5-collapsible_row-2",
+        "template--20699269005586__f46136c0-34ce-4a5b-8881-82af2bc4e6f5-collapsible_row-3",
+        "template--20699269005586__f46136c0-34ce-4a5b-8881-82af2bc4e6f5-collapsible_row-4"
+      ],
+      "settings": {
+        "caption": "FAQ",
+        "heading": "Frequently Asked Questions About Epoxy Flooring in Perth",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "8a4fbf6d-994a-4eca-b48f-72eb2550db58": {
       "type": "logo-slider",
       "settings": {
@@ -324,6 +445,9 @@
     "155394b7-9363-44c4-a27f-6790ae03ee66",
     "99c9a740-53ca-4430-b077-78750e54dea0",
     "81f0f82f-8f3a-41ee-bb88-bceaa640f0b9",
+    "1bae8d6b-4985-40ac-b466-a15f042fe45f",
+    "8a1506b7-e57d-459d-8b1b-26d9da97ec7e",
+    "f46136c0-34ce-4a5b-8881-82af2bc4e6f5",
     "8a4fbf6d-994a-4eca-b48f-72eb2550db58",
     "6934d08f-d19c-4abb-8788-dfcc425045ca"
   ]
