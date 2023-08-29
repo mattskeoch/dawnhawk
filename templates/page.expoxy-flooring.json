@@ -47,31 +47,6 @@
         "show_text_below": true
       }
     },
-    "8a4fbf6d-994a-4eca-b48f-72eb2550db58": {
-      "type": "logo-slider",
-      "settings": {
-        "title": "Our Trusted Clients",
-        "heading_size": "h1",
-        "first-image": "shopify:\/\/shop_images\/ECU-Logo.png",
-        "second-image": "shopify:\/\/shop_images\/Bridgestone-Logo.png",
-        "third-image": "shopify:\/\/shop_images\/Crown-Resorts-Logo.png",
-        "fourth-image": "shopify:\/\/shop_images\/WA-Police-Logo.png",
-        "fifth-image": "shopify:\/\/shop_images\/General-Electric-Logo.png",
-        "sixth-image": "shopify:\/\/shop_images\/Quaker-Logo.png",
-        "seventh-image": "shopify:\/\/shop_images\/BHP-Billiton-Logo.png",
-        "eighth-image": "shopify:\/\/shop_images\/Murduch-Logo.png",
-        "ninth-image": "shopify:\/\/shop_images\/PetBarn-Logo.png",
-        "tenth-image": "shopify:\/\/shop_images\/PepsiCo-Logo.png",
-        "eleventh-image": "shopify:\/\/shop_images\/Pindan-Logo.png",
-        "twelvth-image": "shopify:\/\/shop_images\/ASC-Logo.png",
-        "thirteenth-image": "shopify:\/\/shop_images\/Dawn-Express-Logo.png",
-        "fourteenth-image": "shopify:\/\/shop_images\/Jax-Tyres.png",
-        "fifteenth-image": "shopify:\/\/shop_images\/Broad-Logo.png",
-        "sixteenth-image": "shopify:\/\/shop_images\/Bunbury-Bearings-Logo.png",
-        "padding_top": 88,
-        "padding_bottom": 100
-      }
-    },
     "b9427610-800f-48d4-ba4e-85079edc979a": {
       "type": "rich-text",
       "blocks": {
@@ -223,13 +198,38 @@
         "padding_top": 48,
         "padding_bottom": 48
       }
+    },
+    "8a4fbf6d-994a-4eca-b48f-72eb2550db58": {
+      "type": "logo-slider",
+      "settings": {
+        "title": "Our Trusted Clients",
+        "heading_size": "h1",
+        "first-image": "shopify:\/\/shop_images\/ECU-Logo.png",
+        "second-image": "shopify:\/\/shop_images\/Bridgestone-Logo.png",
+        "third-image": "shopify:\/\/shop_images\/Crown-Resorts-Logo.png",
+        "fourth-image": "shopify:\/\/shop_images\/WA-Police-Logo.png",
+        "fifth-image": "shopify:\/\/shop_images\/General-Electric-Logo.png",
+        "sixth-image": "shopify:\/\/shop_images\/Quaker-Logo.png",
+        "seventh-image": "shopify:\/\/shop_images\/BHP-Billiton-Logo.png",
+        "eighth-image": "shopify:\/\/shop_images\/Murduch-Logo.png",
+        "ninth-image": "shopify:\/\/shop_images\/PetBarn-Logo.png",
+        "tenth-image": "shopify:\/\/shop_images\/PepsiCo-Logo.png",
+        "eleventh-image": "shopify:\/\/shop_images\/Pindan-Logo.png",
+        "twelvth-image": "shopify:\/\/shop_images\/ASC-Logo.png",
+        "thirteenth-image": "shopify:\/\/shop_images\/Dawn-Express-Logo.png",
+        "fourteenth-image": "shopify:\/\/shop_images\/Jax-Tyres.png",
+        "fifteenth-image": "shopify:\/\/shop_images\/Broad-Logo.png",
+        "sixteenth-image": "shopify:\/\/shop_images\/Bunbury-Bearings-Logo.png",
+        "padding_top": 88,
+        "padding_bottom": 100
+      }
     }
   },
   "order": [
     "main",
     "0e6bb532-f326-4a0d-afe8-270971669755",
-    "8a4fbf6d-994a-4eca-b48f-72eb2550db58",
     "b9427610-800f-48d4-ba4e-85079edc979a",
-    "155394b7-9363-44c4-a27f-6790ae03ee66"
+    "155394b7-9363-44c4-a27f-6790ae03ee66",
+    "8a4fbf6d-994a-4eca-b48f-72eb2550db58"
   ]
 }
