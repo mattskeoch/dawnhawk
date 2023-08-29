@@ -14,7 +14,7 @@
         "template--20505551765778__b1dfa5a7-1a7a-4319-9dfa-e2a56f653cae-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "AWK CFC Provides Stunning Concrete Coatings.",
+            "heading": "HAWK CFC Provides Stunning Concrete Coatings.",
             "heading_size": "h2"
           }
         },
@@ -55,7 +55,7 @@
         "color_scheme": "inverse",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
+        "stack_images_on_mobile": false,
         "show_text_below": true
       }
     },
