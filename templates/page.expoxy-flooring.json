@@ -2,13 +2,80 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "0e6bb532-f326-4a0d-afe8-270971669755": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20699269005586__0e6bb532-f326-4a0d-afe8-270971669755-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Expoxy Flooring Perth",
+            "heading_size": "h1"
+          }
+        },
+        "template--20699269005586__0e6bb532-f326-4a0d-afe8-270971669755-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Contact us today to find out more about our cost-effective options.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20699269005586__0e6bb532-f326-4a0d-afe8-270971669755-heading-1",
+        "template--20699269005586__0e6bb532-f326-4a0d-afe8-270971669755-text-1"
+      ],
+      "custom_css": [
+        ".banner__box {opacity: 85%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Slider-1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "8a4fbf6d-994a-4eca-b48f-72eb2550db58": {
+      "type": "logo-slider",
+      "settings": {
+        "title": "Our Trusted Clients",
+        "heading_size": "h1",
+        "first-image": "shopify:\/\/shop_images\/ECU-Logo.png",
+        "second-image": "shopify:\/\/shop_images\/Bridgestone-Logo.png",
+        "third-image": "shopify:\/\/shop_images\/Crown-Resorts-Logo.png",
+        "fourth-image": "shopify:\/\/shop_images\/WA-Police-Logo.png",
+        "fifth-image": "shopify:\/\/shop_images\/General-Electric-Logo.png",
+        "sixth-image": "shopify:\/\/shop_images\/Quaker-Logo.png",
+        "seventh-image": "shopify:\/\/shop_images\/BHP-Billiton-Logo.png",
+        "eighth-image": "shopify:\/\/shop_images\/Murduch-Logo.png",
+        "ninth-image": "shopify:\/\/shop_images\/PetBarn-Logo.png",
+        "tenth-image": "shopify:\/\/shop_images\/PepsiCo-Logo.png",
+        "eleventh-image": "shopify:\/\/shop_images\/Pindan-Logo.png",
+        "twelvth-image": "shopify:\/\/shop_images\/ASC-Logo.png",
+        "thirteenth-image": "shopify:\/\/shop_images\/Dawn-Express-Logo.png",
+        "fourteenth-image": "shopify:\/\/shop_images\/Jax-Tyres.png",
+        "fifteenth-image": "shopify:\/\/shop_images\/Broad-Logo.png",
+        "sixteenth-image": "shopify:\/\/shop_images\/Bunbury-Bearings-Logo.png",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "0e6bb532-f326-4a0d-afe8-270971669755",
+    "8a4fbf6d-994a-4eca-b48f-72eb2550db58"
   ]
 }
