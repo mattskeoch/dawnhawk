@@ -373,6 +373,45 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "6dd2ddf1-dd63-4fe3-90be-a821bc276ab2": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20505551765778__6dd2ddf1-dd63-4fe3-90be-a821bc276ab2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Safety",
+            "heading_size": "h0"
+          }
+        },
+        "template--20505551765778__6dd2ddf1-dd63-4fe3-90be-a821bc276ab2-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Installer expertise and quality products are essential for safe and long lasting floors. Unlike pre-fabricated building materials, such as tile, vinyl and timber, resin-based flooring systems can be tailored to your working environment. We tailor-make your safety flooring to achieve the desired clean-ability and slip resistance rating to create a long-term, maintainable floor. Hawk CFC has a range of food-safe, HACCP Accredited Flooring systems to achieve a water-proof and resilient “seamless” flooring system that saves you time and money. Hawk Concrete Floor Coatings is <a href=\"https:\/\/www.cm3.com.au\/\" target=\"_blank\">CM3 qualified<\/a> and is ready to move on any project required. For your next safety flooring project, consult the experts; <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/contact-us\/\">contact us<\/a> now for a quote.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20505551765778__6dd2ddf1-dd63-4fe3-90be-a821bc276ab2-heading-1",
+        "template--20505551765778__6dd2ddf1-dd63-4fe3-90be-a821bc276ab2-text-1"
+      ],
+      "custom_css": [
+        ".banner__box {opacity: 95%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/About_Safety.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -382,6 +421,7 @@
     "3dd4e192-d39d-4c14-9484-a5e417a9924e",
     "11eab6a8-9e1b-4f53-b9f8-42cffbdc28e6",
     "08783b7e-8347-4e4f-af61-d7483d602aee",
-    "db3238a1-e37a-4fa5-b42f-b80565d4b25d"
+    "db3238a1-e37a-4fa5-b42f-b80565d4b25d",
+    "6dd2ddf1-dd63-4fe3-90be-a821bc276ab2"
   ]
 }
