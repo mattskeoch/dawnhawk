@@ -71,20 +71,11 @@
             "text": "<p>Our passion is not just great <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/epoxy-flooring\/\">epoxy flooring<\/a><br\/> but a great user experience. No one wants to spend excess time thinking<br\/> about their floor, but everyone wants it to perform. We provide <br\/>superior solutions for the <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/residential-flooring-perth\/\">residential<\/a>, <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/industrial-flooring\/\">industrial<\/a>, <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/commercial-flooring\/\">commercial<\/a>, and <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/sectors\/industrial-flooring\/food-grade-flooring-perth\/\">food production<\/a> industries.<\/p><p>Our forward-thinking team, quality equipment, and world-class <br\/>materials will guarantee long-lasting epoxy flooring. We pride ourselves<br\/> on installing <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/estherell-resin-flooring-perth\/\">resin flooring<\/a> fast and efficiently. Our goal is to ease the stress of your <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/services\/flooring\/\">flooring project<\/a> by reducing downtime and allowing you to be back to work faster<\/p>",
             "text_style": "body"
           }
-        },
-        "template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-heading-1",
-        "template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-text-1",
-        "template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-button-1"
+        "template--20175700066578__60ceb3dc-eb47-44cd-aa8b-994de85622f8-text-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Epoxy-Floor-Coatings.jpg",
