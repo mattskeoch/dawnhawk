@@ -42,6 +42,9 @@
         "template--20505551765778__b1dfa5a7-1a7a-4319-9dfa-e2a56f653cae-text-1",
         "template--20505551765778__b1dfa5a7-1a7a-4319-9dfa-e2a56f653cae-buttons-1"
       ],
+      "custom_css": [
+        ".banner__box {opacity: 85%;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Epoxy-Resin-Flooring-Perth.webp",
         "image_overlay_opacity": 0,
