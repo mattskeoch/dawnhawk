@@ -412,6 +412,43 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "71b438f7-2da3-4c31-884d-49fc56fd1fae": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20505551765778__71b438f7-2da3-4c31-884d-49fc56fd1fae-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Approach: Different From the Rest",
+            "heading_size": "h1"
+          }
+        },
+        "template--20505551765778__71b438f7-2da3-4c31-884d-49fc56fd1fae-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Industry Experts – Exclusive Product Range – Competitive Rates<\/h3><p>We install only the highest quality resins in all locations, whether that be a 10,000m2 commercial factory or a 40m2 home garage; we differ because simply do not compromise on quality. Flooring for life means a floor suitable to your life that will last you a lifetime. Save time, money and avoid the headache, <a href=\"\/pages\/contact\" title=\"Contact\">contact us<\/a> for a quote today.<\/p><p>Being an industry expert involves more than just installing stunning floors, it involves you and your desired outcome. We work with you from beginning to end to ensure you get the result you want with no nasty surprises.<\/p><p>Hawk CFC are excited to have exclusive WA distributorship of the full ERFLA© and Silikal© flooring range because they have outlived and outperformed their competitors for many years in the market.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20505551765778__71b438f7-2da3-4c31-884d-49fc56fd1fae-heading-1",
+        "template--20505551765778__71b438f7-2da3-4c31-884d-49fc56fd1fae-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/About_2_1.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -422,6 +459,7 @@
     "11eab6a8-9e1b-4f53-b9f8-42cffbdc28e6",
     "08783b7e-8347-4e4f-af61-d7483d602aee",
     "db3238a1-e37a-4fa5-b42f-b80565d4b25d",
-    "6dd2ddf1-dd63-4fe3-90be-a821bc276ab2"
+    "6dd2ddf1-dd63-4fe3-90be-a821bc276ab2",
+    "71b438f7-2da3-4c31-884d-49fc56fd1fae"
   ]
 }
