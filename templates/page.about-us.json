@@ -8,6 +8,54 @@
         "padding_bottom": 28
       }
     },
+    "b1dfa5a7-1a7a-4319-9dfa-e2a56f653cae": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20505551765778__b1dfa5a7-1a7a-4319-9dfa-e2a56f653cae-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--20505551765778__b1dfa5a7-1a7a-4319-9dfa-e2a56f653cae-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--20505551765778__b1dfa5a7-1a7a-4319-9dfa-e2a56f653cae-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Free Consultation",
+            "button_link_1": "shopify:\/\/pages\/free-consultation",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20505551765778__b1dfa5a7-1a7a-4319-9dfa-e2a56f653cae-heading-1",
+        "template--20505551765778__b1dfa5a7-1a7a-4319-9dfa-e2a56f653cae-text-1",
+        "template--20505551765778__b1dfa5a7-1a7a-4319-9dfa-e2a56f653cae-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Epoxy-Resin-Flooring-Perth.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "af12c2a5-5151-4148-8c6c-644d9f8e6607": {
       "type": "image-with-text",
       "blocks": {
@@ -271,7 +319,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -326,6 +374,7 @@
   },
   "order": [
     "main",
+    "b1dfa5a7-1a7a-4319-9dfa-e2a56f653cae",
     "af12c2a5-5151-4148-8c6c-644d9f8e6607",
     "3dd4e192-d39d-4c14-9484-a5e417a9924e",
     "11eab6a8-9e1b-4f53-b9f8-42cffbdc28e6",
