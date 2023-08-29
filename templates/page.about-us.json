@@ -320,6 +320,17 @@
         "padding_bottom": 48
       }
     },
+    "74dc0e3d-7826-4394-9cf0-fbf59ad8104b": {
+      "type": "multicolumn-background-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/shutterstock_699871195.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "stack_images_on_mobile": true
+      }
+    },
     "db3238a1-e37a-4fa5-b42f-b80565d4b25d": {
       "type": "image-with-text",
       "blocks": {
@@ -462,6 +473,7 @@
     "3dd4e192-d39d-4c14-9484-a5e417a9924e",
     "11eab6a8-9e1b-4f53-b9f8-42cffbdc28e6",
     "08783b7e-8347-4e4f-af61-d7483d602aee",
+    "74dc0e3d-7826-4394-9cf0-fbf59ad8104b",
     "db3238a1-e37a-4fa5-b42f-b80565d4b25d",
     "6dd2ddf1-dd63-4fe3-90be-a821bc276ab2",
     "71b438f7-2da3-4c31-884d-49fc56fd1fae",
