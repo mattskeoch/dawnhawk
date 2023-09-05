@@ -146,12 +146,45 @@
             "link_label": "Read More",
             "link": "shopify:\/\/pages\/free-consultation"
           }
+        },
+        "073f6e1a-4469-42cd-8c2c-e292cfcc6f8e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Industrial-Flooring-Feature-Image-400x267.webp",
+            "title": "Industrial Flooring",
+            "text": "<p>The industrial sectors often need extreme durability solutions. Both of our ERFLA and Silikal systems are designed to withstand industrial or mining environments, as well as forklift, truck traffic and high foot traffic areas.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "378175a5-e70a-4153-8236-6b78afbcc9bc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Institutional-Flooring-Feature-Image-400x267.webp",
+            "title": "Institutional Flooring",
+            "text": "<p>This type of floor demands the toughest of systems able to counter any abuse, that are also environmentally friendly. With 1 hour of curing our institutional poured floors require little downtime.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "904a0cb5-eb6c-4974-9261-b120d8b36ef8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Medical-Flooring-Feature-Image-400x267.webp",
+            "title": "Medical Flooring",
+            "text": "<p>When it comes to medical facilities, hygiene is critical. Minimising downtime both during flooring installation and during cleaning and maintenance needs to be a top priority, giving you more time on what’s important.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
         }
       },
       "block_order": [
         "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-1",
         "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-2",
-        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-3"
+        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-3",
+        "073f6e1a-4469-42cd-8c2c-e292cfcc6f8e",
+        "378175a5-e70a-4153-8236-6b78afbcc9bc",
+        "904a0cb5-eb6c-4974-9261-b120d8b36ef8"
       ],
       "settings": {
         "title": "",
