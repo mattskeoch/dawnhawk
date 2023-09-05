@@ -21,26 +21,38 @@
         "template--20699269005586__0e6bb532-f326-4a0d-afe8-270971669755-text-1": {
           "type": "text",
           "settings": {
-            "text": "Contact us today to find out more about our cost-effective options.",
+            "text": "We customise all of our flooring solutions to match your specific industry for a long-lasting product. We believe in treating each business as unique, with its own set of requirements, therefore there is no ‘one-size-fits-all’ option when it comes to your flooring",
             "text_style": "body"
+          }
+        },
+        "8732380a-91f5-4c4c-9094-3973cb6a9a88": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Request a Quote",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "template--20699269005586__0e6bb532-f326-4a0d-afe8-270971669755-heading-1",
-        "template--20699269005586__0e6bb532-f326-4a0d-afe8-270971669755-text-1"
+        "template--20699269005586__0e6bb532-f326-4a0d-afe8-270971669755-text-1",
+        "8732380a-91f5-4c4c-9094-3973cb6a9a88"
       ],
       "custom_css": [
         ".banner__box {opacity: 85%;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Slider-1.webp",
+        "image": "shopify:\/\/shop_images\/Slider-3.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
-        "color_scheme": "inverse",
+        "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
