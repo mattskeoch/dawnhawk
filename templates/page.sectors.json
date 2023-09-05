@@ -206,6 +206,36 @@
             "link_label": "Read More",
             "link": "shopify:\/\/pages\/free-consultation"
           }
+        },
+        "aa7066d1-18c6-403a-bf32-d949b6bfee54": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marine-Flooring-Feature-Image-400x267.webp",
+            "title": "Marine Flooring",
+            "text": "<p>We offer seamless, easy to install, slip-resistant, flame retardant, durable, high performing floors (both interior and exterior). Perfect for sailboats, pontoons, powerboats, patios and more.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "2f420373-23e1-4034-ba2e-c0269074201c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pool-Concourse-Flooring-Feature-Image-400x267.webp",
+            "title": "Pool Concourse Flooring",
+            "text": "<p>Walkways, amenities and pool concourse floors are generally wet at various points throughout the day, creating potential slip and trip possibilities. Applicable for aquatic and recreation centres.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "a047ddf1-9538-4112-81bd-7b625bdada86": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Utility-Flooring-Feature-Image-400x267.webp",
+            "title": "Utility Flooring",
+            "text": "<p>Our floors are incredibly durable and tough enough to withstand the demands of a utility room, whilst still looking stylish. For peace of mind, all our <em>floors<\/em>are waterproof and slip resistant.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
         }
       },
       "block_order": [
@@ -217,7 +247,10 @@
         "904a0cb5-eb6c-4974-9261-b120d8b36ef8",
         "8a1d5709-4e04-47bb-9aba-23c776ee7866",
         "24d5f85e-f35a-416f-9199-04ceb332d018",
-        "db0f5096-64a0-4967-bf16-27bf4e110146"
+        "db0f5096-64a0-4967-bf16-27bf4e110146",
+        "aa7066d1-18c6-403a-bf32-d949b6bfee54",
+        "2f420373-23e1-4034-ba2e-c0269074201c",
+        "a047ddf1-9538-4112-81bd-7b625bdada86"
       ],
       "settings": {
         "title": "",
