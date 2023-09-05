@@ -272,54 +272,112 @@
     "603ac2a9-1d34-4ae0-bd6c-99281d6efe98": {
       "type": "multicolumn",
       "blocks": {
-        "template--20805449515282__603ac2a9-1d34-4ae0-bd6c-99281d6efe98-column-1": {
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/WA-Icon.png",
+            "title": "West Australian Owned and Operated",
+            "text": "<p>Proudly Western Australian since 2014.<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "template--20805449515282__603ac2a9-1d34-4ae0-bd6c-99281d6efe98-column-2": {
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Guarantee-Icon.png",
+            "title": "Guarantee",
+            "text": "<p>Ask us about our Delamination Warranty that covers both Materials used and Workmanship.<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "template--20805449515282__603ac2a9-1d34-4ae0-bd6c-99281d6efe98-column-3": {
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Custom-Resins-Icon.png",
+            "title": "Custom Resins",
+            "text": "<p>Our Western Australian plant allows us to produce specific resins for our clients.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "cb0d43f8-ab57-4c74-b635-81e26e3986bf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Industries-Icon.png",
+            "title": "Many Industries",
+            "text": "<p>We work with commercial sectors, the food industry, pharmaceutical, healthcare, mechanical and equipment workshops, etc.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0ad52fbc-adc9-4cbc-a70a-4c90129286cf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nonslip-Icon.png",
+            "title": "Non Slip",
+            "text": "<p>We tailor-make your floor to achieve the desired cleanability and slip resistance rating.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "72405bb1-6170-4765-99b0-f6656debb757": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Safety-First-Icon.png",
+            "title": "Safety First",
+            "text": "<p>Safety is at the core of our business values. Ask us how we can keep your team safe.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "781c40cf-5d88-45fa-9a2f-eaabf360892b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/From-Manufacturing-To-Installation-Icon.png",
+            "title": "From Manufacturing to Installation",
+            "text": "<p>We are the only West Australian installation company with its own local <br\/>manufacturing plant. We can handle the entire process from production to<br\/> installation to save you money.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "beddf14d-1a2e-4520-a442-0044e012277e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Flooring-For-LIFE-Icon.png",
+            "title": "Flooring for Life",
+            "text": "<p>In 2014, we proposed to transform the food industry by removing the <br\/>“grout & seams”. Specialising in HACCP Accredited Silikal© GmbH <br\/>Reactive Resins, we are passionate about providing our customers with <br\/>seamless, easy-to-use non-slip surfaces.<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "template--20805449515282__603ac2a9-1d34-4ae0-bd6c-99281d6efe98-column-1",
-        "template--20805449515282__603ac2a9-1d34-4ae0-bd6c-99281d6efe98-column-2",
-        "template--20805449515282__603ac2a9-1d34-4ae0-bd6c-99281d6efe98-column-3"
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-1",
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-2",
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-3",
+        "cb0d43f8-ab57-4c74-b635-81e26e3986bf",
+        "0ad52fbc-adc9-4cbc-a70a-4c90129286cf",
+        "72405bb1-6170-4765-99b0-f6656debb757",
+        "781c40cf-5d88-45fa-9a2f-eaabf360892b",
+        "beddf14d-1a2e-4520-a442-0044e012277e"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Why Choose Us",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "third",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 48,
+        "padding_bottom": 48
       }
     }
   },
