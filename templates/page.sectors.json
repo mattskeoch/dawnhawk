@@ -566,6 +566,7 @@
       "settings": {
         "title": "Request a Free Consultation",
         "heading_size": "h1",
+        "image": "shopify:\/\/shop_images\/Slider-2_1.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "color_scheme": "",
