@@ -176,6 +176,36 @@
             "link_label": "Read More",
             "link": "shopify:\/\/pages\/free-consultation"
           }
+        },
+        "8a1d5709-4e04-47bb-9aba-23c776ee7866": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/High-Rise-Flooring-Feature-Image-400x267.webp",
+            "title": "High Rise Flooring",
+            "text": "<p>State-of-the-art flooring solutions are required to meet the demands of modern high-rise residential developments. We offer custom solutions from sound absorption to easy maintenance to the newest design trends.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "24d5f85e-f35a-416f-9199-04ceb332d018": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hygiene-Flooring-Feature-Image-400x267.webp",
+            "title": "Hygiene Flooring",
+            "text": "<p>When it comes to hygiene-critical environments, downtime is costly. Minimising downtime both during flooring installation and during cleaning and maintenance needs to be a top priority.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "db0f5096-64a0-4967-bf16-27bf4e110146": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Garage-Floor-Coating-Feature-Image-400x267.webp",
+            "title": "Garage Flooring",
+            "text": "<p>Protecting the garage floor is often an afterthought, usually when the concrete is already stained and damaged. Investing in a permanent solution is going to save you money as well as provide a nice-looking and easy to maintain surface.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
         }
       },
       "block_order": [
@@ -184,7 +214,10 @@
         "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-3",
         "073f6e1a-4469-42cd-8c2c-e292cfcc6f8e",
         "378175a5-e70a-4153-8236-6b78afbcc9bc",
-        "904a0cb5-eb6c-4974-9261-b120d8b36ef8"
+        "904a0cb5-eb6c-4974-9261-b120d8b36ef8",
+        "8a1d5709-4e04-47bb-9aba-23c776ee7866",
+        "24d5f85e-f35a-416f-9199-04ceb332d018",
+        "db0f5096-64a0-4967-bf16-27bf4e110146"
       ],
       "settings": {
         "title": "",
