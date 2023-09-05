@@ -29,7 +29,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Request a Quote",
-            "button_link_1": "",
+            "button_link_1": "shopify:\/\/pages\/free-consultation",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -83,11 +83,99 @@
         "padding_top": 56,
         "padding_bottom": 56
       }
+    },
+    "7015f2e6-09a2-46cf-8ff5-638956b4ffe9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20805449515282__7015f2e6-09a2-46cf-8ff5-638956b4ffe9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sectors Hawk CFC Services",
+            "heading_size": "h1"
+          }
+        },
+        "template--20805449515282__7015f2e6-09a2-46cf-8ff5-638956b4ffe9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>HAWK CFC supplies specialised flooring solutions to a multitude of sectors across Perth and throughout Western Australia.<\/strong><\/p><p>When it comes to providing high quality flooring options, fast, HAWK CFC is the right choice. As market leaders in the resin flooring industry, you can count on us to install your flooring according to your specified needs. We customise all of our resin to suit you and your specified industry. Select a sector below to read more about flooring suited to your life.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20805449515282__7015f2e6-09a2-46cf-8ff5-638956b4ffe9-heading-1",
+        "template--20805449515282__7015f2e6-09a2-46cf-8ff5-638956b4ffe9-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 36
+      }
+    },
+    "aac9d57b-556f-4275-9747-1b0a005b63eb": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Commercial-Floor-Coatings-Feature-Images-400x267.webp",
+            "title": "Commercial Flooring",
+            "text": "<p>Whether you need a high-functioning safety floor or a simple seal or colour, we’ll work with you to find the best flooring option for your business needs. All options can be customized to meet needs such as high-traffic, impact, static-free, waterproofing, and demarcation.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Resort-Flooring-Feature-Image-400x267.webp",
+            "title": "Resort Flooring",
+            "text": "<p>Resorts need flooring with both high levels of safety and design. We offer the look of high-end expensive <em>flooring <\/em>without breaking the bank in in various colours, textures and materials.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Residential-Flooring-Feature-Image-400x267.webp",
+            "title": "Residential Flooring",
+            "text": "<p>We provide an extensive range of products which are top-quality designed for high traffic in the home. Our collections are assured to enhance any home interior from the kitchen to the bathroom.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        }
+      },
+      "block_order": [
+        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-1",
+        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-2",
+        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "4cc484d5-3b91-48a4-a287-187553478ac5",
-    "7c7699fb-020b-4df9-9abc-a2dfa8fb11e1"
+    "7c7699fb-020b-4df9-9abc-a2dfa8fb11e1",
+    "7015f2e6-09a2-46cf-8ff5-638956b4ffe9",
+    "aac9d57b-556f-4275-9747-1b0a005b63eb"
   ]
 }
