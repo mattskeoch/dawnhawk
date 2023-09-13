@@ -223,54 +223,90 @@
     "fd589d3b-9e9d-4ec6-a9e8-2ace4dc2dc81": {
       "type": "multicolumn",
       "blocks": {
-        "template--20929738506514__fd589d3b-9e9d-4ec6-a9e8-2ace4dc2dc81-column-1": {
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/RRTS-Logo-400x220.png",
+            "title": "RRTS – Rapid Return To Service Flooring",
+            "text": "<p>We specialise in minimising your downtime. We have heavy equipment to prep fast and rapid cure resins which often allow for an immediate cure.<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "template--20929738506514__fd589d3b-9e9d-4ec6-a9e8-2ace4dc2dc81-column-2": {
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Silikal-Logo-400x220.png",
+            "title": "Comprehensive Solutions Through Distributorships",
+            "text": "<p>We are the West Australian distributor for Silikal GmbH and Alluvius, as well as many accreditations for alternate suppliers.<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "template--20929738506514__fd589d3b-9e9d-4ec6-a9e8-2ace4dc2dc81-column-3": {
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/ERFLA-Quartzite-Flooring-Diagram-Logo-400x220.png",
+            "title": "Multi-Layered Specialty Systems",
+            "text": "<p>Allow us to specify a system that takes into account your unique environment and goals.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "511e5f7b-34eb-4f5e-8f89-8c0bc79c6079": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FLEX-Plate-Logo-400x220.png",
+            "title": "Flex-Plate",
+            "text": "<p>Flex-Plate is found exclusivity at Hawk CFC.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7ee4a467-995b-4997-b6bf-e82682ed1555": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CM3-Certified-Logo-400x220.png",
+            "title": "CM3",
+            "text": "<p>We’re happy to show our health and safety capabilities.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1a93f3d6-3ae7-4498-9982-68c88906bafe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Zero-VOC-Logo-400x220.png",
+            "title": "Zero VOC Flooring",
+            "text": "<p>We offer beautiful, non-toxic, Eco-friendly floors.<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "template--20929738506514__fd589d3b-9e9d-4ec6-a9e8-2ace4dc2dc81-column-1",
-        "template--20929738506514__fd589d3b-9e9d-4ec6-a9e8-2ace4dc2dc81-column-2",
-        "template--20929738506514__fd589d3b-9e9d-4ec6-a9e8-2ace4dc2dc81-column-3"
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-1",
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-2",
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-3",
+        "511e5f7b-34eb-4f5e-8f89-8c0bc79c6079",
+        "7ee4a467-995b-4997-b6bf-e82682ed1555",
+        "1a93f3d6-3ae7-4498-9982-68c88906bafe"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Our Trusted Suppliers",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "half",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 48,
+        "padding_bottom": 48
       }
     }
   },
