@@ -171,6 +171,46 @@
             "link_label": "Read More",
             "link": ""
           }
+        },
+        "8125aad0-4177-44df-b75a-336d886028b0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tile-Removal_3.jpg",
+            "title": "Tile Removal",
+            "text": "<p>Tile removal doesn’t have to be an overly dusty process – with dust entrapment systems available the floor can be diamond ground to remove tile glue, grout, contamination and stains, ready for waterproofing, polishing, or floor installation.<\/p>",
+            "link_label": "Read More",
+            "link": "\/"
+          }
+        },
+        "8a31b51b-08d3-4db1-8473-fb14bb259e66": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/resilient.webp",
+            "title": "Underfloor Insulation",
+            "text": "<p>Underfloor Insulation works to combat the flow of heat so that you can keep indoors at a comfortable temperature. Solid floors are insulated using rigid insulation foam, which can be fitted either above or below the concrete.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "983a90e8-4ccb-4d54-819e-7b85e089486d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/crack-injection.webp",
+            "title": "Crack Injection",
+            "text": "<p>Hawk Concrete Floor Coatings is based in Perth, WA and specialises in crack injection to concrete surfaces, both vertical and horizontal for remedial and aesthetic modifications. Crack injection and repair is specialised work using specialised materials to ensure a proper, long lasting seal.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "34716de0-b359-4b8f-af6b-d585a15005b1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Concrete-Sealing-Feature-Image.webp",
+            "title": "Commercial Slab Sealing",
+            "text": "<p>Dust can easily gather on unsealed commercial slabs and cause a lot of problems with general floor and equipment maintenance. While dust particles might be too small for the eye to see, it can have a huge impact on something as big as forklift tires.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -179,7 +219,11 @@
         "template--20929738506514__d7094cf9-0442-44c2-b478-e174aebdb6de-column-3",
         "92f36857-eced-4f72-8615-f3efa9341080",
         "d820fff3-d9c2-4635-9567-6286958faec8",
-        "e2245d7e-bf75-4c4a-8c08-5adb086b5404"
+        "e2245d7e-bf75-4c4a-8c08-5adb086b5404",
+        "8125aad0-4177-44df-b75a-336d886028b0",
+        "8a31b51b-08d3-4db1-8473-fb14bb259e66",
+        "983a90e8-4ccb-4d54-819e-7b85e089486d",
+        "34716de0-b359-4b8f-af6b-d585a15005b1"
       ],
       "custom_css": [
         "h3 {color: #0054ac; font-size: 2.4rem;}"
