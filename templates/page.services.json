@@ -125,18 +125,20 @@
         "template--20929738506514__d7094cf9-0442-44c2-b478-e174aebdb6de-column-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "image": "shopify:\/\/shop_images\/concrete.webp",
+            "title": "Concrete Solutions",
+            "text": "<p>Hawk CFC provides a comprehensive range of solutions for a variety of concrete problems. Concrete solutions include: – Waterproofing systems applied with zero film thickness; a truly impregnating, non wearing, permanent waterproofing system<\/p>",
+            "link_label": "Read More",
             "link": ""
           }
         },
         "template--20929738506514__d7094cf9-0442-44c2-b478-e174aebdb6de-column-3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "image": "shopify:\/\/shop_images\/Garage-Flooring-X-Stone_2-400x267.jpg",
+            "title": "Garage Floor Paint",
+            "text": "<p>Hawk Concrete Floor Coatings is a Perth based company specialising in concrete coatings including garage floor paint systems. Hawk CFC uses premium epoxy resins, polyurea, polyurethanes and other coloured and clear coatings to achieve a long-lasting bond to the concrete surface.<\/p>",
+            "link_label": "Read More",
             "link": ""
           }
         },
