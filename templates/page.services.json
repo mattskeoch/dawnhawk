@@ -71,11 +71,49 @@
         "padding_top": 24,
         "padding_bottom": 16
       }
+    },
+    "4a7d8baa-2c5b-4adc-85ea-8a3690a0d4b7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20929738506514__4a7d8baa-2c5b-4adc-85ea-8a3690a0d4b7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Services We Offer",
+            "heading_size": "h0"
+          }
+        },
+        "template--20929738506514__4a7d8baa-2c5b-4adc-85ea-8a3690a0d4b7-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Hawk CFC supplies specialised flooring solutions to a multitude of sectors across Perth and throughout Western Australia<\/h2>"
+          }
+        },
+        "7e0e25ff-a2e1-4582-95b0-8a0a42214d02": {
+          "type": "text",
+          "settings": {
+            "text": "<p>When it comes to providing high long-lasting flooring options, fast, HAWK CFC is the right choice. As market leaders in the resin flooring industry, you can count on us to prepare, coat and maintain your floor for the best possible results.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20929738506514__4a7d8baa-2c5b-4adc-85ea-8a3690a0d4b7-heading-1",
+        "template--20929738506514__4a7d8baa-2c5b-4adc-85ea-8a3690a0d4b7-text-1",
+        "7e0e25ff-a2e1-4582-95b0-8a0a42214d02"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "9a8effd5-21ae-4336-8462-fc0c2f64eec3",
-    "b6985902-e013-4d62-9a4a-1eb3caba1259"
+    "b6985902-e013-4d62-9a4a-1eb3caba1259",
+    "4a7d8baa-2c5b-4adc-85ea-8a3690a0d4b7"
   ]
 }
