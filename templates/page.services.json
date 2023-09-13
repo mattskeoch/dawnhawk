@@ -118,7 +118,7 @@
             "image": "shopify:\/\/shop_images\/flooring.webp",
             "title": "Flooring",
             "text": "<p>Our local flooring experts offer flooring services near you, to help you achieve the perfect look for every room in your commercial space. We offer a variety of services to support our customers in their purchasing decision and flooring installation or repairs.<\/p>",
-            "link_label": "",
+            "link_label": "Read More",
             "link": ""
           }
         },
@@ -156,6 +156,9 @@
         "template--20929738506514__d7094cf9-0442-44c2-b478-e174aebdb6de-column-3",
         "92f36857-eced-4f72-8615-f3efa9341080"
       ],
+      "custom_css": [
+        "h3 {color: #0054ac; font-size: 2.4rem;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -163,7 +166,7 @@
         "image_ratio": "portrait",
         "columns_desktop": 3,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
