@@ -145,9 +145,30 @@
         "92f36857-eced-4f72-8615-f3efa9341080": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/line-marking.webp",
+            "title": "Line Marking",
+            "text": "<p>In the workplace, it can be crucial to create boundaries between moving vehicles and equipment, safety zones and work stations. By differentiating areas and zones, you have effectively established a level of communication to all employees and visitors and created an awareness that a workplace standard exists.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "d820fff3-d9c2-4635-9567-6286958faec8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shot-blasting.webp",
+            "title": "Shot Blasting",
+            "text": "<p>Shot-Blasting is one of the most under-utilised forms of surface preparation. The fact that more companies are not using this is simply due to failure to make the investment in the right equipment and not having staff trained on the execution of shot-blasting.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "e2245d7e-bf75-4c4a-8c08-5adb086b5404": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shot-blasting.webp",
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "text": "<p>The solution is not paint re-application, but paint remover. Once the paint is removed, you can choose to keep your unpainted concrete or have a non-peeling product instead. Read on for more information on paint removal.<\/p>",
+            "link_label": "Read More",
             "link": ""
           }
         }
@@ -156,7 +177,9 @@
         "template--20929738506514__d7094cf9-0442-44c2-b478-e174aebdb6de-column-1",
         "template--20929738506514__d7094cf9-0442-44c2-b478-e174aebdb6de-column-2",
         "template--20929738506514__d7094cf9-0442-44c2-b478-e174aebdb6de-column-3",
-        "92f36857-eced-4f72-8615-f3efa9341080"
+        "92f36857-eced-4f72-8615-f3efa9341080",
+        "d820fff3-d9c2-4635-9567-6286958faec8",
+        "e2245d7e-bf75-4c4a-8c08-5adb086b5404"
       ],
       "custom_css": [
         "h3 {color: #0054ac; font-size: 2.4rem;}"
