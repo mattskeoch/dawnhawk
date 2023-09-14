@@ -334,46 +334,38 @@
     "db3238a1-e37a-4fa5-b42f-b80565d4b25d": {
       "type": "image-with-text",
       "blocks": {
-        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-heading-1": {
+        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-heading-1": {
           "type": "heading",
           "settings": {
             "heading": "Our Certifications",
             "heading_size": "h1"
           }
         },
-        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-text-1": {
+        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>In food safety management, a fundamental approach to managing risk is implementing a HACCP system.<br\/><br\/>This acronym stands for Hazard Analysis and Critical Control Point.<\/p><p>The development of a HACCP plan must identify and manage the <br\/>following types of hazards: Biological, Chemical, Physical, Allergens, Quality, and Regulatory.<\/p>",
+            "text": "<p>In food safety management, a fundamental approach to managing risk is implementing a HACCP system.<br\/>This acronym stands for Hazard Analysis and Critical Control Point.<\/p><p>The development of a HACCP plan must identify and manage the following types of hazards: Biological, Chemical, Physical, Allergens, Quality, and Regulatory.<\/p>",
             "text_style": "body"
-          }
-        },
-        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-heading-1",
-        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-text-1",
-        "template--20192202883346__2b57c941-c088-427e-baf2-b430037f438e-button-1"
+        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-heading-1",
+        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-text-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/haccp.png",
         "height": "adapt",
         "desktop_image_width": "small",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 56,
-        "padding_bottom": 56
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "6dd2ddf1-dd63-4fe3-90be-a821bc276ab2": {
