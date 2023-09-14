@@ -99,7 +99,83 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 16
+      }
+    },
+    "b2b6013b-23d2-4064-93b6-d37b02940140": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20944533717266__b2b6013b-23d2-4064-93b6-d37b02940140-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/self-levelling.webp",
+            "title": "Concrete Floor Cost",
+            "text": "<p>There’s always one main question on everyone’s lips – “how much is it going to cost?” Unlike other products, installing a concrete floor coating involves much more than just the cost of materials at a m2 rate.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "template--20944533717266__b2b6013b-23d2-4064-93b6-d37b02940140-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cheap2.webp",
+            "title": "ERFLA Systems",
+            "text": "<p>Epoxy Resin Flooring Laboratories Australia, provide the next generation in resin based flooring technology to Perth, Western Australia.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "template--20944533717266__b2b6013b-23d2-4064-93b6-d37b02940140-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Silikal.webp",
+            "title": "Silikal© Systems",
+            "text": "<p><em>Silikal<\/em> waterproofing <em>systems <\/em>provide excellent protection and an attractive finish. They are extremely resistant and show resistance to many acids, alkalis, greases, oils, most fuels and numerous other chemicals.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8a96eeff-e1fa-4c6f-b799-ff722b74350b": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "62639d7c-9c57-4df7-b9e2-e5a1098c2c3d": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20944533717266__b2b6013b-23d2-4064-93b6-d37b02940140-column-1",
+        "template--20944533717266__b2b6013b-23d2-4064-93b6-d37b02940140-column-2",
+        "template--20944533717266__b2b6013b-23d2-4064-93b6-d37b02940140-column-3",
+        "8a96eeff-e1fa-4c6f-b799-ff722b74350b",
+        "62639d7c-9c57-4df7-b9e2-e5a1098c2c3d"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 36
       }
     }
   },
@@ -107,6 +183,7 @@
     "main",
     "5b756ecb-211e-43c3-83c3-92eae6125312",
     "91df0ced-c6b1-4d61-a78c-ad1dd06c8e07",
-    "41d5e8d7-f9a1-4227-92a1-a93bf1003da0"
+    "41d5e8d7-f9a1-4227-92a1-a93bf1003da0",
+    "b2b6013b-23d2-4064-93b6-d37b02940140"
   ]
 }
