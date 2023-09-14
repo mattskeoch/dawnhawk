@@ -163,6 +163,9 @@
         "8a96eeff-e1fa-4c6f-b799-ff722b74350b",
         "62639d7c-9c57-4df7-b9e2-e5a1098c2c3d"
       ],
+      "custom_css": [
+        "h3 {color: #0054ac;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
