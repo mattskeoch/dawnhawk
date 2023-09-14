@@ -68,14 +68,45 @@
         "fourteenth-image": "shopify:\/\/shop_images\/Jax-Tyres.png",
         "fifteenth-image": "shopify:\/\/shop_images\/Broad-Logo.png",
         "sixteenth-image": "shopify:\/\/shop_images\/Bunbury-Bearings-Logo.png",
-        "padding_top": 32,
-        "padding_bottom": 16
+        "padding_top": 24,
+        "padding_bottom": 8
+      }
+    },
+    "c30a19c2-9d1b-4463-93ee-3113887ba49c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20943719891218__c30a19c2-9d1b-4463-93ee-3113887ba49c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Concrete Coatings",
+            "heading_size": "h1"
+          }
+        },
+        "template--20943719891218__c30a19c2-9d1b-4463-93ee-3113887ba49c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hawk CFC has been in operation for over a decade and <strong>specialises in the specification and installation of concrete coatings in Perth<\/strong>. We supply and install a variety of solutions for residential, commercial, industrial and mining applications. We understand the vital importance of a floor to the running of any workplace, as well as the importance of durability and longevity.<\/p><p>If you want to learn more, check out our articles:<\/p><p>1. <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/9-things-you-should-know-before-coating-your-concrete-floor\/\">9 Things you must know before coating your concrete floor<br\/><\/a>2. <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/best-concrete-floor-finishes-for-commercial-use\/\">BREAKING: Best Concrete Floor Finishes for Commercial Use<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20943719891218__c30a19c2-9d1b-4463-93ee-3113887ba49c-heading-1",
+        "template--20943719891218__c30a19c2-9d1b-4463-93ee-3113887ba49c-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
     "3e831870-c942-44e3-854f-8e20b1571285",
-    "7585e757-e250-4034-97d2-bf2d328d4b69"
+    "7585e757-e250-4034-97d2-bf2d328d4b69",
+    "c30a19c2-9d1b-4463-93ee-3113887ba49c"
   ]
 }
