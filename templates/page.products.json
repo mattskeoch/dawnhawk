@@ -131,7 +131,7 @@
             "image": "shopify:\/\/shop_images\/Silikal.webp",
             "title": "Silikal© Systems",
             "text": "<p><em>Silikal<\/em> waterproofing <em>systems <\/em>provide excellent protection and an attractive finish. They are extremely resistant and show resistance to many acids, alkalis, greases, oils, most fuels and numerous other chemicals.<\/p>",
-            "link_label": "",
+            "link_label": "Read More",
             "link": ""
           }
         },
@@ -141,7 +141,7 @@
             "image": "shopify:\/\/shop_images\/Flex-Plate-Systems.webp",
             "title": "Flex-Plate Systems",
             "text": "<p>Contact us today to find out more about Flex-Plate flooring. Our motto is Flooring for Life – because Flex-Plate flooring will last a lifetime.<\/p>",
-            "link_label": "",
+            "link_label": "Read More",
             "link": ""
           }
         },
@@ -151,7 +151,7 @@
             "image": "shopify:\/\/shop_images\/Waterproofing-Coatings.webp",
             "title": "Waterproofing Coatings",
             "text": "<p>This method is based on a special nanotechnology <em>coating<\/em>a thousand times thinner than human hair which protects electronic equipment from damage. We provide specialised flooring systems to ensure quality standards and safety requirements are met.<\/p>",
-            "link_label": "",
+            "link_label": "Read More",
             "link": ""
           }
         }
@@ -170,7 +170,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
