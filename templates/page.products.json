@@ -138,8 +138,9 @@
         "8a96eeff-e1fa-4c6f-b799-ff722b74350b": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Flex-Plate-Systems.webp",
+            "title": "Flex-Plate Systems",
+            "text": "<p>Contact us today to find out more about Flex-Plate flooring. Our motto is Flooring for Life – because Flex-Plate flooring will last a lifetime.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -147,8 +148,9 @@
         "62639d7c-9c57-4df7-b9e2-e5a1098c2c3d": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Waterproofing-Coatings.webp",
+            "title": "Waterproofing Coatings",
+            "text": "<p>This method is based on a special nanotechnology <em>coating<\/em>a thousand times thinner than human hair which protects electronic equipment from damage. We provide specialised flooring systems to ensure quality standards and safety requirements are met.<\/p>",
             "link_label": "",
             "link": ""
           }
