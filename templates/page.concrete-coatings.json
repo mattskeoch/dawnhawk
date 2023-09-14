@@ -187,6 +187,62 @@
         "padding_top": 12,
         "padding_bottom": 32
       }
+    },
+    "9a656fe0-33bf-4137-9982-5d81b9b8a439": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20943719891218__9a656fe0-33bf-4137-9982-5d81b9b8a439-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/concrete-floor-coating.webp",
+            "title": "Concrete Floor Coatings",
+            "text": "<p>Hawk CFC has been in operation for over a decade and specialises in the specification and installation of concrete floor coatings for residential, commercial, industrial and mining applications.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "template--20943719891218__9a656fe0-33bf-4137-9982-5d81b9b8a439-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mma-flooring.webp",
+            "title": "MMA Methyl Methacrylate",
+            "text": "<p>Gone are the days of having to wait tirelessly for your coating to cure for days on end! MMA is the best option when you require minimal down time without compromising on quality and appearance.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "template--20943719891218__9a656fe0-33bf-4137-9982-5d81b9b8a439-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/non-slip-flooring_1.webp",
+            "title": "Non Slip Flooring",
+            "text": "<p>A non-slip epoxy resin floor is ideal because it not only supplies you with the slip rating you require to keep the authorities off your back but it actually makes the maintenance and cleaning routines much easier.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20943719891218__9a656fe0-33bf-4137-9982-5d81b9b8a439-column-1",
+        "template--20943719891218__9a656fe0-33bf-4137-9982-5d81b9b8a439-column-2",
+        "template--20943719891218__9a656fe0-33bf-4137-9982-5d81b9b8a439-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -195,6 +251,7 @@
     "7585e757-e250-4034-97d2-bf2d328d4b69",
     "c30a19c2-9d1b-4463-93ee-3113887ba49c",
     "5e7535f8-d662-4196-962d-ceb7dfbe179f",
-    "dfc0f592-c3e7-4ffd-9440-f92cf033a3b9"
+    "dfc0f592-c3e7-4ffd-9440-f92cf033a3b9",
+    "9a656fe0-33bf-4137-9982-5d81b9b8a439"
   ]
 }
