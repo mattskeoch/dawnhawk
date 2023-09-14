@@ -220,12 +220,45 @@
             "link_label": "Read More",
             "link": ""
           }
+        },
+        "64d9a275-7f02-4e10-b138-1a497c6279d3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Polyaspartic_1.jpg",
+            "title": "Polyaspartic",
+            "text": "<p>Polyaspartic has a high level of chemical resistance, gloss retention, UV stability, and cure rate, however, like all materials in the flooring industry, has its pros and it’s cons.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "74acbce9-2298-485c-b86e-d6adb083ee21": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/POLYUREA.jpg",
+            "title": "Polyurea",
+            "text": "<p>Polyurea has been a significant player in the resin coatings business for some years now, and still continues to be a very versatile options for many environments.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "447bc065-6c80-451c-8b14-7a388c38ebcb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/car-park-coating.webp",
+            "title": "Car Park Coatings",
+            "text": "<p>Hawk Concrete Floor Coatings has been in operation for over a decade and specialises in the specification and installation of car park coatings in Perth.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--20943719891218__9a656fe0-33bf-4137-9982-5d81b9b8a439-column-1",
         "template--20943719891218__9a656fe0-33bf-4137-9982-5d81b9b8a439-column-2",
-        "template--20943719891218__9a656fe0-33bf-4137-9982-5d81b9b8a439-column-3"
+        "template--20943719891218__9a656fe0-33bf-4137-9982-5d81b9b8a439-column-3",
+        "64d9a275-7f02-4e10-b138-1a497c6279d3",
+        "74acbce9-2298-485c-b86e-d6adb083ee21",
+        "447bc065-6c80-451c-8b14-7a388c38ebcb"
       ],
       "settings": {
         "title": "",
@@ -239,7 +272,7 @@
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
