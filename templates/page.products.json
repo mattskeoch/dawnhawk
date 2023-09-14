@@ -71,11 +71,42 @@
         "padding_top": 24,
         "padding_bottom": 8
       }
+    },
+    "41d5e8d7-f9a1-4227-92a1-a93bf1003da0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20944533717266__41d5e8d7-f9a1-4227-92a1-a93bf1003da0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "High Quality Flooring Products Perth",
+            "heading_size": "h1"
+          }
+        },
+        "template--20944533717266__41d5e8d7-f9a1-4227-92a1-a93bf1003da0-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our state of the art systems are able to provide long lasting, food safe, seamless, chemical resistant and anti-slip flooring. We understand that no other flooring products will achieve all requirements. Every project that we tackle comes with its own individual set of needs. We have trained technicians to assess and recognise each of our clients’ requirements, tailoring a specialised solution to suit.<\/p><p>We have a wealth of knowledge and a vast amount of materials, making us truly unique in our approach. We have a wide range of resin based flooring systems, reactive MMA flooring options, mortar screed systems, wall to floor coving solutions, drainage solutions and can handle every part of a flooring system. From repairing and consolidating old slabs, dealing with expansion joins, line marking and creating designer floors, whatever your needs, we have you covered.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20944533717266__41d5e8d7-f9a1-4227-92a1-a93bf1003da0-heading-1",
+        "template--20944533717266__41d5e8d7-f9a1-4227-92a1-a93bf1003da0-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "5b756ecb-211e-43c3-83c3-92eae6125312",
-    "91df0ced-c6b1-4d61-a78c-ad1dd06c8e07"
+    "91df0ced-c6b1-4d61-a78c-ad1dd06c8e07",
+    "41d5e8d7-f9a1-4227-92a1-a93bf1003da0"
   ]
 }
