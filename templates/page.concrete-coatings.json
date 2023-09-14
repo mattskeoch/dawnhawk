@@ -99,7 +99,93 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 8
+      }
+    },
+    "5e7535f8-d662-4196-962d-ceb7dfbe179f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20943719891218__5e7535f8-d662-4196-962d-ceb7dfbe179f-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/floor-coatings-perth-800x534.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20943719891218__5e7535f8-d662-4196-962d-ceb7dfbe179f-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Epoxy-Floor-Coatings-Perth.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20943719891218__5e7535f8-d662-4196-962d-ceb7dfbe179f-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Epoxy-Floor-Coatings-800x518.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20943719891218__5e7535f8-d662-4196-962d-ceb7dfbe179f-column-1",
+        "template--20943719891218__5e7535f8-d662-4196-962d-ceb7dfbe179f-column-2",
+        "template--20943719891218__5e7535f8-d662-4196-962d-ceb7dfbe179f-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "dfc0f592-c3e7-4ffd-9440-f92cf033a3b9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20943719891218__dfc0f592-c3e7-4ffd-9440-f92cf033a3b9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Concrete coatings include:",
+            "heading_size": "h2"
+          }
+        },
+        "template--20943719891218__dfc0f592-c3e7-4ffd-9440-f92cf033a3b9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Application of clear protective sealer to vulnerable concrete slabs.<\/li><li>The process of changing a concrete surface to make it harder and more resistant to damage, chemical attack, wear and tear.<\/li><li>The installation of <a href=\"https:\/\/www.concretenetwork.com\/products-concrete-coatings\/\" target=\"_blank\"><strong>decorative resurfacing solutions<\/strong><\/a> such as: Concrete Painting, Resin Marble Effects, X-Stone Floors, <a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/epoxy-flooring\/\">Decorative epoxy finishes<\/a> and Concrete Polishing.<\/li><\/ul><p>The good news is that Hawk CFC can help you with any of the above and more.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20943719891218__dfc0f592-c3e7-4ffd-9440-f92cf033a3b9-heading-1",
+        "template--20943719891218__dfc0f592-c3e7-4ffd-9440-f92cf033a3b9-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 32
       }
     }
   },
@@ -107,6 +193,8 @@
     "main",
     "3e831870-c942-44e3-854f-8e20b1571285",
     "7585e757-e250-4034-97d2-bf2d328d4b69",
-    "c30a19c2-9d1b-4463-93ee-3113887ba49c"
+    "c30a19c2-9d1b-4463-93ee-3113887ba49c",
+    "5e7535f8-d662-4196-962d-ceb7dfbe179f",
+    "dfc0f592-c3e7-4ffd-9440-f92cf033a3b9"
   ]
 }
