@@ -99,7 +99,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 8
+        "padding_bottom": 12
       }
     },
     "5e7535f8-d662-4196-962d-ceb7dfbe179f": {
@@ -154,8 +154,8 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 8,
-        "padding_bottom": 8
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "dfc0f592-c3e7-4ffd-9440-f92cf033a3b9": {
@@ -184,7 +184,7 @@
         "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 8,
+        "padding_top": 12,
         "padding_bottom": 32
       }
     }
