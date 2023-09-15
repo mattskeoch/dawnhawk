@@ -11,44 +11,36 @@
     "da44f0f2-dbd1-486b-a752-c9d1991647ab": {
       "type": "image-banner",
       "blocks": {
-        "template--20944527229202__da44f0f2-dbd1-486b-a752-c9d1991647ab-heading-1": {
+        "template--20699269005586__0e6bb532-f326-4a0d-afe8-270971669755-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Expoxy Flooring Perth",
             "heading_size": "h1"
           }
         },
-        "template--20944527229202__da44f0f2-dbd1-486b-a752-c9d1991647ab-text-1": {
+        "template--20699269005586__0e6bb532-f326-4a0d-afe8-270971669755-text-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Contact us today to find out more about our cost-effective options.",
             "text_style": "body"
-          }
-        },
-        "template--20944527229202__da44f0f2-dbd1-486b-a752-c9d1991647ab-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--20944527229202__da44f0f2-dbd1-486b-a752-c9d1991647ab-heading-1",
-        "template--20944527229202__da44f0f2-dbd1-486b-a752-c9d1991647ab-text-1",
-        "template--20944527229202__da44f0f2-dbd1-486b-a752-c9d1991647ab-buttons-1"
+        "template--20699269005586__0e6bb532-f326-4a0d-afe8-270971669755-heading-1",
+        "template--20699269005586__0e6bb532-f326-4a0d-afe8-270971669755-text-1"
+      ],
+      "custom_css": [
+        ".banner__box {opacity: 85%;}"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Slider-1.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
