@@ -500,6 +500,18 @@
         "padding_top": 48,
         "padding_bottom": 48
       }
+    },
+    "c132bc04-e6ad-4d2d-a013-31c840f507bd": {
+      "type": "form-background-image",
+      "settings": {
+        "title": "Request a Free Consultation",
+        "heading_size": "h1",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "stack_images_on_mobile": true
+      }
     }
   },
   "order": [
@@ -511,6 +523,7 @@
     "c038a898-7c53-4525-836a-f5683dab6c5c",
     "3dc7d7c2-0b45-43d5-b126-5bd2d0370f45",
     "d9e6157b-7b9c-4a9c-8209-5baa0d97e592",
-    "acc5956b-324e-4968-9bb2-1c5f8d33a0d7"
+    "acc5956b-324e-4968-9bb2-1c5f8d33a0d7",
+    "c132bc04-e6ad-4d2d-a013-31c840f507bd"
   ]
 }
