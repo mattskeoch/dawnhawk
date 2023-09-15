@@ -47,6 +47,15 @@
         "show_text_below": true
       }
     },
+    "a7838cf8-b390-43f6-bd5f-e7e07878eb16": {
+      "type": "logo-slider",
+      "settings": {
+        "title": "Logo list",
+        "heading_size": "h1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "b9427610-800f-48d4-ba4e-85079edc979a": {
       "type": "rich-text",
       "blocks": {
@@ -733,6 +742,7 @@
   "order": [
     "main",
     "0e6bb532-f326-4a0d-afe8-270971669755",
+    "a7838cf8-b390-43f6-bd5f-e7e07878eb16",
     "b9427610-800f-48d4-ba4e-85079edc979a",
     "155394b7-9363-44c4-a27f-6790ae03ee66",
     "99c9a740-53ca-4430-b077-78750e54dea0",
