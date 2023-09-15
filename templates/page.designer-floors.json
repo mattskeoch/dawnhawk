@@ -94,12 +94,69 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "90fbdd13-422b-4c63-b864-c669efaa83d7": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20944527229202__90fbdd13-422b-4c63-b864-c669efaa83d7-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Commercial-Flooring_2.jpg",
+            "title": "Polished Concrete",
+            "text": "<p>Polished concrete flooring adds design and durability to any space. Originally thought to be suited for only industrial or commercial spaces, these floors are now in demand as a designer flooring option in homes across Perth and all of Australia.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "template--20944527229202__90fbdd13-422b-4c63-b864-c669efaa83d7-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Insitu-Spaces-Marble-Series.png",
+            "title": "Insitu Spaces – Marble Series",
+            "text": "<p>The Marble series of Hawk CFC’s Insitu Spaces is a matte-coated resin that gives the impression that your flooring consists of a seamless, precious stone.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "template--20944527229202__90fbdd13-422b-4c63-b864-c669efaa83d7-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Retail-Flooring_Industrial-SL.jpg",
+            "title": "Insitu Spaces – Original Series",
+            "text": "<p>This modified system derived from industrial grade self-levelling repair mortar technology. In short, this means the finished product is hard wearing, long lasting and capable of handling vehicle traffic.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20944527229202__90fbdd13-422b-4c63-b864-c669efaa83d7-column-1",
+        "template--20944527229202__90fbdd13-422b-4c63-b864-c669efaa83d7-column-2",
+        "template--20944527229202__90fbdd13-422b-4c63-b864-c669efaa83d7-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "da44f0f2-dbd1-486b-a752-c9d1991647ab",
     "3b9b7989-24a8-4d0e-9936-4b6f073266fa",
-    "c1e68687-bd8a-4091-93b4-9359e013f54f"
+    "c1e68687-bd8a-4091-93b4-9359e013f54f",
+    "90fbdd13-422b-4c63-b864-c669efaa83d7"
   ]
 }
