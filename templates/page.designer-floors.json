@@ -412,41 +412,33 @@
     "d9e6157b-7b9c-4a9c-8209-5baa0d97e592": {
       "type": "image-with-text",
       "blocks": {
-        "template--20944527229202__d9e6157b-7b9c-4a9c-8209-5baa0d97e592-heading-1": {
+        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Our Certifications",
             "heading_size": "h1"
           }
         },
-        "template--20944527229202__d9e6157b-7b9c-4a9c-8209-5baa0d97e592-text-1": {
+        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>In food safety management, a fundamental approach to managing risk is implementing a HACCP system.<br\/>This acronym stands for Hazard Analysis and Critical Control Point.<\/p><p>The development of a HACCP plan must identify and manage the following types of hazards: Biological, Chemical, Physical, Allergens, Quality, and Regulatory.<\/p>",
             "text_style": "body"
-          }
-        },
-        "template--20944527229202__d9e6157b-7b9c-4a9c-8209-5baa0d97e592-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "template--20944527229202__d9e6157b-7b9c-4a9c-8209-5baa0d97e592-heading-1",
-        "template--20944527229202__d9e6157b-7b9c-4a9c-8209-5baa0d97e592-text-1",
-        "template--20944527229202__d9e6157b-7b9c-4a9c-8209-5baa0d97e592-button-1"
+        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-heading-1",
+        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-text-1"
       ],
       "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "image": "shopify:\/\/shop_images\/haccp.png",
+        "height": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
