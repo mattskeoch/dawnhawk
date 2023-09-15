@@ -8,6 +8,53 @@
         "padding_bottom": 28
       }
     },
+    "da44f0f2-dbd1-486b-a752-c9d1991647ab": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20944527229202__da44f0f2-dbd1-486b-a752-c9d1991647ab-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--20944527229202__da44f0f2-dbd1-486b-a752-c9d1991647ab-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--20944527229202__da44f0f2-dbd1-486b-a752-c9d1991647ab-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20944527229202__da44f0f2-dbd1-486b-a752-c9d1991647ab-heading-1",
+        "template--20944527229202__da44f0f2-dbd1-486b-a752-c9d1991647ab-text-1",
+        "template--20944527229202__da44f0f2-dbd1-486b-a752-c9d1991647ab-buttons-1"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "3b9b7989-24a8-4d0e-9936-4b6f073266fa": {
       "type": "logo-slider",
       "settings": {
@@ -20,6 +67,7 @@
   },
   "order": [
     "main",
+    "da44f0f2-dbd1-486b-a752-c9d1991647ab",
     "3b9b7989-24a8-4d0e-9936-4b6f073266fa"
   ]
 }
