@@ -71,11 +71,35 @@
         "padding_top": 32,
         "padding_bottom": 16
       }
+    },
+    "c1e68687-bd8a-4091-93b4-9359e013f54f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20944527229202__c1e68687-bd8a-4091-93b4-9359e013f54f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hawk CFC Designer Flooring",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--20944527229202__c1e68687-bd8a-4091-93b4-9359e013f54f-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "da44f0f2-dbd1-486b-a752-c9d1991647ab",
-    "3b9b7989-24a8-4d0e-9936-4b6f073266fa"
+    "3b9b7989-24a8-4d0e-9936-4b6f073266fa",
+    "c1e68687-bd8a-4091-93b4-9359e013f54f"
   ]
 }
