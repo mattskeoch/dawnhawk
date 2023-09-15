@@ -92,7 +92,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 32
       }
     },
     "90fbdd13-422b-4c63-b864-c669efaa83d7": {
@@ -127,12 +127,67 @@
             "link_label": "Read More",
             "link": ""
           }
+        },
+        "ad2d618e-f78d-4fd1-85cf-e761883217c4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Desiner-Concrete_European-Ceramics_By-HAWK-CFC-2.jpg",
+            "title": "Satin",
+            "text": "<p>Silikal Satin is a clear resin that engages with the uniqueness of the concrete slab, transforming the concrete’s imperfections into design features in a stunning satin gloss.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "8b9e3d02-78b5-4d90-9750-9a95b541d8a8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Garage-Flooring_2-1.jpg",
+            "title": "X-STONE",
+            "text": "<p>ERFLA have managed to tweak the industry standard stone-finish floor into the highly versatile, highly decorative X-Stone series.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "66190f1e-5fca-4929-b070-e780b6717e89": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/X-Canvas.jpg",
+            "title": "X-CANVAS",
+            "text": "<p>X-Canvas is a clean, single-colour, seamless finish that is sure to make your home or business look and feel cleaner and more spacious.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6e560fe0-6089-4f2a-94d9-910fb90a7571": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Insitu-Spaces_4.jpg",
+            "title": "Concrete Enhancer",
+            "text": "<p>ERFLA Concrete Enhancer is a clear resin that engages with the uniqueness of your slab, transforming the concrete’s imperfections into design features.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "8eff7349-03d5-4547-9286-1b9d340ea11d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Quartzite-Flooring-Perth.jpg",
+            "title": "Quartzite",
+            "text": "<p>Silikal Quartzite flooring is Perth’s most popular flooring for commercial kitchen floors, restaurants, cafes, shopping centres and other commercial applications.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--20944527229202__90fbdd13-422b-4c63-b864-c669efaa83d7-column-1",
         "template--20944527229202__90fbdd13-422b-4c63-b864-c669efaa83d7-column-2",
-        "template--20944527229202__90fbdd13-422b-4c63-b864-c669efaa83d7-column-3"
+        "template--20944527229202__90fbdd13-422b-4c63-b864-c669efaa83d7-column-3",
+        "ad2d618e-f78d-4fd1-85cf-e761883217c4",
+        "8b9e3d02-78b5-4d90-9750-9a95b541d8a8",
+        "66190f1e-5fca-4929-b070-e780b6717e89",
+        "6e560fe0-6089-4f2a-94d9-910fb90a7571",
+        "8eff7349-03d5-4547-9286-1b9d340ea11d"
       ],
       "settings": {
         "title": "",
