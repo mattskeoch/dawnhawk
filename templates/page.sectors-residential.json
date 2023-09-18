@@ -8,12 +8,16 @@
         "padding_bottom": 28
       }
     },
-    "1c37d375-3921-4d80-83c3-246e4891a807": {
-      "type": "form-background-image",
+    "38c903d7-5540-43c5-9771-287da7803c6c": {
+      "type": "text-and-form-background-image",
       "settings": {
+        "header_text": "Residential Flooring Perth",
+        "paragraph_text": "Servicing all of Perth, Hawk CFC has over 10 years of experience providing premium Residential flooring",
+        "button_label": "Get Free Consultation",
+        "button_url": "\/pages\/fast-free-quotes",
         "title": "Request a Free Consultation",
         "heading_size": "h1",
-        "image": "shopify:\/\/shop_images\/Residential-Flooring-BG-Image.webp",
+        "image": "shopify:\/\/shop_images\/Residential-Flooring-BG-Image_ad09e122-0897-429d-90b5-d1d63d182e7f.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "color_scheme": "",
@@ -667,7 +671,7 @@
   },
   "order": [
     "main",
-    "1c37d375-3921-4d80-83c3-246e4891a807",
+    "38c903d7-5540-43c5-9771-287da7803c6c",
     "7c7699fb-020b-4df9-9abc-a2dfa8fb11e1",
     "7015f2e6-09a2-46cf-8ff5-638956b4ffe9",
     "ae9a06aa-ca5d-41cb-9ef5-f65118eaa8cc",
