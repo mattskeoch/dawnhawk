@@ -29,7 +29,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Request a Quote",
-            "button_link_1": "shopify:\/\/pages\/free-consultation",
+            "button_link_1": "shopify:\/\/pages\/fast-free-quotes",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -124,7 +124,7 @@
             "title": "Commercial Flooring",
             "text": "<p>Whether you need a high-functioning safety floor or a simple seal or colour, we’ll work with you to find the best flooring option for your business needs. All options can be customized to meet needs such as high-traffic, impact, static-free, waterproofing, and demarcation.<\/p>",
             "link_label": "Read More",
-            "link": "shopify:\/\/pages\/free-consultation"
+            "link": "shopify:\/\/pages\/fast-free-quotes"
           }
         },
         "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-2": {
@@ -134,7 +134,7 @@
             "title": "Resort Flooring",
             "text": "<p>Resorts need flooring with both high levels of safety and design. We offer the look of high-end expensive <em>flooring <\/em>without breaking the bank in in various colours, textures and materials.<\/p>",
             "link_label": "Read More",
-            "link": "shopify:\/\/pages\/free-consultation"
+            "link": "shopify:\/\/pages\/fast-free-quotes"
           }
         },
         "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-3": {
@@ -144,7 +144,7 @@
             "title": "Residential Flooring",
             "text": "<p>We provide an extensive range of products which are top-quality designed for high traffic in the home. Our collections are assured to enhance any home interior from the kitchen to the bathroom.<\/p>",
             "link_label": "Read More",
-            "link": "shopify:\/\/pages\/free-consultation"
+            "link": "shopify:\/\/pages\/fast-free-quotes"
           }
         },
         "073f6e1a-4469-42cd-8c2c-e292cfcc6f8e": {
@@ -154,7 +154,7 @@
             "title": "Industrial Flooring",
             "text": "<p>The industrial sectors often need extreme durability solutions. Both of our ERFLA and Silikal systems are designed to withstand industrial or mining environments, as well as forklift, truck traffic and high foot traffic areas.<\/p>",
             "link_label": "Read More",
-            "link": "shopify:\/\/pages\/free-consultation"
+            "link": "shopify:\/\/pages\/fast-free-quotes"
           }
         },
         "378175a5-e70a-4153-8236-6b78afbcc9bc": {
@@ -164,7 +164,7 @@
             "title": "Institutional Flooring",
             "text": "<p>This type of floor demands the toughest of systems able to counter any abuse, that are also environmentally friendly. With 1 hour of curing our institutional poured floors require little downtime.<\/p>",
             "link_label": "Read More",
-            "link": "shopify:\/\/pages\/free-consultation"
+            "link": "shopify:\/\/pages\/fast-free-quotes"
           }
         },
         "904a0cb5-eb6c-4974-9261-b120d8b36ef8": {
@@ -174,7 +174,7 @@
             "title": "Medical Flooring",
             "text": "<p>When it comes to medical facilities, hygiene is critical. Minimising downtime both during flooring installation and during cleaning and maintenance needs to be a top priority, giving you more time on what’s important.<\/p>",
             "link_label": "Read More",
-            "link": "shopify:\/\/pages\/free-consultation"
+            "link": "shopify:\/\/pages\/fast-free-quotes"
           }
         },
         "8a1d5709-4e04-47bb-9aba-23c776ee7866": {
@@ -184,7 +184,7 @@
             "title": "High Rise Flooring",
             "text": "<p>State-of-the-art flooring solutions are required to meet the demands of modern high-rise residential developments. We offer custom solutions from sound absorption to easy maintenance to the newest design trends.<\/p>",
             "link_label": "Read More",
-            "link": "shopify:\/\/pages\/free-consultation"
+            "link": "shopify:\/\/pages\/fast-free-quotes"
           }
         },
         "24d5f85e-f35a-416f-9199-04ceb332d018": {
@@ -194,7 +194,7 @@
             "title": "Hygiene Flooring",
             "text": "<p>When it comes to hygiene-critical environments, downtime is costly. Minimising downtime both during flooring installation and during cleaning and maintenance needs to be a top priority.<\/p>",
             "link_label": "Read More",
-            "link": "shopify:\/\/pages\/free-consultation"
+            "link": "shopify:\/\/pages\/fast-free-quotes"
           }
         },
         "db0f5096-64a0-4967-bf16-27bf4e110146": {
@@ -204,7 +204,7 @@
             "title": "Garage Flooring",
             "text": "<p>Protecting the garage floor is often an afterthought, usually when the concrete is already stained and damaged. Investing in a permanent solution is going to save you money as well as provide a nice-looking and easy to maintain surface.<\/p>",
             "link_label": "Read More",
-            "link": "shopify:\/\/pages\/free-consultation"
+            "link": "shopify:\/\/pages\/fast-free-quotes"
           }
         },
         "aa7066d1-18c6-403a-bf32-d949b6bfee54": {
@@ -214,7 +214,7 @@
             "title": "Marine Flooring",
             "text": "<p>We offer seamless, easy to install, slip-resistant, flame retardant, durable, high performing floors (both interior and exterior). Perfect for sailboats, pontoons, powerboats, patios and more.<\/p>",
             "link_label": "Read More",
-            "link": "shopify:\/\/pages\/free-consultation"
+            "link": "shopify:\/\/pages\/fast-free-quotes"
           }
         },
         "2f420373-23e1-4034-ba2e-c0269074201c": {
@@ -224,7 +224,7 @@
             "title": "Pool Concourse Flooring",
             "text": "<p>Walkways, amenities and pool concourse floors are generally wet at various points throughout the day, creating potential slip and trip possibilities. Applicable for aquatic and recreation centres.<\/p>",
             "link_label": "Read More",
-            "link": "shopify:\/\/pages\/free-consultation"
+            "link": "shopify:\/\/pages\/fast-free-quotes"
           }
         },
         "a047ddf1-9538-4112-81bd-7b625bdada86": {
@@ -234,7 +234,7 @@
             "title": "Utility Flooring",
             "text": "<p>Our floors are incredibly durable and tough enough to withstand the demands of a utility room, whilst still looking stylish. For peace of mind, all our <em>floors<\/em>are waterproof and slip resistant.<\/p>",
             "link_label": "Read More",
-            "link": "shopify:\/\/pages\/free-consultation"
+            "link": "shopify:\/\/pages\/fast-free-quotes"
           }
         }
       },
