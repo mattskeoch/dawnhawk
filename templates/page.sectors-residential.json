@@ -73,6 +73,62 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
+        "padding_bottom": 8
+      }
+    },
+    "ae9a06aa-ca5d-41cb-9ef5-f65118eaa8cc": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21007367962898__ae9a06aa-ca5d-41cb-9ef5-f65118eaa8cc-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Commercial-Kitchen-Flooring-1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21007367962898__ae9a06aa-ca5d-41cb-9ef5-f65118eaa8cc-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Commercial-Kitchen-Flooring-2.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21007367962898__ae9a06aa-ca5d-41cb-9ef5-f65118eaa8cc-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Silikal_1-600x400-600x403.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21007367962898__ae9a06aa-ca5d-41cb-9ef5-f65118eaa8cc-column-1",
+        "template--21007367962898__ae9a06aa-ca5d-41cb-9ef5-f65118eaa8cc-column-2",
+        "template--21007367962898__ae9a06aa-ca5d-41cb-9ef5-f65118eaa8cc-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
         "padding_bottom": 36
       }
     },
@@ -542,6 +598,7 @@
     "1c37d375-3921-4d80-83c3-246e4891a807",
     "7c7699fb-020b-4df9-9abc-a2dfa8fb11e1",
     "7015f2e6-09a2-46cf-8ff5-638956b4ffe9",
+    "ae9a06aa-ca5d-41cb-9ef5-f65118eaa8cc",
     "aac9d57b-556f-4275-9747-1b0a005b63eb",
     "603ac2a9-1d34-4ae0-bd6c-99281d6efe98",
     "5c211651-cb8c-4055-8b56-3ac68f28d5c9",
