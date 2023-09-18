@@ -63,6 +63,12 @@
       display: none;
     }
   }
+
+    .text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
 {%- endstyle -%}
 
 {%- liquid
@@ -148,12 +154,13 @@
     </div>
   {%- endif -%}
 <div class="banner__row page-width{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
-
+<div class="text-container" style="align-items: flex-start;">
   <div class="banner__column banner__column-content">
     <h2>{{ section.settings.header_text }}</h2>
     <p>{{ section.settings.paragraph_text }}</p>
     <a href="{{ section.settings.button_url }}" class="btn">{{ section.settings.button_label }}</a>
   </div>
+    </div>
    <!-- Column 2 -->
     <div class="banner__column banner__column-hide-on-mobile">
       <div class="banner__content banner__content--middle-right">
