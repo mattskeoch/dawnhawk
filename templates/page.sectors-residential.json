@@ -132,27 +132,64 @@
         "padding_bottom": 36
       }
     },
-    "c68c5233-331c-4a0f-ab89-cc8c4dcb28db": {
+    "3f4a4c1c-b114-4f8b-bded-62158e3ff021": {
       "type": "rich-text",
       "blocks": {
-        "c527ade9-87ec-465d-832c-2cd3e9faf049": {
+        "template--21007367962898__3f4a4c1c-b114-4f8b-bded-62158e3ff021-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<a href=\"\/pages\/fast-free-quotes\" title=\"Fast Free Quotes\">Contact us<\/a> today for your customised solution for your flooring needs.",
-            "heading_size": "h2"
+            "heading": "Benefits Of Residential Flooring",
+            "heading_size": "h1"
+          }
+        },
+        "template--21007367962898__3f4a4c1c-b114-4f8b-bded-62158e3ff021-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Don’t spend more time than you need to when cleaning, sanitising, replacing and repairing your floors. Hawk CFC residential floors allow you to be more comfortable in your own home.<\/p><p>Residential flooring is best done by a professional application team who can handle the surface preparation, and install a resin floor that will meet your safety and hygiene requirements, saving you time and money every day.<\/p><p>For more information and pricing contact Hawk Concrete Floor Coatings.<\/p>"
           }
         }
       },
       "block_order": [
-        "c527ade9-87ec-465d-832c-2cd3e9faf049"
+        "template--21007367962898__3f4a4c1c-b114-4f8b-bded-62158e3ff021-heading-1",
+        "template--21007367962898__3f4a4c1c-b114-4f8b-bded-62158e3ff021-text-1"
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 16
+      }
+    },
+    "098cb74d-0bbf-4c61-b89c-6990f608beb1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21007367962898__098cb74d-0bbf-4c61-b89c-6990f608beb1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Recent Projects",
+            "heading_size": "h1"
+          }
+        },
+        "template--21007367962898__098cb74d-0bbf-4c61-b89c-6990f608beb1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Rendezvous Hotel – Scarborough<\/li><li>The Shorehouse – Swanbourne<\/li><li>Jaylea’s Patisserie – Willagee<\/li><li>Mrs Macs – Morley<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21007367962898__098cb74d-0bbf-4c61-b89c-6990f608beb1-heading-1",
+        "template--21007367962898__098cb74d-0bbf-4c61-b89c-6990f608beb1-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 36
       }
     },
     "aac9d57b-556f-4275-9747-1b0a005b63eb": {
@@ -622,7 +659,8 @@
     "7c7699fb-020b-4df9-9abc-a2dfa8fb11e1",
     "7015f2e6-09a2-46cf-8ff5-638956b4ffe9",
     "ae9a06aa-ca5d-41cb-9ef5-f65118eaa8cc",
-    "c68c5233-331c-4a0f-ab89-cc8c4dcb28db",
+    "3f4a4c1c-b114-4f8b-bded-62158e3ff021",
+    "098cb74d-0bbf-4c61-b89c-6990f608beb1",
     "aac9d57b-556f-4275-9747-1b0a005b63eb",
     "603ac2a9-1d34-4ae0-bd6c-99281d6efe98",
     "5c211651-cb8c-4055-8b56-3ac68f28d5c9",
