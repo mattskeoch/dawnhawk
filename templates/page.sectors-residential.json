@@ -255,10 +255,10 @@
       ],
       "settings": {
         "title": "Things to Consider When Requesting a Quote for Residential Flooring",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
