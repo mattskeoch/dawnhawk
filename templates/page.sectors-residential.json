@@ -18,7 +18,7 @@
         "title": "Request a Free Consultation",
         "heading_size": "h1",
         "image": "shopify:\/\/shop_images\/Residential-Flooring-BG-Image_ad09e122-0897-429d-90b5-d1d63d182e7f.webp",
-        "image_overlay_opacity": 70,
+        "image_overlay_opacity": 0,
         "image_height": "adapt",
         "color_scheme": "",
         "image_behavior": "fixed",
