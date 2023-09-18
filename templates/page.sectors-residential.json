@@ -117,19 +117,42 @@
       ],
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
+        "button_label": "Contact Us",
+        "button_link": "shopify:\/\/pages\/fast-free-quotes",
+        "color_scheme": "scheme-230551f2-028b-49d5-a7bf-2e8ee2bd12be",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 8,
         "padding_bottom": 36
+      }
+    },
+    "c68c5233-331c-4a0f-ab89-cc8c4dcb28db": {
+      "type": "rich-text",
+      "blocks": {
+        "c527ade9-87ec-465d-832c-2cd3e9faf049": {
+          "type": "heading",
+          "settings": {
+            "heading": "<a href=\"\/pages\/fast-free-quotes\" title=\"Fast Free Quotes\">Contact us<\/a> today for your customised solution for your flooring needs.",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "c527ade9-87ec-465d-832c-2cd3e9faf049"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "aac9d57b-556f-4275-9747-1b0a005b63eb": {
@@ -599,6 +622,7 @@
     "7c7699fb-020b-4df9-9abc-a2dfa8fb11e1",
     "7015f2e6-09a2-46cf-8ff5-638956b4ffe9",
     "ae9a06aa-ca5d-41cb-9ef5-f65118eaa8cc",
+    "c68c5233-331c-4a0f-ab89-cc8c4dcb28db",
     "aac9d57b-556f-4275-9747-1b0a005b63eb",
     "603ac2a9-1d34-4ae0-bd6c-99281d6efe98",
     "5c211651-cb8c-4055-8b56-3ac68f28d5c9",
