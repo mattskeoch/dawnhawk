@@ -270,158 +270,92 @@
         "padding_bottom": 36
       }
     },
-    "aac9d57b-556f-4275-9747-1b0a005b63eb": {
+    "6d666fe6-565a-44d8-af1a-b25789c4206e": {
       "type": "multicolumn",
       "blocks": {
-        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-1": {
+        "template--21007367962898__6d666fe6-565a-44d8-af1a-b25789c4206e-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Commercial-Floor-Coatings-Feature-Images-400x267.webp",
-            "title": "Commercial Flooring",
-            "text": "<p>Whether you need a high-functioning safety floor or a simple seal or colour, we’ll work with you to find the best flooring option for your business needs. All options can be customized to meet needs such as high-traffic, impact, static-free, waterproofing, and demarcation.<\/p>",
-            "link_label": "Read More",
-            "link": "shopify:\/\/pages\/fast-free-quotes"
+            "image": "shopify:\/\/shop_images\/Garage-Flooring-X-Stone_2.webp",
+            "title": "ERFLA X-Stone",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-2": {
+        "template--21007367962898__6d666fe6-565a-44d8-af1a-b25789c4206e-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Resort-Flooring-Feature-Image-400x267.webp",
-            "title": "Resort Flooring",
-            "text": "<p>Resorts need flooring with both high levels of safety and design. We offer the look of high-end expensive <em>flooring <\/em>without breaking the bank in in various colours, textures and materials.<\/p>",
-            "link_label": "Read More",
-            "link": "shopify:\/\/pages\/fast-free-quotes"
+            "image": "shopify:\/\/shop_images\/Garage-Floors-Insitu-Spaces.webp",
+            "title": "<a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/designer-floors\/erfla-insitu-spaces-perth\/\">ERFLA Insitu Spaces – Original<\/a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-3": {
+        "template--21007367962898__6d666fe6-565a-44d8-af1a-b25789c4206e-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Residential-Flooring-Feature-Image-400x267.webp",
-            "title": "Residential Flooring",
-            "text": "<p>We provide an extensive range of products which are top-quality designed for high traffic in the home. Our collections are assured to enhance any home interior from the kitchen to the bathroom.<\/p>",
-            "link_label": "Read More",
-            "link": "shopify:\/\/pages\/fast-free-quotes"
+            "image": "shopify:\/\/shop_images\/Flex-Plate.webp",
+            "title": "<a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/designer-floors\/flex-plate-perth\/\">Flex-Plate<\/a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "073f6e1a-4469-42cd-8c2c-e292cfcc6f8e": {
+        "e322500c-a604-4c58-bc6e-427ef0806df5": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Industrial-Flooring-Feature-Image-400x267.webp",
-            "title": "Industrial Flooring",
-            "text": "<p>The industrial sectors often need extreme durability solutions. Both of our ERFLA and Silikal systems are designed to withstand industrial or mining environments, as well as forklift, truck traffic and high foot traffic areas.<\/p>",
-            "link_label": "Read More",
-            "link": "shopify:\/\/pages\/fast-free-quotes"
+            "image": "shopify:\/\/shop_images\/Garage-Coatings_3.webp",
+            "title": "<a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/designer-floors\/erfla-concrete-enhancer-perth\/\">ERFLA Concrete Enhancer<\/a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "378175a5-e70a-4153-8236-6b78afbcc9bc": {
+        "1cf876f7-b4c8-40aa-97b0-90d0e524b52d": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Institutional-Flooring-Feature-Image-400x267.webp",
-            "title": "Institutional Flooring",
-            "text": "<p>This type of floor demands the toughest of systems able to counter any abuse, that are also environmentally friendly. With 1 hour of curing our institutional poured floors require little downtime.<\/p>",
-            "link_label": "Read More",
-            "link": "shopify:\/\/pages\/fast-free-quotes"
+            "image": "shopify:\/\/shop_images\/ERFLA-Insitu-Spaces-Marble.webp",
+            "title": "<a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/designer-floors\/erfla-concrete-enhancer-perth\/\">ERFLA Concrete Enhancer<\/a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "904a0cb5-eb6c-4974-9261-b120d8b36ef8": {
+        "abe58d0f-5838-4b5f-ac50-93a42a2c7475": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Medical-Flooring-Feature-Image-400x267.webp",
-            "title": "Medical Flooring",
-            "text": "<p>When it comes to medical facilities, hygiene is critical. Minimising downtime both during flooring installation and during cleaning and maintenance needs to be a top priority, giving you more time on what’s important.<\/p>",
-            "link_label": "Read More",
-            "link": "shopify:\/\/pages\/fast-free-quotes"
-          }
-        },
-        "8a1d5709-4e04-47bb-9aba-23c776ee7866": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/High-Rise-Flooring-Feature-Image-400x267.webp",
-            "title": "High Rise Flooring",
-            "text": "<p>State-of-the-art flooring solutions are required to meet the demands of modern high-rise residential developments. We offer custom solutions from sound absorption to easy maintenance to the newest design trends.<\/p>",
-            "link_label": "Read More",
-            "link": "shopify:\/\/pages\/fast-free-quotes"
-          }
-        },
-        "24d5f85e-f35a-416f-9199-04ceb332d018": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Hygiene-Flooring-Feature-Image-400x267.webp",
-            "title": "Hygiene Flooring",
-            "text": "<p>When it comes to hygiene-critical environments, downtime is costly. Minimising downtime both during flooring installation and during cleaning and maintenance needs to be a top priority.<\/p>",
-            "link_label": "Read More",
-            "link": "shopify:\/\/pages\/fast-free-quotes"
-          }
-        },
-        "db0f5096-64a0-4967-bf16-27bf4e110146": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Garage-Floor-Coating-Feature-Image-400x267.webp",
-            "title": "Garage Flooring",
-            "text": "<p>Protecting the garage floor is often an afterthought, usually when the concrete is already stained and damaged. Investing in a permanent solution is going to save you money as well as provide a nice-looking and easy to maintain surface.<\/p>",
-            "link_label": "Read More",
-            "link": "shopify:\/\/pages\/fast-free-quotes"
-          }
-        },
-        "aa7066d1-18c6-403a-bf32-d949b6bfee54": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marine-Flooring-Feature-Image-400x267.webp",
-            "title": "Marine Flooring",
-            "text": "<p>We offer seamless, easy to install, slip-resistant, flame retardant, durable, high performing floors (both interior and exterior). Perfect for sailboats, pontoons, powerboats, patios and more.<\/p>",
-            "link_label": "Read More",
-            "link": "shopify:\/\/pages\/fast-free-quotes"
-          }
-        },
-        "2f420373-23e1-4034-ba2e-c0269074201c": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Pool-Concourse-Flooring-Feature-Image-400x267.webp",
-            "title": "Pool Concourse Flooring",
-            "text": "<p>Walkways, amenities and pool concourse floors are generally wet at various points throughout the day, creating potential slip and trip possibilities. Applicable for aquatic and recreation centres.<\/p>",
-            "link_label": "Read More",
-            "link": "shopify:\/\/pages\/fast-free-quotes"
-          }
-        },
-        "a047ddf1-9538-4112-81bd-7b625bdada86": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Utility-Flooring-Feature-Image-400x267.webp",
-            "title": "Utility Flooring",
-            "text": "<p>Our floors are incredibly durable and tough enough to withstand the demands of a utility room, whilst still looking stylish. For peace of mind, all our <em>floors<\/em>are waterproof and slip resistant.<\/p>",
-            "link_label": "Read More",
-            "link": "shopify:\/\/pages\/fast-free-quotes"
+            "image": "shopify:\/\/shop_images\/ERFLA-X-Canvas.webp",
+            "title": "<a href=\"https:\/\/www.hawkconcretefloorcoatings.com.au\/designer-floors\/erfla-x-canvas-perth\/\">ERFLA X-Canvas<\/a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-1",
-        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-2",
-        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-3",
-        "073f6e1a-4469-42cd-8c2c-e292cfcc6f8e",
-        "378175a5-e70a-4153-8236-6b78afbcc9bc",
-        "904a0cb5-eb6c-4974-9261-b120d8b36ef8",
-        "8a1d5709-4e04-47bb-9aba-23c776ee7866",
-        "24d5f85e-f35a-416f-9199-04ceb332d018",
-        "db0f5096-64a0-4967-bf16-27bf4e110146",
-        "aa7066d1-18c6-403a-bf32-d949b6bfee54",
-        "2f420373-23e1-4034-ba2e-c0269074201c",
-        "a047ddf1-9538-4112-81bd-7b625bdada86"
+        "template--21007367962898__6d666fe6-565a-44d8-af1a-b25789c4206e-column-1",
+        "template--21007367962898__6d666fe6-565a-44d8-af1a-b25789c4206e-column-2",
+        "template--21007367962898__6d666fe6-565a-44d8-af1a-b25789c4206e-column-3",
+        "e322500c-a604-4c58-bc6e-427ef0806df5",
+        "1cf876f7-b4c8-40aa-97b0-90d0e524b52d",
+        "abe58d0f-5838-4b5f-ac50-93a42a2c7475"
       ],
       "settings": {
-        "title": "",
+        "title": "See below our most popular options for Residential Flooring. There are a variety of designer and mono-colour options available.",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
+        "column_alignment": "center",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "background-2",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
+        "swipe_on_mobile": true,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -740,7 +674,7 @@
     "3f4a4c1c-b114-4f8b-bded-62158e3ff021",
     "098cb74d-0bbf-4c61-b89c-6990f608beb1",
     "4d7e9a1c-07ff-4cd9-8be3-143ac7feebdd",
-    "aac9d57b-556f-4275-9747-1b0a005b63eb",
+    "6d666fe6-565a-44d8-af1a-b25789c4206e",
     "603ac2a9-1d34-4ae0-bd6c-99281d6efe98",
     "5c211651-cb8c-4055-8b56-3ac68f28d5c9",
     "6eba8359-9786-4545-a9b2-2f1415807853",
