@@ -149,11 +149,11 @@
   {%- endif -%}
 <div class="banner__row page-width{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
 
-      <div class="banner__column banner__column-content">
-      <h2>Your Header Text Here</h2>
-      <p>Your paragraph text here.</p>
-      <a href="#" class="btn">Your Button</a>
-    </div>
+  <div class="banner__column banner__column-content">
+    <h2>{{ section.settings.header_text }}</h2>
+    <p>{{ section.settings.paragraph_text }}</p>
+    <a href="{{ section.settings.button_url }}" class="btn">{{ section.settings.button_label }}</a>
+  </div>
    <!-- Column 2 -->
     <div class="banner__column banner__column-hide-on-mobile">
       <div class="banner__content banner__content--middle-right">
@@ -188,6 +188,30 @@
     "groups": ["header", "footer"]
   },
   "settings": [
+      {
+      "type": "text",
+      "id": "header_text",
+      "label": "Header Text",
+      "default": "Your Header Text Here"
+    },
+    {
+      "type": "textarea",
+      "id": "paragraph_text",
+      "label": "Paragraph Text",
+      "default": "Your paragraph text here."
+    },
+    {
+      "type": "text",
+      "id": "button_label",
+      "label": "Button Label",
+      "default": "Click Me"
+    },
+    {
+      "type": "text",
+      "id": "button_url",
+      "label": "Button URL",
+      "default": "#"
+    },
      {
       "type": "text",
       "id": "title",
