@@ -1,0 +1,590 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "4cc484d5-3b91-48a4-a287-187553478ac5": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20699269005586__0e6bb532-f326-4a0d-afe8-270971669755-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Flooring Solutions That last",
+            "heading_size": "h1"
+          }
+        },
+        "template--20699269005586__0e6bb532-f326-4a0d-afe8-270971669755-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "We customise all of our flooring solutions to match your specific industry for a long-lasting product. We believe in treating each business as unique, with its own set of requirements, therefore there is no ‘one-size-fits-all’ option when it comes to your flooring",
+            "text_style": "body"
+          }
+        },
+        "8732380a-91f5-4c4c-9094-3973cb6a9a88": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Request a Quote",
+            "button_link_1": "shopify:\/\/pages\/free-consultation",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20699269005586__0e6bb532-f326-4a0d-afe8-270971669755-heading-1",
+        "template--20699269005586__0e6bb532-f326-4a0d-afe8-270971669755-text-1",
+        "8732380a-91f5-4c4c-9094-3973cb6a9a88"
+      ],
+      "custom_css": [
+        ".banner__box {opacity: 85%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Slider-3.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "7c7699fb-020b-4df9-9abc-a2dfa8fb11e1": {
+      "type": "logo-slider",
+      "settings": {
+        "title": "Our Trusted Clients",
+        "heading_size": "h1",
+        "first-image": "shopify:\/\/shop_images\/ECU-Logo.png",
+        "second-image": "shopify:\/\/shop_images\/Bridgestone-Logo.png",
+        "third-image": "shopify:\/\/shop_images\/Crown-Resorts-Logo.png",
+        "fourth-image": "shopify:\/\/shop_images\/WA-Police-Logo.png",
+        "fifth-image": "shopify:\/\/shop_images\/General-Electric-Logo.png",
+        "sixth-image": "shopify:\/\/shop_images\/Quaker-Logo.png",
+        "seventh-image": "shopify:\/\/shop_images\/BHP-Billiton-Logo.png",
+        "eighth-image": "shopify:\/\/shop_images\/Murduch-Logo.png",
+        "ninth-image": "shopify:\/\/shop_images\/PetBarn-Logo.png",
+        "tenth-image": "shopify:\/\/shop_images\/PepsiCo-Logo.png",
+        "eleventh-image": "shopify:\/\/shop_images\/Pindan-Logo.png",
+        "twelvth-image": "shopify:\/\/shop_images\/ASC-Logo.png",
+        "thirteenth-image": "shopify:\/\/shop_images\/Dawn-Express-Logo.png",
+        "fourteenth-image": "shopify:\/\/shop_images\/Jax-Tyres.png",
+        "fifteenth-image": "shopify:\/\/shop_images\/Broad-Logo.png",
+        "sixteenth-image": "shopify:\/\/shop_images\/Bunbury-Bearings-Logo.png",
+        "padding_top": 56,
+        "padding_bottom": 56
+      }
+    },
+    "7015f2e6-09a2-46cf-8ff5-638956b4ffe9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20805449515282__7015f2e6-09a2-46cf-8ff5-638956b4ffe9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sectors Hawk CFC Services",
+            "heading_size": "h1"
+          }
+        },
+        "template--20805449515282__7015f2e6-09a2-46cf-8ff5-638956b4ffe9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>HAWK CFC supplies specialised flooring solutions to a multitude of sectors across Perth and throughout Western Australia.<\/strong><\/p><p>When it comes to providing high quality flooring options, fast, HAWK CFC is the right choice. As market leaders in the resin flooring industry, you can count on us to install your flooring according to your specified needs. We customise all of our resin to suit you and your specified industry. Select a sector below to read more about flooring suited to your life.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20805449515282__7015f2e6-09a2-46cf-8ff5-638956b4ffe9-heading-1",
+        "template--20805449515282__7015f2e6-09a2-46cf-8ff5-638956b4ffe9-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 36
+      }
+    },
+    "aac9d57b-556f-4275-9747-1b0a005b63eb": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Commercial-Floor-Coatings-Feature-Images-400x267.webp",
+            "title": "Commercial Flooring",
+            "text": "<p>Whether you need a high-functioning safety floor or a simple seal or colour, we’ll work with you to find the best flooring option for your business needs. All options can be customized to meet needs such as high-traffic, impact, static-free, waterproofing, and demarcation.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Resort-Flooring-Feature-Image-400x267.webp",
+            "title": "Resort Flooring",
+            "text": "<p>Resorts need flooring with both high levels of safety and design. We offer the look of high-end expensive <em>flooring <\/em>without breaking the bank in in various colours, textures and materials.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Residential-Flooring-Feature-Image-400x267.webp",
+            "title": "Residential Flooring",
+            "text": "<p>We provide an extensive range of products which are top-quality designed for high traffic in the home. Our collections are assured to enhance any home interior from the kitchen to the bathroom.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "073f6e1a-4469-42cd-8c2c-e292cfcc6f8e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Industrial-Flooring-Feature-Image-400x267.webp",
+            "title": "Industrial Flooring",
+            "text": "<p>The industrial sectors often need extreme durability solutions. Both of our ERFLA and Silikal systems are designed to withstand industrial or mining environments, as well as forklift, truck traffic and high foot traffic areas.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "378175a5-e70a-4153-8236-6b78afbcc9bc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Institutional-Flooring-Feature-Image-400x267.webp",
+            "title": "Institutional Flooring",
+            "text": "<p>This type of floor demands the toughest of systems able to counter any abuse, that are also environmentally friendly. With 1 hour of curing our institutional poured floors require little downtime.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "904a0cb5-eb6c-4974-9261-b120d8b36ef8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Medical-Flooring-Feature-Image-400x267.webp",
+            "title": "Medical Flooring",
+            "text": "<p>When it comes to medical facilities, hygiene is critical. Minimising downtime both during flooring installation and during cleaning and maintenance needs to be a top priority, giving you more time on what’s important.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "8a1d5709-4e04-47bb-9aba-23c776ee7866": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/High-Rise-Flooring-Feature-Image-400x267.webp",
+            "title": "High Rise Flooring",
+            "text": "<p>State-of-the-art flooring solutions are required to meet the demands of modern high-rise residential developments. We offer custom solutions from sound absorption to easy maintenance to the newest design trends.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "24d5f85e-f35a-416f-9199-04ceb332d018": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hygiene-Flooring-Feature-Image-400x267.webp",
+            "title": "Hygiene Flooring",
+            "text": "<p>When it comes to hygiene-critical environments, downtime is costly. Minimising downtime both during flooring installation and during cleaning and maintenance needs to be a top priority.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "db0f5096-64a0-4967-bf16-27bf4e110146": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Garage-Floor-Coating-Feature-Image-400x267.webp",
+            "title": "Garage Flooring",
+            "text": "<p>Protecting the garage floor is often an afterthought, usually when the concrete is already stained and damaged. Investing in a permanent solution is going to save you money as well as provide a nice-looking and easy to maintain surface.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "aa7066d1-18c6-403a-bf32-d949b6bfee54": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marine-Flooring-Feature-Image-400x267.webp",
+            "title": "Marine Flooring",
+            "text": "<p>We offer seamless, easy to install, slip-resistant, flame retardant, durable, high performing floors (both interior and exterior). Perfect for sailboats, pontoons, powerboats, patios and more.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "2f420373-23e1-4034-ba2e-c0269074201c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pool-Concourse-Flooring-Feature-Image-400x267.webp",
+            "title": "Pool Concourse Flooring",
+            "text": "<p>Walkways, amenities and pool concourse floors are generally wet at various points throughout the day, creating potential slip and trip possibilities. Applicable for aquatic and recreation centres.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        },
+        "a047ddf1-9538-4112-81bd-7b625bdada86": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Utility-Flooring-Feature-Image-400x267.webp",
+            "title": "Utility Flooring",
+            "text": "<p>Our floors are incredibly durable and tough enough to withstand the demands of a utility room, whilst still looking stylish. For peace of mind, all our <em>floors<\/em>are waterproof and slip resistant.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/free-consultation"
+          }
+        }
+      },
+      "block_order": [
+        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-1",
+        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-2",
+        "template--20805449515282__aac9d57b-556f-4275-9747-1b0a005b63eb-column-3",
+        "073f6e1a-4469-42cd-8c2c-e292cfcc6f8e",
+        "378175a5-e70a-4153-8236-6b78afbcc9bc",
+        "904a0cb5-eb6c-4974-9261-b120d8b36ef8",
+        "8a1d5709-4e04-47bb-9aba-23c776ee7866",
+        "24d5f85e-f35a-416f-9199-04ceb332d018",
+        "db0f5096-64a0-4967-bf16-27bf4e110146",
+        "aa7066d1-18c6-403a-bf32-d949b6bfee54",
+        "2f420373-23e1-4034-ba2e-c0269074201c",
+        "a047ddf1-9538-4112-81bd-7b625bdada86"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "603ac2a9-1d34-4ae0-bd6c-99281d6efe98": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WA-Icon.png",
+            "title": "West Australian Owned and Operated",
+            "text": "<p>Proudly Western Australian since 2014.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Guarantee-Icon.png",
+            "title": "Guarantee",
+            "text": "<p>Ask us about our Delamination Warranty that covers both Materials used and Workmanship.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Custom-Resins-Icon.png",
+            "title": "Custom Resins",
+            "text": "<p>Our Western Australian plant allows us to produce specific resins for our clients.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "cb0d43f8-ab57-4c74-b635-81e26e3986bf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Industries-Icon.png",
+            "title": "Many Industries",
+            "text": "<p>We work with commercial sectors, the food industry, pharmaceutical, healthcare, mechanical and equipment workshops, etc.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0ad52fbc-adc9-4cbc-a70a-4c90129286cf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nonslip-Icon.png",
+            "title": "Non Slip",
+            "text": "<p>We tailor-make your floor to achieve the desired cleanability and slip resistance rating.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "72405bb1-6170-4765-99b0-f6656debb757": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Safety-First-Icon.png",
+            "title": "Safety First",
+            "text": "<p>Safety is at the core of our business values. Ask us how we can keep your team safe.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "781c40cf-5d88-45fa-9a2f-eaabf360892b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/From-Manufacturing-To-Installation-Icon.png",
+            "title": "From Manufacturing to Installation",
+            "text": "<p>We are the only West Australian installation company with its own local <br\/>manufacturing plant. We can handle the entire process from production to<br\/> installation to save you money.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "beddf14d-1a2e-4520-a442-0044e012277e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Flooring-For-LIFE-Icon.png",
+            "title": "Flooring for Life",
+            "text": "<p>In 2014, we proposed to transform the food industry by removing the <br\/>“grout & seams”. Specialising in HACCP Accredited Silikal© GmbH <br\/>Reactive Resins, we are passionate about providing our customers with <br\/>seamless, easy-to-use non-slip surfaces.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-1",
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-2",
+        "template--20175700066578__eb88620e-6a35-4314-8430-881e04930108-column-3",
+        "cb0d43f8-ab57-4c74-b635-81e26e3986bf",
+        "0ad52fbc-adc9-4cbc-a70a-4c90129286cf",
+        "72405bb1-6170-4765-99b0-f6656debb757",
+        "781c40cf-5d88-45fa-9a2f-eaabf360892b",
+        "beddf14d-1a2e-4520-a442-0044e012277e"
+      ],
+      "settings": {
+        "title": "Why Choose Us",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "5c211651-cb8c-4055-8b56-3ac68f28d5c9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RRTS-Logo-400x220.png",
+            "title": "RRTS – Rapid Return To Service Flooring",
+            "text": "<p>We specialise in minimising your downtime. We have heavy equipment to prep fast and rapid cure resins which often allow for an immediate cure.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Silikal-Logo-400x220.png",
+            "title": "Comprehensive Solutions Through Distributorships",
+            "text": "<p>We are the West Australian distributor for Silikal GmbH and Alluvius, as well as many accreditations for alternate suppliers.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ERFLA-Quartzite-Flooring-Diagram-Logo-400x220.png",
+            "title": "Multi-Layered Specialty Systems",
+            "text": "<p>Allow us to specify a system that takes into account your unique environment and goals.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "511e5f7b-34eb-4f5e-8f89-8c0bc79c6079": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FLEX-Plate-Logo-400x220.png",
+            "title": "Flex-Plate",
+            "text": "<p>Flex-Plate is found exclusivity at Hawk CFC.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7ee4a467-995b-4997-b6bf-e82682ed1555": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CM3-Certified-Logo-400x220.png",
+            "title": "CM3",
+            "text": "<p>We’re happy to show our health and safety capabilities.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1a93f3d6-3ae7-4498-9982-68c88906bafe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Zero-VOC-Logo-400x220.png",
+            "title": "Zero VOC Flooring",
+            "text": "<p>We offer beautiful, non-toxic, Eco-friendly floors.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-1",
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-2",
+        "template--20192202883346__113230c2-a907-479e-86a6-2ff4633d07bd-column-3",
+        "511e5f7b-34eb-4f5e-8f89-8c0bc79c6079",
+        "7ee4a467-995b-4997-b6bf-e82682ed1555",
+        "1a93f3d6-3ae7-4498-9982-68c88906bafe"
+      ],
+      "settings": {
+        "title": "Our Trusted Suppliers",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "6eba8359-9786-4545-a9b2-2f1415807853": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Certifications",
+            "heading_size": "h1"
+          }
+        },
+        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In food safety management, a fundamental approach to managing risk is implementing a HACCP system.<br\/>This acronym stands for Hazard Analysis and Critical Control Point.<\/p><p>The development of a HACCP plan must identify and manage the following types of hazards: Biological, Chemical, Physical, Allergens, Quality, and Regulatory.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-heading-1",
+        "template--20699269005586__3c202458-62b0-4350-9fa5-c6d2252ab868-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/haccp.png",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "76fe4ab7-6224-44ef-afba-92910655c87d": {
+      "type": "multicolumn-video",
+      "blocks": {
+        "template--20192202883346__92f005d4-f21e-4f14-834f-7c39de13635d-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hawk_Bird_Blue_6efb7c9e-609e-41c3-8f25-1340a1062977.png",
+            "section-html": "<iframe src=\"https:\/\/www.youtube.com\/embed\/cAs9qGLFYH4\" title=\"Stockland Shopping Centre Silikal Quartzite\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" loading=\"lazy\" width=\"100%\" height=\"282.25\" frameborder=\"0\"><\/iframe>"
+          }
+        },
+        "template--20192202883346__92f005d4-f21e-4f14-834f-7c39de13635d-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hawk_Bird_Blue_6efb7c9e-609e-41c3-8f25-1340a1062977.png",
+            "section-html": "<iframe src=\"https:\/\/www.youtube.com\/embed\/ERwEF57XuE0\" title=\"Epoxy Flooring Installed at Reaper Performance Diesel\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" loading=\"lazy\" width=\"100%\" height=\"282.25\" frameborder=\"0\"><\/iframe>"
+          }
+        },
+        "b9bdfdb9-d008-49f3-8715-caf6841369f3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hawk_Bird_Blue_6efb7c9e-609e-41c3-8f25-1340a1062977.png",
+            "section-html": "<iframe src=\"https:\/\/www.youtube.com\/embed\/JN12NjeLXsc\" title=\"Statewide Bearings Warehouse Flooring Installation\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" loading=\"lazy\" width=\"100%\" height=\"282.25\" frameborder=\"0\"><\/iframe>"
+          }
+        },
+        "90206d43-9d7a-422e-b479-99fd117fa9d6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hawk_Bird_Blue_6efb7c9e-609e-41c3-8f25-1340a1062977.png",
+            "section-html": "<iframe src=\"https:\/\/www.youtube.com\/embed\/U5HOCgRwexc\" title=\"Resin Floor - Instant Return to Service flooring solution at Wilson Parking in Perth\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" loading=\"lazy\" width=\"100%\" height=\"282.25\" frameborder=\"0\"><\/iframe>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20192202883346__92f005d4-f21e-4f14-834f-7c39de13635d-column-1",
+        "template--20192202883346__92f005d4-f21e-4f14-834f-7c39de13635d-column-2",
+        "b9bdfdb9-d008-49f3-8715-caf6841369f3",
+        "90206d43-9d7a-422e-b479-99fd117fa9d6"
+      ],
+      "settings": {
+        "title": "Our Work",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "1c37d375-3921-4d80-83c3-246e4891a807": {
+      "type": "form-background-image",
+      "settings": {
+        "title": "Request a Free Consultation",
+        "heading_size": "h1",
+        "image": "shopify:\/\/shop_images\/Slider-2_1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "stack_images_on_mobile": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4cc484d5-3b91-48a4-a287-187553478ac5",
+    "7c7699fb-020b-4df9-9abc-a2dfa8fb11e1",
+    "7015f2e6-09a2-46cf-8ff5-638956b4ffe9",
+    "aac9d57b-556f-4275-9747-1b0a005b63eb",
+    "603ac2a9-1d34-4ae0-bd6c-99281d6efe98",
+    "5c211651-cb8c-4055-8b56-3ac68f28d5c9",
+    "6eba8359-9786-4545-a9b2-2f1415807853",
+    "76fe4ab7-6224-44ef-afba-92910655c87d",
+    "1c37d375-3921-4d80-83c3-246e4891a807"
+  ]
+}
