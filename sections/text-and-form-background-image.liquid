@@ -24,9 +24,16 @@
 {%- endif -%}
 
 {%- style -%}
-    #Banner-{{ section.id }}::after {
-      opacity: {{ section.settings.image_overlay_opacity | divided_by: 100.0 }};
-    }
+ .banner__media::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, {{ section.settings.image_overlay_opacity | divided_by: 100.0 }});
+  z-index: 1;
+}
 
     .form-container {
       background-color: #fff;
