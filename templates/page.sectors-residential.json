@@ -125,7 +125,7 @@
         "background_style": "primary",
         "button_label": "Contact Us",
         "button_link": "shopify:\/\/pages\/fast-free-quotes",
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 8,
