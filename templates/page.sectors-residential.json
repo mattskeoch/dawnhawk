@@ -192,6 +192,60 @@
         "padding_bottom": 36
       }
     },
+    "4d7e9a1c-07ff-4cd9-8be3-143ac7feebdd": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21007367962898__4d7e9a1c-07ff-4cd9-8be3-143ac7feebdd-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Area-Web.webp",
+            "title": "Area \/ Size",
+            "text": "<p>Even just knowing a rough area size will be helpful. We can properly measure your space at a later date.<\/p>",
+            "link_label": "Read More",
+            "link": "https:\/\/www.hawkconcretefloorcoatings.com.au\/how-to-measure-your-floor-in-7-easy-steps\/"
+          }
+        },
+        "template--21007367962898__4d7e9a1c-07ff-4cd9-8be3-143ac7feebdd-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21007367962898__4d7e9a1c-07ff-4cd9-8be3-143ac7feebdd-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21007367962898__4d7e9a1c-07ff-4cd9-8be3-143ac7feebdd-column-1",
+        "template--21007367962898__4d7e9a1c-07ff-4cd9-8be3-143ac7feebdd-column-2",
+        "template--21007367962898__4d7e9a1c-07ff-4cd9-8be3-143ac7feebdd-column-3"
+      ],
+      "settings": {
+        "title": "Things to Consider When Requesting a Quote for Residential Flooring",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "aac9d57b-556f-4275-9747-1b0a005b63eb": {
       "type": "multicolumn",
       "blocks": {
@@ -661,6 +715,7 @@
     "ae9a06aa-ca5d-41cb-9ef5-f65118eaa8cc",
     "3f4a4c1c-b114-4f8b-bded-62158e3ff021",
     "098cb74d-0bbf-4c61-b89c-6990f608beb1",
+    "4d7e9a1c-07ff-4cd9-8be3-143ac7feebdd",
     "aac9d57b-556f-4275-9747-1b0a005b63eb",
     "603ac2a9-1d34-4ae0-bd6c-99281d6efe98",
     "5c211651-cb8c-4055-8b56-3ac68f28d5c9",
