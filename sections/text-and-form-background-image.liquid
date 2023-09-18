@@ -42,6 +42,27 @@
       max-width: 310px;
     }
   }
+
+    .banner__row {
+    display: flex;
+  }
+  
+  .banner__column {
+    flex: 1;
+  }
+  
+  .banner__column-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  @media screen and (max-width: 749px) {
+    .banner__column-hide-on-mobile {
+      display: none;
+    }
+  }
 {%- endstyle -%}
 
 {%- liquid
@@ -126,8 +147,17 @@
       }}
     </div>
   {%- endif -%}
-  <div class="banner__content banner__content--middle-right  page-width{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
-    <div class="form-container {% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
+<div class="banner__row page-width{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
+
+      <div class="banner__column banner__column-content">
+      <h2>Your Header Text Here</h2>
+      <p>Your paragraph text here.</p>
+      <a href="#" class="btn">Your Button</a>
+    </div>
+   <!-- Column 2 -->
+    <div class="banner__column banner__column-hide-on-mobile">
+      <div class="banner__content banner__content--middle-right">
+        <div class="form-container {% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
       {%- unless section.settings.title == blank -%}
         <div class="title-wrapper-with-link title-wrapper--self-padded-mobile title-wrapper--no-top-margin">
           <h2 class="title inline-richtext {{ section.settings.heading_size }}">
