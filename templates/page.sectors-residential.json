@@ -125,7 +125,7 @@
         "background_style": "primary",
         "button_label": "Contact Us",
         "button_link": "shopify:\/\/pages\/fast-free-quotes",
-        "color_scheme": "scheme-230551f2-028b-49d5-a7bf-2e8ee2bd12be",
+        "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 8,
@@ -255,7 +255,7 @@
       ],
       "settings": {
         "title": "Things to Consider When Requesting a Quote for Residential Flooring",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "square",
         "columns_desktop": 5,
