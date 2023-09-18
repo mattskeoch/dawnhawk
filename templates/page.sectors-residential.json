@@ -234,13 +234,24 @@
             "link_label": "Read More",
             "link": "https:\/\/www.hawkconcretefloorcoatings.com.au\/existing-floor-removal\/"
           }
+        },
+        "1460fe06-5d7a-4ce5-9578-b38823334cb8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wet-Area.png",
+            "title": "Water Proofing",
+            "text": "<p>Will the floor come into contact with rain or other large volumes of water?<\/p>",
+            "link_label": "Read More",
+            "link": "https:\/\/www.hawkconcretefloorcoatings.com.au\/waterproofing\/"
+          }
         }
       },
       "block_order": [
         "template--21007367962898__4d7e9a1c-07ff-4cd9-8be3-143ac7feebdd-column-1",
         "template--21007367962898__4d7e9a1c-07ff-4cd9-8be3-143ac7feebdd-column-2",
         "template--21007367962898__4d7e9a1c-07ff-4cd9-8be3-143ac7feebdd-column-3",
-        "27cf984b-fd0e-4093-ac2d-d935002f8378"
+        "27cf984b-fd0e-4093-ac2d-d935002f8378",
+        "1460fe06-5d7a-4ce5-9578-b38823334cb8"
       ],
       "settings": {
         "title": "Things to Consider When Requesting a Quote for Residential Flooring",
