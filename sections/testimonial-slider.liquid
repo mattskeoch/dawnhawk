@@ -26,27 +26,27 @@
     </div>
   {%- endunless -%}
 
-<div class="slider">
-  <input type="radio" name="slider" title="slide1" checked="checked" class="slider__nav"/>
-  <input type="radio" name="slider" title="slide2" class="slider__nav"/>
-  <input type="radio" name="slider" title="slide3" class="slider__nav"/>
-  <input type="radio" name="slider" title="slide4" class="slider__nav"/>
-  <div class="slider__inner">
-    <div class="slider__contents"><i class="slider__image fa fa-codepen"></i>
-      <h2 class="slider__caption">codepen</h2>
-      <p class="slider__txt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At cupiditate omnis possimus illo quos, corporis minima!</p>
+<div class="testslider">
+  <input type="radio" name="slider" title="slide1" checked="checked" class="testslider__nav"/>
+  <input type="radio" name="slider" title="slide2" class="testslider__nav"/>
+  <input type="radio" name="slider" title="slide3" class="testslider__nav"/>
+  <input type="radio" name="slider" title="slide4" class="testslider__nav"/>
+  <div class="testslider__inner">
+    <div class="testslider__contents"><i class="testslider__image fa fa-codepen"></i>
+      <h2 class="testslider__caption">codepen</h2>
+      <p class="testslider__txt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At cupiditate omnis possimus illo quos, corporis minima!</p>
     </div>
-    <div class="slider__contents"><i class="slider__image fa fa-newspaper-o"></i>
-      <h2 class="slider__caption">newspaper-o</h2>
-      <p class="slider__txt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At cupiditate omnis possimus illo quos, corporis minima!</p>
+    <div class="testslider__contents"><i class="testsliderr__image fa fa-newspaper-o"></i>
+      <h2 class="testslider__caption">newspaper-o</h2>
+      <p class="testslider__txt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At cupiditate omnis possimus illo quos, corporis minima!</p>
     </div>
-    <div class="slider__contents"><i class="slider__image fa fa-television"></i>
+    <div class="testslider__contents"><i class="testslider__image fa fa-television"></i>
       <h2 class="slider__caption">television</h2>
       <p class="slider__txt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At cupiditate omnis possimus illo quos, corporis minima!</p>
     </div>
-    <div class="slider__contents"><i class="slider__image fa fa-diamond"></i>
-      <h2 class="slider__caption">diamond</h2>
-      <p class="slider__txt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At cupiditate omnis possimus illo quos, corporis minima!</p>
+    <div class="testslider__contents"><i class="testslider__image fa fa-diamond"></i>
+      <h2 class="testslider__caption">diamond</h2>
+      <p class="testslider__txt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At cupiditate omnis possimus illo quos, corporis minima!</p>
     </div>
   </div>
 </div>
@@ -172,7 +172,7 @@
 {% endschema %}
 
 {% stylesheet %}
-  .slider {
+  .testslider {
   height: 100%;
   position: relative;
   overflow: hidden;
@@ -192,7 +192,7 @@
       -ms-flex-pack: center;
           justify-content: center;
 }
-.slider__nav {
+.testslider__nav {
   width: 12px;
   height: 12px;
   margin: 2rem 12px;
@@ -208,23 +208,23 @@
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
 }
-.slider__nav:checked {
+.testslider__nav:checked {
   -webkit-animation: check 0.4s linear forwards;
           animation: check 0.4s linear forwards;
 }
-.slider__nav:checked:nth-of-type(1) ~ .slider__inner {
+.testslider__nav:checked:nth-of-type(1) ~ .testslider__inner {
   left: 0%;
 }
-.slider__nav:checked:nth-of-type(2) ~ .slider__inner {
+.testslider__nav:checked:nth-of-type(2) ~ .testslider__inner {
   left: -100%;
 }
-.slider__nav:checked:nth-of-type(3) ~ .slider__inner {
+.testslider__nav:checked:nth-of-type(3) ~ .testslider__inner {
   left: -200%;
 }
-.slider__nav:checked:nth-of-type(4) ~ .slider__inner {
+.testslider__nav:checked:nth-of-type(4) ~ .testslider__inner {
   left: -300%;
 }
-.slider__inner {
+.testslider__inner {
   position: absolute;
   top: 0;
   left: 0;
@@ -240,7 +240,7 @@
       -ms-flex-flow: row nowrap;
           flex-flow: row nowrap;
 }
-.slider__contents {
+.testslider__contents {
   height: 100%;
   padding: 2rem;
   text-align: center;
@@ -264,17 +264,17 @@
       -ms-flex-pack: center;
           justify-content: center;
 }
-.slider__image {
+.testslider__image {
   font-size: 2.7rem;
       color: #2196F3;
 }
-.slider__caption {
+.testslider__caption {
   font-weight: 500;
   margin: 2rem 0 1rem;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   text-transform: uppercase;
 }
-.slider__txt {
+.testslider__txt {
   color: #999;
   margin-bottom: 3rem;
   max-width: 300px;
