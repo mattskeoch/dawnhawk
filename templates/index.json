@@ -613,6 +613,48 @@
         "padding_top": 48,
         "padding_bottom": 48
       }
+    },
+    "2073303c-f7b8-41ce-b147-4a4d04e78c1e": {
+      "type": "testimonial-slider",
+      "blocks": {
+        "template--20192202883346__2073303c-f7b8-41ce-b147-4a4d04e78c1e-quote-1": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Add customer reviews and testimonials.<\/p>",
+            "author": "Author’s name",
+            "link": ""
+          }
+        },
+        "template--20192202883346__2073303c-f7b8-41ce-b147-4a4d04e78c1e-quote-2": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Add customer reviews and testimonials.<\/p>",
+            "author": "Author’s name",
+            "link": ""
+          }
+        },
+        "template--20192202883346__2073303c-f7b8-41ce-b147-4a4d04e78c1e-quote-3": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Add customer reviews and testimonials.<\/p>",
+            "author": "Author’s name",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20192202883346__2073303c-f7b8-41ce-b147-4a4d04e78c1e-quote-1",
+        "template--20192202883346__2073303c-f7b8-41ce-b147-4a4d04e78c1e-quote-2",
+        "template--20192202883346__2073303c-f7b8-41ce-b147-4a4d04e78c1e-quote-3"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "heading_size": "h1",
+        "button_label": "View More",
+        "button_link": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -628,6 +670,7 @@
     "526a363a-fd87-4df8-bd3e-e095c1eec215",
     "4dfab330-eac6-4219-bb4f-758cc2bb1ed7",
     "92f005d4-f21e-4f14-834f-7c39de13635d",
-    "4a1b3c5f-c871-4067-a952-015659a6fd1c"
+    "4a1b3c5f-c871-4067-a952-015659a6fd1c",
+    "2073303c-f7b8-41ce-b147-4a4d04e78c1e"
   ]
 }
